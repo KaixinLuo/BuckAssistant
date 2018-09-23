@@ -17,7 +17,7 @@ brain = DiscoveryV1(
     url='https://gateway.watsonplatform.net/discovery/api'
 )
 
-class Brain:
+class ClassInfoModule:
     def __init__(self,kernel:DiscoveryV1):
         self.kernel = kernel
         self.currentEnvironment = kernel.list_environments(name = 'byod')['environments'][0]['environment_id']
@@ -34,6 +34,5 @@ class Brain:
         return {k:[(e["text"],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in r.items()}
 
 
-b = Brain(brain)
 
-print(b.retrieve_docs_by_confidence("deliang wang")["CourseInfo"])
+
