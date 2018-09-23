@@ -26,19 +26,24 @@ except smtplib.SMTPException:
 '''
 
 
+def construct_query_email( question, student_name):
+    email = 'Dear advisor, \n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time or could you tell me about it via email?\n\nBest,\n{}'.format(
+        question, student_name)
+    return email
+
+
+def construct_appointment_email(professor_name, question, student_name):
+    email = 'Dear Prof. {},\n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time to hold this appointment?\n\nBest,\n{}'.format(
+        professor_name, question, student_name)
+    return email
+
 class EmailModule:
     def __init__(self,mail_host='smtp-mail.outlook.com',port = 587):
         self.mail_host = mail_host
         self.port = port
         self.server = smtplib.SMTP()
 
-    def construct_email_advisor(self,question,student_name):
-        email='Dear advisor, \n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time or could you tell me about it via email?\n\nBest,\n{}'.format(question,student_name)
-        return email
 
-    def construct_email_professor(self,professor_name,question,student_name):
-        email='Dear Prof. {},\n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time to hold this appointment?\n\nBest,\n{}'.format(professor_name,question,student_name)
-        return email
 
     def login(self,uname,pswd):
         self.username = uname
