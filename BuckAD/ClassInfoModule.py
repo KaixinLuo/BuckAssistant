@@ -22,17 +22,19 @@ class ClassInfoModule:
         self.kernel = kernel
         self.currentEnvironment = kernel.list_environments(name = 'byod')['environments'][0]['environment_id']
         self.collectionIndex = {e["name"]:e["collection_id"] for e in kernel.list_collections(environment_id=self.currentEnvironment)["collections"]}
+        self.query_response = None
 
-    def __enter__(self,kernel:DiscoveryV1):
+    def run_query(self,nlq):
+        self.query_response = {name:self.kernel.query(self.currentEnvironment, col_id, natural_language_query=nlq) for (name, col_id) in self.collectionIndex.items()}
 
-    def retrieve_first_doc_text(self,nl_query):
-        return {
-        name: self.kernel.query(self.currentEnvironment, col_id, natural_language_query=nl_query)["results"][0]["text"]
-        for (name, col_id) in self.collectionIndex.items()}
+    def num_of_result(self):
+        return {name:elem["matching_results"] for (name,elem) in self.query_response.items()}
+
+    def retrieve_first_doc_text(self):
+        return {name: r["results"][0]["text"] for (name, r) in self.query_response}
 
     def retrieve_docs_with_score(self,query,key = "text"):
-        r = {name:self.kernel.query(self.currentEnvironment, col_id, natural_language_query=query)for (name,col_id) in self.collectionIndex.items()}
-        return {k:[(e["text"],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in r.items()}
+        return {k:[(e["text"],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in self.query_response.items()}
 
 
 
