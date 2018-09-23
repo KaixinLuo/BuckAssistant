@@ -1,0 +1,11 @@
+CSE 2321 - Foundations I: Discrete Structures
+Description:Propositional and first-order logic; basic proof techniques; graphs, trees; analysis of algorithms; asymptotic analysis; recurrence relations.Prereq: 2122 (230), 2123 (214), or 2221 (222); and Math 1151 (152), or 1161. Concur (for students with credit for 2221): 2231. Not open to students with credit for 625 or 680. Enrollment Requirements: Prereq: 2122 (230), 2123 (214), or 2221 (222); and Math 1151 (152), or 1161. Concur (for students with credit for 2221): 2231. Not open to students with credit for 625 or 680.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Charles Estill,Timothy Carpenter,Michael Fritz,Ario Salmasi,Alfred Rossi,Anton Bobkov,Jason Hulse,Doreen Close,Justin Eldridge,Roman Ilin,Paolo Bucci,Diego Zaccai 
+Open Seat Checker:Get notified when CSE 2321 has an open seat
+Schedule Planner:Add CSE 2321 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF, TuTh, MW
+Avg. Class Size:34
+Avg. Sections:12

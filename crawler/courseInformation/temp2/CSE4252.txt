@@ -1,0 +1,11 @@
+CSE 4252 - Programming in C++
+Description:Syntax and pragmatics of C++ programming; C++ types, arrays, classes, pointers; objects and classes; compile-time vs. run-time picture; inheritance; template classes.Prereq: 2231. Not open to students with credit for 459.22. This course is graded S/U.
+Credits:1
+Attributes:Not eligible for College Credit Plus program
+Recent Professors:Yihang Du,Sangeeta Kumari 
+Open Seat Checker:Get notified when CSE 4252 has an open seat
+Schedule Planner:Add CSE 4252 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:M
+Avg. Class Size:40
+Avg. Sections:1

@@ -1,0 +1,15 @@
+CSE 5052 - Survey of Artificial Intelligence for Non-Majors
+Description
+Survey of the basic concepts and techniques in artificial intelligence, including problem solving, knowledge representation, and machine learning. Prereq: 1211, 1221, 1222, 1223, or 2221, or Grad standing. Not open to students with credit for 3521 (630), 4521, or 5521, or students enrolled in a CSE or CIS major.
+Recent Professors
+James Davis 
+Open Seat Checker
+Get notified when CSE 5052 has an open seat
+Schedule Planner
+Add CSE 5052 to your schedule
+Recent Semesters
+Spring 2019, Spring 2018
+Offered
+TuTh
+Avg. Sections
+1

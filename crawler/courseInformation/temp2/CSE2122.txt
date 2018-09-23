@@ -1,0 +1,11 @@
+CSE 2122 - Data Structures Using C++
+Description:Introduction to programming in C++ and object-oriented programming; encapsulation using classes, inheritance, etc.Prereq: 1222 (202). Not open to students with credit for 230.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Armin Bashizade,Ankita Sikdar 
+Open Seat Checker:Get notified when CSE 2122 has an open seat
+Schedule Planner:Add CSE 2122 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:WF
+Avg. Class Size:40
+Avg. Sections:1

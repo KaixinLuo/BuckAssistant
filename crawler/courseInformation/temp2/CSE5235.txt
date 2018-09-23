@@ -1,0 +1,8 @@
+CSE 5235 - Applied Enterprise Architectures and Services
+Description:Modeling/analysis of complex enterprise architectures; enterprise patterns (workflow, broker, warehousing); methods for service performance (lean, ontologies, data mining, etc.); emerging topics in semantic cyber-infrastructures, social computation.Prereq: 5911 (758 and 762), 5912 (786), 5913 (682), 5914 (731), 5915 (772), or 778.
+Recent Professors:Leon Madrid 
+Open Seat Checker:Get notified when CSE 5235 has an open seat
+Schedule Planner:Add CSE 5235 to your schedule
+Recent Semesters:Spring 2019, Spring 2018
+Offered:WF
+Avg. Sections:1

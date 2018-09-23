@@ -1,0 +1,12 @@
+CSE 1222 - Introduction to Computer Programming in C++ for Engineers and Scientists
+Description:Introduction to computer programming and to problem solving techniques using computer programs with applications in engineering and the physical sciences; algorithm development; programming lab experience.Concur: Math 1151 or 1161. Not open to students with credit for 202, Engr 1281.01, or 1281.02. This course is available for EM credit. Cross-listed in Engr.
+Credits:3
+Attributes:Level 1 CCP course
+NWK LMA MNS MRN Course Fee $50:EM test administered by department of instruction
+Recent Professors:Nikhil Shandilya,Debanjan Adak,Venkata Tummala,Yuzhou Liu,Tai Pan,Mudit Saraf,Lucas Magee,Eduardo Gainza,Arunima Srivatava,Xingya Zhao,Devi Kumar,Hassan Taherian,Scott Lavigne,Pavani Komati,Sreeja Thoom,Xiang Li 
+Open Seat Checker:Get notified when CSE 1222 has an open seat
+Schedule Planner:Add CSE 1222 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, MWF, F, MW
+Avg. Class Size:40
+Avg. Sections:23

@@ -1,0 +1,11 @@
+CSE 3421 - Introduction to Computer Architecture
+Description:Organization of hardware and software in modern computer systems, including instruction set design, processor control, ALU design, pipelining, multicores and accelerators, and memory subsystem design.Prereq: 2231 or 321, and 2421, 2560, 265, or 360, and 2000 or 261. Not open to students with credit for 5421 (675.01) or 675.02.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Mircea-Radu Teodorescu,Gojko Babic,Christopher Stewart 
+Open Seat Checker:Get notified when CSE 3421 has an open seat
+Schedule Planner:Add CSE 3421 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh
+Avg. Class Size:40
+Avg. Sections:1

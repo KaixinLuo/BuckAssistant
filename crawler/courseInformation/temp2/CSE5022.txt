@@ -1,0 +1,10 @@
+CSE 5022 - Software I: Software Components
+Description:Intellectual foundations of software engineering; design-by-contract principles; mathematical modeling of software functionality; component-based software from client perspective; layered data representation. Previous programming experience in any language required. Prereq: At least one term of Calculus. Not open to students with credit for 2221, 2231, 4221, 321, or 502. Not open to students enrolled in a CSE or CIS major.
+Credits:3
+Recent Professors:Paolo Bucci,Adam Grupa,Matthew Boggus,Bettina Bair,Robert Latour,Alan Weide,Swaroop Joshi,Benjamin Trevor 
+Open Seat Checker:Get notified when CSE 5022 has an open seat
+Schedule Planner:Add CSE 5022 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, WF
+Avg. Class Size:40
+Avg. Sections:11

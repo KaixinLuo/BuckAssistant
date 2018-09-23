@@ -1,0 +1,10 @@
+{
+    "title": "CSE 5349 - Intermediate Studies in Programming Languages\n",
+    "description": "Intermediate-level topics in programming languages. Repeatable to a maximum of 12 cr hrs. Class Notes: NOTE: Please see the CSE undergraduate advising office in DL374 to request enrollment in this course.Description:General-purpose software must become more parallel in order to scale to microprocessors that are providing more, instead of faster, cores. However, programmers using high-performance, general-purpose languages such as Java and C++ are basically stuck using shared memory with locks, making it hard to achieve both parallelism and correctness. Software and hardware systems and dynamic and static program analyses can provide better support for achieving correct parallelism, but existing approaches have serious limitations or drawbacks.In this course, we will explore existing and future solutions for providing runtime support for correct, parallel systems. Students will read papers, discuss in small groups, write critiques, and lead in-class discussions. Students will undertake a project focused on the research areas explored in the course.\n",
+    "credits": null,
+    "attributes": null,
+    "professors": "Michael Bond \n",
+    "open_time": "Spring 2019, Spring 2018\n",
+    "average_size": null,
+    "average_sections": 1
+}

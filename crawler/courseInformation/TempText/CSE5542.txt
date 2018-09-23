@@ -1,0 +1,15 @@
+CSE 5542 - Real-Time Rendering
+Description
+Comprehensive list of topics in real-time rendering using OpenGL and GLSL, including coordinate systems, transformations, viewing, illumination, texture mapping, and shader-based algorithms.Prereq: 3901 (560) or 3902 or 3903, and Math 2568 (568) or 571. Not open to students with credit for 781.
+Recent Professors
+Han-Wei Shen,Roger Crawfis 
+Open Seat Checker
+Get notified when CSE 5542 has an open seat
+Schedule Planner
+Add CSE 5542 to your schedule
+Recent Semesters
+Fall 2018, Fall 2017
+Offered
+TuTh
+Avg. Sections
+1

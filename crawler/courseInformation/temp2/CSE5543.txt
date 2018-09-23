@@ -1,0 +1,8 @@
+CSE 5543 - Geometric Modeling
+Description:Common algorithmic and mathematical techniques for modeling geometric objects in computer graphics and CAD applications; sample based modeling, mesh generation, and hierarchical representations.Prereq: Math 2568 (568) or 571. Not open to students with credit for 784.
+Recent Professors:Tamal Dey 
+Open Seat Checker:Get notified when CSE 5543 has an open seat
+Schedule Planner:Add CSE 5543 to your schedule
+Recent Semesters:Spring 2018
+Offered:TuTh
+Avg. Sections:1

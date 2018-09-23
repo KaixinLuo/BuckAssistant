@@ -1,0 +1,8 @@
+CSE 5462 - Network Programming
+Description:IP-based socket programming in C/C++, TinyOS programming in NesC.Prereq: 3461, 5461, or ECE 3561.
+Recent Professors:David Ogle 
+Open Seat Checker:Get notified when CSE 5462 has an open seat
+Schedule Planner:Add CSE 5462 to your schedule
+Recent Semesters:Spring 2019, Spring 2018
+Offered:TuTh
+Avg. Sections:1

@@ -1,0 +1,11 @@
+CSE 5321 - Automata and Formal Languages
+Description:Machine-based and grammatical models of computation; finite automata and regular languages, pushdown automata and context-free languages, Turing machines; non-determinism; Church's Thesis; halting problem. Prereq: 2231 or 321, and 2421 or 360, and 2331 or Math 566. Not open to students with credit for 3321 (625).
+Credits:2
+Attributes:Level 1 CCP course
+Recent Professors:Doreen Close,Michael Fritz 
+Open Seat Checker:Get notified when CSE 5321 has an open seat
+Schedule Planner:Add CSE 5321 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, MWF
+Avg. Class Size:40
+Avg. Sections:2

@@ -1,0 +1,10 @@
+{
+    "title": "CSE 6421 - Computer Architecture\n",
+    "description": "Principles and tradeoffs behind the design of modern computer architectures, including instruction-level parallelism, memory system design, advanced cache architectures, cache coherence, multiprocessors, energy-efficient and embedded architectures. Prereq: 3431 (660) or 5431, and 3421 (675), 5421, or ECE 5362 (662). Not open to students with credit for 775.\n",
+    "credits": 3.0,
+    "attributes": null,
+    "professors": "Mircea-Radu Teodorescu \n",
+    "open_time": "Fall 2018, Fall 2017\n",
+    "average_size": null,
+    "average_sections": 1
+}

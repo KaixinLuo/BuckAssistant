@@ -1,0 +1,11 @@
+CSE 2451 - Advanced C Programming
+Description:Advanced C features for students with significant programming experience in another language. Prereq: 2221 or 222. Concur: 2231 or 321. Not open to students with credit for 2421. Class Notes: This section of 2451 will also meet in the lab (DL280) some of the time as specified in class.
+Credits:2
+Attributes:Level 1 CCP course
+Recent Professors:Gangyi Zhu,Kaan Genc 
+Open Seat Checker:Get notified when CSE 2451 has an open seat
+Schedule Planner:Add CSE 2451 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:M
+Avg. Class Size:40
+Avg. Sections:1

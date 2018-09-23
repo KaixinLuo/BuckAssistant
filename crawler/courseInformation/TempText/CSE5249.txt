@@ -1,0 +1,15 @@
+CSE 5249 - Intermediate Studies in Databases
+Description
+Intermediate-level topics in databases. Repeatable to a maximum of 12 cr hrs. Class Notes: TITLE: Human-Machine Collaborative Problem Solving in Data Mining, Databases, and AIPre-reqs: CSE5243, CSE5523, or approval by the instructor.
+Recent Professors
+Huan Sun,Spyridon Blanas 
+Open Seat Checker
+Get notified when CSE 5249 has an open seat
+Schedule Planner
+Add CSE 5249 to your schedule
+Recent Semesters
+Spring 2019, Spring 2018, Fall 2017
+Offered
+M, TuTh
+Avg. Sections
+1

@@ -1,0 +1,19 @@
+CSE 5032 - Foundations I: Discrete Structures
+Description
+Propositional and first-order logic; basic proof techniques; graphs, trees; analysis of algorithms; asymptotic analysis; recurrence relations.Prereq: 5022 or equiv. Not open to students with credit for 2321, 625, or 680.
+Credits
+2
+Recent Professors
+Charles Estill,Timothy Carpenter,Michael Fritz,Paolo Bucci,Doreen Close,Diego Zaccai 
+Open Seat Checker
+Get notified when CSE 5032 has an open seat
+Schedule Planner
+Add CSE 5032 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+MWF
+Avg. Class Size
+40
+Avg. Sections
+4

@@ -1,0 +1,11 @@
+CSE 5341 - Principles of Programming Languages
+Description:Formal languages and grammars; recursive descent parsing; data types, expressions, control structures, parameter passing; compilers and interpreters; memory management; functional programming principles. Prereq: 2231, 2331 (680) and 2421, and 3901 (560), 3902, or 3903. Not open to students with credit for 3341 (655).
+Credits:2
+Attributes:Level 1 CCP course
+Recent Professors:Swaroop Joshi,Wayne Heym,Neelam Soundarajan,Michael Bond 
+Open Seat Checker:Get notified when CSE 5341 has an open seat
+Schedule Planner:Add CSE 5341 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF
+Avg. Class Size:40
+Avg. Sections:3

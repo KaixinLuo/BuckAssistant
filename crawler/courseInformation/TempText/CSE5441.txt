@@ -1,0 +1,15 @@
+CSE 5441 - Introduction to Parallel Computing
+Description
+Parallel programming models; sequential and parallel performance issues; high-performance computer architecture; design, analysis, implementation and performance evaluation of parallel algorithms.Prereq: 2231, 2321 and 2451, and Math 2568 (568) or 571, and 2421 or ECE 2560 (265); or Grad standing. Not open to students with credit for 621.
+Recent Professors
+Jeffrey Jones,Anirudh Jonnadula 
+Open Seat Checker
+Get notified when CSE 5441 has an open seat
+Schedule Planner
+Add CSE 5441 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+MWF, TuTh
+Avg. Sections
+2

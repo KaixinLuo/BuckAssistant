@@ -1,0 +1,15 @@
+CSE 5236 - Mobile Application Development
+Description
+Mobile application development frameworks; Architecture, design and engineering issues, techniques, methodologies for mobile application development.Prereq: 3901 or 3902 or 3903 (560).
+Recent Professors
+Adam Champion 
+Open Seat Checker
+Get notified when CSE 5236 has an open seat
+Schedule Planner
+Add CSE 5236 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+WF, MWF
+Avg. Sections
+2

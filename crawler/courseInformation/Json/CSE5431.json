@@ -1,0 +1,10 @@
+{
+    "title": "CSE 5431 - Systems II: Introduction to Operating Systems\n",
+    "description": "Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.Prereq: 5042 or equiv. Not open to students with credit for 2431 or 660.\n",
+    "credits": 2.0,
+    "attributes": null,
+    "professors": "Feng Qin,Yinqian Zhang,Gojko Babic,Doreen Close,Adam Champion,George Green \n",
+    "open_time": "Spring 2019, Fall 2018, Spring 2018, Fall 2017\n",
+    "average_size": 40,
+    "average_sections": 5
+}

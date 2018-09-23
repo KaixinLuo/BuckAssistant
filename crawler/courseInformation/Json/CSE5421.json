@@ -1,0 +1,10 @@
+{
+    "title": "CSE 5421 - Introduction to Computer Architecture\n",
+    "description": "Organization of hardware and software in modern computer systems, including instruction set design, processor control, ALU design, pipelining, multicores and accelerators, and memory subsystem design. Prereq: 2231 or 321, and 2421 (360) or ECE 2560 (265), and 2000 or 261. Not open to students with credit for 3421 (675.01 or 675.02).\n",
+    "credits": 2.0,
+    "attributes": "Level 1 CCP course\n",
+    "professors": "Mircea-Radu Teodorescu,Gojko Babic,Christopher Stewart \n",
+    "open_time": "Spring 2019, Fall 2018, Spring 2018, Fall 2017\n",
+    "average_size": 40,
+    "average_sections": 1
+}

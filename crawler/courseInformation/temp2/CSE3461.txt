@@ -1,0 +1,11 @@
+CSE 3461 - Computer Networking and Internet Technologies
+Description:Computer networks, communication protocols, Internet TCP/IP and applications, wireless communications and network security.Prereq: 2421; or 3430; or 2451 and ECE 2560. Concur: 2431 or 3430. Not open to students with credit for 5461.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Kannan Srinivasan,Adam Champion,Angel Rivera,David Ogle,Morteza Hashemi 
+Open Seat Checker:Get notified when CSE 3461 has an open seat
+Schedule Planner:Add CSE 3461 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, WF, MWF
+Avg. Class Size:40
+Avg. Sections:5

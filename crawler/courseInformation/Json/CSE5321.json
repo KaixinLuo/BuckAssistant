@@ -1,0 +1,10 @@
+{
+    "title": "CSE 5321 - Automata and Formal Languages\n",
+    "description": "Machine-based and grammatical models of computation; finite automata and regular languages, pushdown automata and context-free languages, Turing machines; non-determinism; Church's Thesis; halting problem. Prereq: 2231 or 321, and 2421 or 360, and 2331 or Math 566. Not open to students with credit for 3321 (625).\n",
+    "credits": 2.0,
+    "attributes": "Level 1 CCP course\n",
+    "professors": "Doreen Close,Michael Fritz \n",
+    "open_time": "Spring 2019, Fall 2018, Spring 2018, Fall 2017\n",
+    "average_size": 40,
+    "average_sections": 2
+}

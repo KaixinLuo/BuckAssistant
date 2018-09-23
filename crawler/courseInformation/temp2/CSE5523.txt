@@ -1,0 +1,8 @@
+CSE 5523 - Machine Learning and Statistical Pattern Recognition
+Description:Introduction to basic concepts of machine learning and statistical pattern recognition; techniques for classification, clustering and data representation and their theoretical analysis.Prereq: 3521, 5521, or 5243, and 5522, Stat 3460, or 3470. Not open to students with credit for 735.
+Recent Professors:Raef Bassily,Alan Ritter,Mikhail Belkin,Jihun Hamm 
+Open Seat Checker:Get notified when CSE 5523 has an open seat
+Schedule Planner:Add CSE 5523 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, WF
+Avg. Sections:2

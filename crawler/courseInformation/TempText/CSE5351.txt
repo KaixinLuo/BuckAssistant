@@ -1,0 +1,15 @@
+CSE 5351 - Introduction to Cryptography
+Description
+Foundations of cryptography; mathematical formulations/proofs of security goals; theory and practical constructions of encryption schemes, MACs, digital signatures; zero-knowledge proof systems; cryptographic protocols.Prereq: 2331 (680), 5331, Math 4573 (573), or 4580 (580), and Stat 3460 (427) or 3470. Not open to students with credit for 723 or 794Q.
+Recent Professors
+Ten-Hwang Lai 
+Open Seat Checker
+Get notified when CSE 5351 has an open seat
+Schedule Planner
+Add CSE 5351 to your schedule
+Recent Semesters
+Spring 2018
+Offered
+TuTh
+Avg. Sections
+1

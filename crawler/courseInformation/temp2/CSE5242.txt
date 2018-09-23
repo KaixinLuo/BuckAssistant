@@ -1,0 +1,8 @@
+CSE 5242 - Advanced Database Management Systems
+Description:Transaction management; query processing and optimization; organization of database systems, advanced indexing, multi-dimensional data, similarity-based analysis, performance evaluation, new database applications.Prereq: 3241 or 5241, and 2421 or 5042. Not open to students with credit for 770.
+Recent Professors:Spyridon Blanas,Arnab Nandi 
+Open Seat Checker:Get notified when CSE 5242 has an open seat
+Schedule Planner:Add CSE 5242 to your schedule
+Recent Semesters:Fall 2018, Fall 2017
+Offered:TuTh
+Avg. Sections:1

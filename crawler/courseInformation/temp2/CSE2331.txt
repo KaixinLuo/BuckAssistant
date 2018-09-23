@@ -1,0 +1,11 @@
+CSE 2331 - Foundations II: Data Structures and Algorithms
+Description:Design/analysis of algorithms and data structures; divide-and-conquer; sorting and selection, search trees, hashing, graph algorithms, string matching; probabilistic analysis; randomized algorithms; NP-completeness. Prereq: 2231 or 321, and 2321 or Math 566, and Stat 3460, 3470, or 427. Concur: Math 3345. Not open to students with credit for 5331 (680).
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Diego Zaccai,Kenneth Supowit,Mustafa Hajij,Anton Bobkov,Naeem Shareef,Rephael Wenger,Yusu Wang 
+Open Seat Checker:Get notified when CSE 2331 has an open seat
+Schedule Planner:Add CSE 2331 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF, MW, WF, TuTh
+Avg. Class Size:41
+Avg. Sections:8

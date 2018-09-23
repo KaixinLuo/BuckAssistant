@@ -1,0 +1,19 @@
+CSE 4253 - Programming in C#
+Description
+C# programming for students well-versed in programming with another object-oriented language.Prereq: 2231. Not open to students with credit for 459.24. This course is graded S/U.
+Credits
+1
+Recent Professors
+Richard Kidwell 
+Open Seat Checker
+Get notified when CSE 4253 has an open seat
+Schedule Planner
+Add CSE 4253 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+M
+Avg. Class Size
+40
+Avg. Sections
+1

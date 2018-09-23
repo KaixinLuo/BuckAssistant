@@ -1,0 +1,21 @@
+CSE 5521 - Survey of Artificial Intelligence I: Basic Techniques
+Description
+Survey of the basic concepts and techniques in artificial Intelligence, including problem solving, knowledge representation, and machine learning.Prereq: 2331, or 222 and Math 366. Not open to students with credit for 3521 (630).
+Credits
+2
+Attributes
+Level 1 CCP course
+Recent Professors
+Joseph Barker,Andrew Plummer,Jeremy Morris,Adam Stiff 
+Open Seat Checker
+Get notified when CSE 5521 has an open seat
+Schedule Planner
+Add CSE 5521 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+MWF, WF, TuTh
+Avg. Class Size
+40
+Avg. Sections
+3

@@ -1,0 +1,8 @@
+CSE 5245 - Introduction to Network Science
+Description:Introduction to Network Science; Global and Local Network Measures; PageRank; Community Discovery Algorithms; Network Models; Understanding the role of network analysis in Web and Social network applications.Prereq: 2331.
+Recent Professors:Srinivasan Parthasarathy 
+Open Seat Checker:Get notified when CSE 5245 has an open seat
+Schedule Planner:Add CSE 5245 to your schedule
+Recent Semesters:Spring 2018
+Offered:TuTh
+Avg. Sections:1

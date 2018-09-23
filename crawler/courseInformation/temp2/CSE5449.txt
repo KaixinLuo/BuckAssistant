@@ -1,0 +1,8 @@
+CSE 5449 - Intermediate Studies in Parallel Computing
+Description:Intermediate-level topics in parallel computing. Repeatable to a maximum of 12 cr hrs. Class Notes: Topic: Big Data Management and Analytics in Distributed Systems. Scope of the class: foundations and advanced designs and implementations existing and next generation systems to manage large data on clusters. Pre-requisite: Undergraduate data structures, algorithms analysis and OS classes.
+Recent Professors:Aravind Rajam,Xiaodong Zhang 
+Open Seat Checker:Get notified when CSE 5449 has an open seat
+Schedule Planner:Add CSE 5449 to your schedule
+Recent Semesters:Fall 2018, Fall 2017
+Offered:WF, M
+Avg. Sections:1

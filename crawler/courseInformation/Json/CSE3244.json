@@ -1,0 +1,10 @@
+{
+    "title": "CSE 3244 - Data Management in the Cloud\n",
+    "description": "Systematic organization of data on cloud computing architectures; basic indexing techniques, including B-tree and hash-based indexing; fundamentals of query optimization, including access path selection and cardinality estimation; full and partial replication; data partitioning and distributed task scheduling.Prereq: 3241 or 5241; and 2421 or 3430.\n",
+    "credits": 3.0,
+    "attributes": "Level 1 CCP course\n",
+    "professors": "Christopher Stewart \n",
+    "open_time": "Spring 2019, Fall 2018\n",
+    "average_size": 40,
+    "average_sections": 1
+}

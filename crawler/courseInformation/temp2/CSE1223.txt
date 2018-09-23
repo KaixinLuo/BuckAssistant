@@ -1,0 +1,12 @@
+CSE 1223 - Introduction to Computer Programming in Java
+Description:Introduction to computer programming and to problem solving techniques using computer programs; programming lab experience. Prereq: Not open to students with credit for 201. This course is available for EM credit.
+Credits:3
+Attributes:Level 1 CCP course
+Advanced Placement Program:EM test administered by department of instruction
+Recent Professors:Shivam Modi,Xiang Li,Jeremy Morris,Kawthar Khorassani,Muhammad Javed,Indrajeet Saravanan,Yan Zhao,Daniel Breckenridge,Jeremy Grifski,Bharath Ramesh,Pravinth Vethanayagam,Soham Mukherjee,Jacob Bambeck,Ming Su,Saikat Majumdar,Yufan Xu 
+Open Seat Checker:Get notified when CSE 1223 has an open seat
+Schedule Planner:Add CSE 1223 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF, Th, M, MW
+Avg. Class Size:38
+Avg. Sections:31

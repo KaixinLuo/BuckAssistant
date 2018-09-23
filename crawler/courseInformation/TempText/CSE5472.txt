@@ -1,0 +1,15 @@
+CSE 5472 - Information Security Projects
+Description
+Team-based projects: solve information security problems (mobile/static host/network hardening, intrusion detection and vulnerability scanning, forensics); results communicated through report writing and presentation. Prereq: 3901 (560) or 3902 or 3903, and 3461 or 5461 or 5471. Not open to students with credit for 652.
+Recent Professors
+Steven Romig 
+Open Seat Checker
+Get notified when CSE 5472 has an open seat
+Schedule Planner
+Add CSE 5472 to your schedule
+Recent Semesters
+Fall 2018, Fall 2017
+Offered
+TuTh
+Avg. Sections
+1

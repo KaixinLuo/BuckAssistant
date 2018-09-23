@@ -1,0 +1,11 @@
+CSE 1110 - Introduction to Computing Technology
+Description:A course of general interest giving experience with personal computer software, e.g., word processors and spreadsheets; provides fundamental computer literacy; neither teaches nor requires programming. Prereq: Not open to students with credit for 1111 (101), 1113, or 100. Class Notes: Please note that although the delivery method of this course is distance learning, there are 3 different points during the regular term where attendance on main campus is mandatory: one component of lab 1 must be completed in Caldwell Labs, and the midterm exam and the final exam must be taken onsite. Location to be announced in course syllabus.
+Credits:2
+Attributes:Level 1 CCP course
+Recent Professors:Jingyi Shen,Yung Chen,Naveen Babu,Pragya Arora,Michelle Mallon,Gordon Moon,Jiayi Xu 
+Open Seat Checker:Get notified when CSE 1110 has an open seat
+Schedule Planner:Add CSE 1110 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF, WFM
+Avg. Class Size:84
+Avg. Sections:4

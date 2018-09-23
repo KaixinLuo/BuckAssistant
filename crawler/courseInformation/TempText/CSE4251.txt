@@ -1,0 +1,21 @@
+CSE 4251 - The UNIX Programming Environment
+Description
+Introduction to the UNIX programming environment including: shell programming (csh); regular expressions; makefiles; grep, sed, and awk programming languages.Prereq: 2231 or 321. Not open to students with credit for 459.11. This course is graded S/U.
+Credits
+1
+Attributes
+Not eligible for College Credit Plus program
+Recent Professors
+Sangeeta Kumari,Navnith Ramkrishnan,Manirupa Das 
+Open Seat Checker
+Get notified when CSE 4251 has an open seat
+Schedule Planner
+Add CSE 4251 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+M
+Avg. Class Size
+40
+Avg. Sections
+1

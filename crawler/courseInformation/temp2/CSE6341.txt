@@ -1,0 +1,10 @@
+CSE 6341 - Foundations of Programming Languages
+Description:Conceptual foundations of programming languages: attribute grammars; types; functional languages; language semantics; abstract interpretation. Prereq: 3341 (655) or 5341. Not open to students with credit for 755.
+Credits:3
+Recent Professors:Neelam Soundarajan,Atanas Rountev 
+Open Seat Checker:Get notified when CSE 6341 has an open seat
+Schedule Planner:Add CSE 6341 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MWF, TuTh
+Avg. Class Size:1
+Avg. Sections:1

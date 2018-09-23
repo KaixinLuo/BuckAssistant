@@ -1,0 +1,11 @@
+CSE 1112 - Introduction to Computer-Assisted Problem Solving for Construction Systems Management
+Description:Using productivity software, especially spreadsheets and databases, to solve problems for construction management; relative/absolute cell referencing, logic, functions; relational databases, querying, project integration. Prereq: Not open to students with credit for 1111 (101), 1113, 105, or 200.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Dauntrica Rodgers 
+Open Seat Checker:Get notified when CSE 1112 has an open seat
+Schedule Planner:Add CSE 1112 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuW, M, MTu, W
+Avg. Class Size:40
+Avg. Sections:2

@@ -1,0 +1,10 @@
+{
+    "title": "CSE 2331 - Foundations II: Data Structures and Algorithms\n",
+    "description": "Design/analysis of algorithms and data structures; divide-and-conquer; sorting and selection, search trees, hashing, graph algorithms, string matching; probabilistic analysis; randomized algorithms; NP-completeness. Prereq: 2231 or 321, and 2321 or Math 566, and Stat 3460, 3470, or 427. Concur: Math 3345. Not open to students with credit for 5331 (680).\n",
+    "credits": 3.0,
+    "attributes": "Level 1 CCP course\n",
+    "professors": "Diego Zaccai,Kenneth Supowit,Mustafa Hajij,Anton Bobkov,Naeem Shareef,Rephael Wenger,Yusu Wang \n",
+    "open_time": "Spring 2019, Fall 2018, Spring 2018, Fall 2017\n",
+    "average_size": 41,
+    "average_sections": 8
+}

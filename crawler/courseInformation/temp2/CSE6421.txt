@@ -1,0 +1,9 @@
+CSE 6421 - Computer Architecture
+Description:Principles and tradeoffs behind the design of modern computer architectures, including instruction-level parallelism, memory system design, advanced cache architectures, cache coherence, multiprocessors, energy-efficient and embedded architectures. Prereq: 3431 (660) or 5431, and 3421 (675), 5421, or ECE 5362 (662). Not open to students with credit for 775.
+Credits:3
+Recent Professors:Mircea-Radu Teodorescu 
+Open Seat Checker:Get notified when CSE 6421 has an open seat
+Schedule Planner:Add CSE 6421 to your schedule
+Recent Semesters:Fall 2018, Fall 2017
+Offered:TuTh, MW
+Avg. Sections:1

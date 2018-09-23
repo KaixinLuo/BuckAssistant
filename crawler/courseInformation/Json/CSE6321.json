@@ -1,0 +1,10 @@
+{
+    "title": "CSE 6321 - Computability and Complexity\n",
+    "description": "Turing machines, decidability, recursive enumerability; many-to-one and polynomial-time reductions; NP-completeness, Cook-Levin Theorem; Recursion Theorem. Prereq: 3321 (625) or 5321. Not open to students with credit for 725.\n",
+    "credits": 3.0,
+    "attributes": null,
+    "professors": "Kenneth Supowit \n",
+    "open_time": "Spring 2019, Spring 2018\n",
+    "average_size": null,
+    "average_sections": 1
+}

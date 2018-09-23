@@ -1,0 +1,8 @@
+CSE 5522 - Survey of Artificial Intelligence II: Advanced Techniques
+Description:Survey of advanced concepts, techniques, and applications of artificial intelligence, including knowledge representation, learning, natural language understanding, and vision.Prereq: 3521 (630) or 5521, or Grad standing. Not open to students with credit for 730.
+Recent Professors:Wei Xu,Jihun Hamm,Andrew Plummer,Alan Ritter 
+Open Seat Checker:Get notified when CSE 5522 has an open seat
+Schedule Planner:Add CSE 5522 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, WF
+Avg. Sections:2

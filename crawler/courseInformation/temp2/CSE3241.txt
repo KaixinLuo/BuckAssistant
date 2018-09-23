@@ -1,0 +1,11 @@
+CSE 3241 - Introduction to Database Systems
+Description:Database systems use, logical design, entity-relationship model, normalization, query languages and SQL, relational algebra and calculus, object relational databases, XML, active databases; database design project.Prereq: 2133 or 2231, and 2321. Not open to students with credit for 5241.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Lin Chiu,Leon Madrid,Jeffrey Eden,Neil Kirby,Parker Wiksell,Stephen Gomori,Perumal Krishnasamy,Richard Wagner,Arnab Nandi 
+Open Seat Checker:Get notified when CSE 3241 has an open seat
+Schedule Planner:Add CSE 3241 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MW, TuTh, WF, MWF
+Avg. Class Size:40
+Avg. Sections:7

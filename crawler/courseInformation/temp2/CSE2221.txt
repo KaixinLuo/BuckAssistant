@@ -1,0 +1,12 @@
+CSE 2221 - Software I: Software Components
+Description:Intellectual foundations of software engineering; design-by-contract principles; mathematical modeling of software functionality; component-based software from client perspective; layered data representation. Prereq: 1211 (203) or 1212 or 1221 (205) or 1222 (202) or 1223 (201) or 204 or EnGraph 167 or Engr 1221, or 1281.01H, or 1281.02H, or CSE Placement Level A. Concur: Math 1151 or 1161.01 or 1161.02. Not open to students with credit for 4221, 321, 502, or 5022. This course is available for EM credit. Enrollment Requirements: See catalog description.
+Credits:4
+Attributes:Level 1 CCP course
+NWK LMA MNS MRN Course Fee $50:EM test administered by department of instruction
+Recent Professors:Paolo Bucci,Adam Grupa,Matthew Boggus,Bettina Bair,Robert Latour,Jackson Luken,Alan Weide,Swaroop Joshi,Benjamin Trevor,Austin Gilliam 
+Open Seat Checker:Get notified when CSE 2221 has an open seat
+Schedule Planner:Add CSE 2221 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, WF
+Avg. Class Size:40
+Avg. Sections:29

@@ -1,0 +1,11 @@
+CSE 2112 - Modeling and Problem Solving with Spreadsheets and Databases for Engineers
+Description:Spreadsheet and database modeling/programming concepts and techniques to solve business and engineering related problems; efficient/effective data handling, computational analysis and decision support.Prereq: 1222 (202), 1223 (201), Engr 1281.01H, or 1281.02H. Prereq or concur: Math 1151, 1161.01, or 1161.02. Not open to students with credit for 2111 (200), 1111 (101), 1112 (105), or 1113.
+Credits:3
+Attributes:Level 1 CCP course
+Recent Professors:Avishek Banerjee,Michelle Mallon,Lori Rice 
+Open Seat Checker:Get notified when CSE 2112 has an open seat
+Schedule Planner:Add CSE 2112 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, Tu, Th
+Avg. Class Size:80
+Avg. Sections:2

@@ -1,0 +1,10 @@
+{
+    "title": "CSE 2431 - Systems II: Introduction to Operating Systems\n",
+    "description": "Introduction to operating system concepts: process, CPU scheduling, memory management, file system and storage, and multi-threaded programming.Prereq: 2421 (360); or 2451 (459.21), and ECE 2560 (265). Not open to students with credit for 5431 (660).\n",
+    "credits": 3.0,
+    "attributes": "Level 1 CCP course\n",
+    "professors": "Feng Qin,Yinqian Zhang,Doreen Close,Gojko Babic,Nathaniel Morris,George Green,Adam Champion \n",
+    "open_time": "Spring 2019, Fall 2018, Spring 2018, Fall 2017\n",
+    "average_size": 40,
+    "average_sections": 6
+}

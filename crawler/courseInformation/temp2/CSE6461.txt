@@ -1,0 +1,10 @@
+CSE 6461 - Computer Communication Networks
+Description:Foundational understanding of network analysis, error-control, routing, congestion-control, multi-access, and their examples in the context of the existing communication networks. Prereq: ECE 6001 (804), Stat 3470 (428), 520, or Math 530, or undergraduate course in probability. Not open to students with credit for 861, 862, ECE 6101, 861, or 862. Cross-listed in ECE 6101.
+Credits:3
+Recent Professors:Ness Shroff 
+Open Seat Checker:Get notified when CSE 6461 has an open seat
+Schedule Planner:Add CSE 6461 to your schedule
+Recent Semesters:Fall 2018, Fall 2017
+Offered:TuTh
+Avg. Class Size:50
+Avg. Sections:1

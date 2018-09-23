@@ -1,0 +1,9 @@
+CSE 5539 - Intermediate Studies in Artificial Intelligence
+Description:Intermediate-level topics in artificial intelligence. Repeatable to a maximum of 12 cr hrs. Class Notes: TITLE: Social Media & Text AnalysisNOTE: If you are taking Dr. Wei Xu's AU17 CSE5539 course, you will not get credit for taking this course since the material is too similar to receive credit twice. If you have questions, email Kitty Reeves(.92)Social media provides a massive amount of valuable information and shows us how language is actually used by lots of people. This course will give an overview of prominent research findings on language use in social media. The course will also cover several machine learning algorithms and the core natural language processing techniques for obtaining and processing Twitter data.
+Credits:2
+Recent Professors:Alan Ritter,Wei Xu,Mikhail Belkin 
+Open Seat Checker:Get notified when CSE 5539 has an open seat
+Schedule Planner:Add CSE 5539 to your schedule
+Recent Semesters:Spring 2018, Fall 2017
+Offered:Th, Tu, M
+Avg. Sections:2

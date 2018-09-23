@@ -1,0 +1,10 @@
+{
+    "title": "CSE 5429 - Intermediate Studies in Computer Architecture\n",
+    "description": "Intermediate-level topics in computer architecture. Repeatable to a maximum of 12 cr hrs. Class Notes: NOTE: Please see the CSE undergraduate advising office in DL374 to request enrollment in this course.TITLE: Hardware Accelerators for Machine LearningThis class discusses the state of the art hardware accelerators that will continue to drive the machine learning revolution. We cover existing systems, including NVIDIA Volta, Google TPU, Microsoft Brainwave and others, as well as advanced research designs. The class is centered around reading, critiquing and presenting research and white papers on these topics. There are no exams. A research project will account for most of the grade.\n",
+    "credits": null,
+    "attributes": null,
+    "professors": "Mircea-Radu Teodorescu,Christopher Stewart \n",
+    "open_time": "Spring 2019, Spring 2018, Fall 2017\n",
+    "average_size": null,
+    "average_sections": 1
+}

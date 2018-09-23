@@ -1,0 +1,8 @@
+CSE 5243 - Introduction to Data Mining
+Description:Knowledge discovery, data mining, data preprocessing, data transformations; clustering, classification, frequent pattern mining, anomaly detection, graph and network analysis; applications.Prereq: 3241 or 5241, and 2331, 5331, Stat 3301, or ISE 3200. Not open to students with credit for 674.
+Recent Professors:Jeffrey Jones,Huan Sun,Michael Burkhardt,Jason Hulse 
+Open Seat Checker:Get notified when CSE 5243 has an open seat
+Schedule Planner:Add CSE 5243 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:MW, TuTh, MWF, WF
+Avg. Sections:4

@@ -1,0 +1,21 @@
+CSE 3901 - Project: Design, Development, and Documentation of Web Applications
+Description
+Intensive group project involving design, development, and documentation of a web application; client-side and server-side scripting; communication skills emphasized; builds programming maturity.Prereq: 2231; and 2321; and 2421 or 3430, or 2451 and ECE 2560.
+Credits
+4
+Attributes
+Level 1 CCP course
+Recent Professors
+Naeem Shareef,Robert Joseph,Charles Giles,Paolo Sivilotti 
+Open Seat Checker
+Get notified when CSE 3901 has an open seat
+Schedule Planner
+Add CSE 3901 to your schedule
+Recent Semesters
+Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered
+MWF, MW
+Avg. Class Size
+30
+Avg. Sections
+5

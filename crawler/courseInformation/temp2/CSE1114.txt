@@ -1,0 +1,11 @@
+CSE 1114 - Introduction to Databases Using MS Access
+Description:Database concepts and techniques for efficient/effective data handling, computational analysis and decision support. Prereq: Not open to students with credit for 1111, 1112, or 2111.
+Credits:1.5
+Attributes:Level 1 CCP course
+Recent Professors:Laurie Crawford,Catherine Mckinley 
+Open Seat Checker:Get notified when CSE 1114 has an open seat
+Schedule Planner:Add CSE 1114 to your schedule
+Recent Semesters:Spring 2019, Fall 2018, Spring 2018, Fall 2017
+Offered:TuTh, Tu, Th
+Avg. Class Size:40
+Avg. Sections:2
