@@ -32,6 +32,13 @@ class EmailModule:
         self.port = port
         self.server = smtplib.SMTP()
 
+    def construct_email_advisor(self,question,student_name):
+        email='Dear advisor, \n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time or could you tell me about it via email?\n\nBest,\n{}'.format(question,student_name)
+        return email
+
+    def construct_email_professor(self,professor_name,question,student_name):
+        email='Dear Prof. {},\n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time to hold this appointment?\n\nBest,\n{}'.format(professor_name,question,student_name)
+        return email
 
     def login(self,uname,pswd):
         self.username = uname
@@ -62,7 +69,7 @@ class EmailModule:
 
 s = EmailModule()
 s.login("luo.800@buckeyemail.osu.edu","CykaBlyat233")
-s.send_mail("li.7814@buckeyemail.osu.edu","Kaixin Test","hello!")
+s.send("li.7814@buckeyemail.osu.edu","Kaixin Test","hello!")
 s.log_out()
 
 
