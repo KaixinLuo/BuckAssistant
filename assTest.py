@@ -23,7 +23,7 @@ while True:
         },
     )
     print(response['output']['text'][0])
-    #print(json.dumps(response, indent=4, sort_keys=True))
+    #print(TempText.dumps(response, indent=4, sort_keys=True))
     # print (response['intents'][0].get('intent'))
     if response['intents'][0].get('intent')=='General_Ending':
         break
