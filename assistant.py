@@ -56,14 +56,14 @@ class Assistant:
         # print(response['output']['text'][0])
         print(json.dumps(response, indent=4, sort_keys=True))
         # Add Intend
-        intents=[];
+        intents=[]
         for intent in response.get('intents'):
-            intents.append(intent.get('intent'));
+            intents.append(intent.get('intent'))
         result.append(intents)
         #Add Entity
-        entities = [];
+        entities = []
         for entity in response.get('entities'):
-            entities.append(entity.get('value'));
+            entities.append(entity.get('value'))
         result.append(entities)
         if (toString):
             strresult=''

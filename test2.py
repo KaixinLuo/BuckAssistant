@@ -15,5 +15,5 @@ while user_input!='exit':
     user_input=input('>')
     query=assistant.get_intent_and_entity(user_input,toString=True)
     discovery.run_query(query)
-    result = discovery.retrieve_first_doc_text(discovery)
+    result = discovery.retrieve_first_doc_text()
     print(result)
