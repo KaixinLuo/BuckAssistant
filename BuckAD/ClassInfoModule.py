@@ -34,7 +34,7 @@ class ClassInfoModule:
         return {name: r["results"][0]["text"] for (name, r) in self.query_response}
 
     def retrieve_docs_with_score(self,query,key = "text"):
-        return {k:[(e["text"],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in self.query_response.items()}
+        return {k:[(e[key],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in self.query_response.items()}
 
 
 
