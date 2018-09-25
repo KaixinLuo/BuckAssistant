@@ -1,14 +1,9 @@
 import json
 
 from watson_developer_cloud import DiscoveryV1
-from watson_developer_cloud import AssistantV1
 
-bot = AssistantV1(
-    version='2018-01-01',
-    username='c7721aaf-1c20-4325-bb11-6cfe0cdb8967',
-    password='2UOJ7kgQHbXH',
-    url='https://gateway.watsonplatform.net/discovery/api'
-)
+
+
 
 brain = DiscoveryV1(
     version='2018-01-01',

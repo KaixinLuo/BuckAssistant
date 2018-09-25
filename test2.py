@@ -1,5 +1,5 @@
 from assistant import Assistant
-from BuckAD.ClassInfoModule import Brain
+from BuckAD.DocumentModule import Brain
 from watson_developer_cloud import DiscoveryV1
 assistant=Assistant()
 brain = DiscoveryV1(
