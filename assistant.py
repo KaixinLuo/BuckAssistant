@@ -75,7 +75,7 @@ class Assistant:
             return strresult
         return result
 
-    def get_intent_and_variable(self,messagein,toString=False):
+    def get_intent_and_variable(self,messagein,variable_name, toString=False):
         result=[]
         response = self.assistant.message(
             workspace_id=self.workspace_id,
@@ -94,20 +94,18 @@ class Assistant:
         result.append(intents)
         #Add Entity
         variables = []
-        for course_nums in response.get('context'):
-            variables.append(course_nums.get('course_num'))
+        variables.append(response["context"][variable_name])
+        result.append(" ")
         result.append(variables)
         if (toString):
             strresult=''
             for i in result:
                 strresult+=' '.join(i)
+            print(strresult)
             return strresult
+        
         return result
 
-    def search_instructor_by_course_num(self, result, discovery):
-        document = discovery.retrieve_docs_with_score(result, 'json')
-        names = document["professors"]
-        return names
 
         
 #    def modify_answer_node(self, intent, result):
