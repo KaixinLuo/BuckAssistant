@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="c7e78ebf-7852-4f2e-a097-4a7a1e884ac2" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/BuckAD/ClassInfoModule.py" beforeDir="false" afterPath="$PROJECT_DIR$/BuckAD/ClassInfoModule.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/intentProcessor.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/assistant.py" beforeDir="false" afterPath="$PROJECT_DIR$/assistant.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test2.py" beforeDir="false" afterPath="$PROJECT_DIR$/test2.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -18,10 +18,22 @@
       <file leaf-file-name="test2.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/test2.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+            <state relative-caret-position="306">
+              <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
               <folding>
                 <element signature="e#0#31#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="assistant.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assistant.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="414">
+              <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
+              <folding>
+                <element signature="e#0#46#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -30,8 +42,8 @@
       <file leaf-file-name="ClassInfoModule.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BuckAD/ClassInfoModule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="378">
-              <caret line="33" column="31" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="31" />
+            <state relative-caret-position="252">
+              <caret line="27" column="128" selection-start-line="27" selection-start-column="128" selection-end-line="27" selection-end-column="128" />
               <folding>
                 <element signature="e#0#11#0" expanded="true" />
               </folding>
@@ -39,19 +51,41 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="assistant.py" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/assistant.py">
+      <file leaf-file-name="intentProcessor.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/intentProcessor.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="522">
-              <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
-              <folding>
-                <element signature="e#0#46#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="126">
+              <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSE2112.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/courseInformation/Json/CSE2112.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="5" column="15" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="15" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CSE1110.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crawler/courseInformation/Json/CSE1110.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="252">
+              <caret line="6" column="14" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -67,13 +101,14 @@
       <list>
         <option value="$PROJECT_DIR$/BuckAD/ClassInfoModule.py" />
         <option value="$PROJECT_DIR$/test2.py" />
+        <option value="$PROJECT_DIR$/intentProcessor.py" />
         <option value="$PROJECT_DIR$/assistant.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
+  <component name="ProjectFrameBounds">
     <option name="x" value="-7" />
-    <option name="width" value="814" />
+    <option name="width" value="1267" />
     <option name="height" value="1047" />
   </component>
   <component name="ProjectView">
@@ -93,6 +128,11 @@
               <item name="BuckAssistant" type="b2602c69:ProjectViewProjectNode" />
               <item name="BuckAssistant" type="462c0819:PsiDirectoryNode" />
               <item name="BuckAD" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="BuckAssistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="BuckAssistant" type="462c0819:PsiDirectoryNode" />
+              <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -126,15 +166,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-7" y="0" width="1267" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.38369304" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Event Log" side_tool="true" />
       <window_info anchor="bottom" id="Run" order="2" />
       <window_info anchor="bottom" id="Version Control" />
-      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.32946146" />
+      <window_info active="true" anchor="bottom" id="Python Console" visible="true" weight="0.3326226" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="bottom" id="Terminal" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
@@ -167,10 +207,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/courseInformation/Json/CSE1110.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="6" column="14" selection-start-line="6" selection-start-column="5" selection-end-line="6" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/courseInformation/Json/CSE2112.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="5" column="15" selection-start-line="5" selection-start-column="5" selection-end-line="5" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/BuckAD/ClassInfoModule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="378">
-          <caret line="33" column="31" selection-start-line="33" selection-start-column="8" selection-end-line="33" selection-end-column="31" />
+        <state relative-caret-position="252">
+          <caret line="27" column="128" selection-start-line="27" selection-start-column="128" selection-end-line="27" selection-end-column="128" />
           <folding>
             <element signature="e#0#11#0" expanded="true" />
           </folding>
@@ -179,8 +233,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/test2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="17" lean-forward="true" selection-start-line="18" selection-start-column="17" selection-end-line="18" selection-end-column="17" />
+        <state relative-caret-position="306">
+          <caret line="17" column="34" selection-start-line="17" selection-start-column="34" selection-end-line="17" selection-end-column="34" />
           <folding>
             <element signature="e#0#31#0" expanded="true" />
           </folding>
@@ -189,11 +243,18 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/assistant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="522">
-          <caret line="29" column="32" selection-start-line="29" selection-start-column="32" selection-end-line="29" selection-end-column="32" />
+        <state relative-caret-position="414">
+          <caret line="79" column="40" lean-forward="true" selection-start-line="79" selection-start-column="40" selection-end-line="79" selection-end-column="40" />
           <folding>
             <element signature="e#0#46#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/intentProcessor.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="6" column="31" selection-start-line="6" selection-start-column="31" selection-end-line="6" selection-end-column="31" />
         </state>
       </provider>
     </entry>
