@@ -4,8 +4,6 @@ import json
 
 
 class Assistant:
-
-
     def __init__(self):
         self.user_input = ''
         self.context1 = {}
@@ -46,12 +44,12 @@ class Assistant:
 
 
 
-    def get_intent_and_entity(self,messagein,toString=False):
+    def get_intent_and_entity(self,message_in,to_string=False):
         result=[]
         response = self.assistant.message(
             workspace_id=self.workspace_id,
             input={
-                'text': messagein
+                'text': message_in
             },
             context=self.context1
         )
@@ -66,12 +64,18 @@ class Assistant:
         #Add Entity
         entities = []
         for entity in response.get('entities'):
-            entities.append(entity.get('value'))
+            location_of_entity=entity.get('location')
+            entity_value=message_in[location_of_entity[0]:(location_of_entity[1]+1)]
+            if entity_value not in entities:
+                entities.append(entity_value)
         result.append(entities)
-        if (toString):
+        if (to_string):
             strresult=''
+            print('in if')
             for i in result:
                 strresult+=' '.join(i)
+                strresult+=' '
+                print('#',strresult)
             return strresult
         return result
 

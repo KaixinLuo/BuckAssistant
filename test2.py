@@ -10,10 +10,10 @@ brain = DiscoveryV1(
 )
 discovery=ClassInfoModule(brain)
 user_input=''
-
+query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
 while user_input!='exit':
     user_input=input('>')
-    query=assistant.get_intent_and_entity(user_input,toString=True)
+    query=assistant.get_intent_and_entity(user_input,to_string=True)
     discovery.run_query(query)
     result = discovery.retrieve_first_doc_text()
     print(result)
