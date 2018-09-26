@@ -8,6 +8,7 @@ for js in json_files:
 
 
 def Course_Average_Size_Of(course_num):
+
     course_num=re.sub(r"\D", "", "course_num")
     course_index=json_files.index('CSE'+course_num+'.json')
     return courses_info[course_index].get('average_size')

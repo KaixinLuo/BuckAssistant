@@ -1,3 +1,10 @@
 
 sh.exe.stackdump
 .idea/workspace.xml
+*.iml
+.idea/BuckAssistant.iml
+.idea/modules.xml
+.idea/workspace.xml
+.idea/modules.xml
+*.pyc
+*.pyc

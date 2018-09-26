@@ -5,6 +5,7 @@ import json
 
 class Assistant:
     def __init__(self):
+        self.debug_mode=False;
         self.user_input = ''
         self.context1 = {}
         self.current_action = ''
@@ -55,7 +56,8 @@ class Assistant:
         )
         self.context1 = response['context']
         # print(response['output']['text'][0])
-        print(json.dumps(response, indent=4, sort_keys=True))
+        if self.debug_mode:
+            print(json.dumps(response, indent=4, sort_keys=True))
         # Add Intend
         intents=[]
         for intent in response.get('intents'):
@@ -74,7 +76,6 @@ class Assistant:
         result.append(entities)
         if (to_string):
             strresult=''
-            print('in if')
             strresult=strresult+' '.join(intents)+' '+' '.join(entity_values)
             # for i in result:
             #     strresult+=' '.join(i)

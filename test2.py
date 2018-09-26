@@ -1,6 +1,7 @@
 from assistant import Assistant
 from BuckAD.ClassInfoModule import ClassInfoModule
 from watson_developer_cloud import DiscoveryV1
+import searchEngine
 assistant=Assistant()
 brain = DiscoveryV1(
     version='2018-01-01',
@@ -10,10 +11,21 @@ brain = DiscoveryV1(
 )
 discovery=ClassInfoModule(brain)
 user_input=''
-query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
+# query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
+# queryr=assistant.get_intent_and_entity('who teaches CSE5526',to_string=False)
+
 while user_input!='exit':
     user_input=input('>')
-    query=assistant.get_intent_and_entity(user_input,to_string=True)
-    discovery.run_query(query)
-    result = discovery.retrieve_first_doc_text()
+    queryr=assistant.get_intent_and_entity(user_input,to_string=False)
+    if ('course_num' in queryr[1]):
+        search_parameters = queryr[1].get('course_num')
+    elif ('semesters' in queryr[1]):
+        search_parameters = queryr[1].get('semesters')
+    elif ('sys-number' in queryr[1]):
+        search_parameters = queryr[1].get('sys-number')
+    elif ('sys-person' in queryr[1]):
+        search_parameters = queryr[1].get('sys-person')
+    result = getattr(searchEngine, queryr[0][0])(search_parameters)
+    # discovery.run_query(query)
+    # result = discovery.retrieve_first_doc_text()
     print(result)
