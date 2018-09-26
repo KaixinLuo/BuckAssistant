@@ -62,20 +62,24 @@ class Assistant:
             intents.append(intent.get('intent'))
         result.append(intents)
         #Add Entity
-        entities = []
+        entities = {}
+        entity_values=[]
         for entity in response.get('entities'):
+            entity_name=entity.get('entity')
             location_of_entity=entity.get('location')
             entity_value=message_in[location_of_entity[0]:(location_of_entity[1]+1)]
-            if entity_value not in entities:
-                entities.append(entity_value)
+            if entity_name not in entities:
+                entities[entity_name]=(entity_value)
+                entity_values.append(entity_value)
         result.append(entities)
         if (to_string):
             strresult=''
             print('in if')
-            for i in result:
-                strresult+=' '.join(i)
-                strresult+=' '
-                print('#',strresult)
+            strresult=strresult+' '.join(intents)+' '+' '.join(entity_values)
+            # for i in result:
+            #     strresult+=' '.join(i)
+            #     strresult+=' '
+            #     print('#',strresult)
             return strresult
         return result
 
