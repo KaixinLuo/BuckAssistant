@@ -70,7 +70,7 @@ def Course_Opentime_Of(course_num):
     num = re.sub(r"\D", "", course_num)
     course_num = "CSE " + num
     for course_info in courses_info:
-        if course_num in course_info['title']:
+        if course_info["title"] != None and course_num in course_info['title']:
             return course_info['open_time']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
@@ -81,7 +81,7 @@ def Course_Title_Of(course_num):
     num = re.sub(r"\D", "", course_num)
     course_num = "CSE " + num
     for course_info in courses_info:
-        if course_num in course_info['title']:
+        if course_info['title']!=None and course_num in course_info['title']:
             return course_info['title']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
@@ -92,7 +92,7 @@ def Credit_Course_Is(credits):
     courses =[]
     credits = credits[:len(credits)-1]
     for course_info in courses_info:
-        if credits in str(course_info["credits"]):
+        if course_info["credits"] != None and credits in str(course_info["credits"]):
             courses.append(course_info["title"][:8])
     if len(courses) == 0:
         not_found_message = "\nThere does not exit course of $ credit hours.\n"
@@ -112,12 +112,15 @@ def Instructor_Teaches(name):
     second_char = 0
     for i in range(len(name)):
         if name[i] == " ":
-            second_char = i
+            second_char = i+1
             break
-    name = name[:first_char+1].upper() 
+    if second_char !=0:
+        name = name[:first_char+1].upper() + name[first_char+1:second_char]+ name[second_char:second_char+1].upper() + name[second_char+1:]
+    else :
+        name = name[:first_char+1].upper() + name[first_char+1:]
 
     for course_info in courses_info:
-        if name in course_info['professors']:
+        if course_info['professors'] != None and name in course_info['professors']:
             courses.append(course_info['title'][:8])
     if len(courses) == 0:
         not_found_message = "\nIt seems $ haven't taught any courses in Ohio State University.\n"
@@ -131,10 +134,18 @@ def Instructor_Teaches(name):
         
         return course_names
 def Semester_Has_Courses(semester):
-
+    year = re.sub(r"\D", "", semester)
+    if len(str(year)) == 2:
+        year = "20" + year
+    if semester[0] == 'a' or semester[0] == 'A' or semester[0] == 'F' or semester[0] == 'f':
+        semester = "Fall " + year
+    elif semester[0:3] == "SU" or semester[0:3] == "su" or semester[0:3] == "Su" or semester[0:3] == "sU":
+        semester = "Summer " + year
+    elif semester[0:3] == "Sp" or semester[0:3] == "sp" or semester[0:3] == "sP" or semester[0:3] == "SP":
+        semester = "Spring " + year
     courses = []
     for course_info in courses_info:
-        if semester in course_info["open_time"]:
+        if course_info["open_time"] != None and semester in course_info["open_time"]:
             courses.append(course_info["title"][:8])
     if len(courses) == 0:
         not_found_message = "\nNo course opens in $.\n"
