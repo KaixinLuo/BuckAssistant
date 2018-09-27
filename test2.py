@@ -28,7 +28,7 @@ user_input=input('What is your name?')
 current_user.assign_name(user_input)
 # query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
 # queryr=assistant.get_intent_and_entity('who teaches CSE5526',to_string=False)
-
+print('Thanks! How can I help you today?')
 while user_input!='exit':
     user_input=input('>')
     queryr=assistant.get_intent_and_entity(user_input,to_string=False)
