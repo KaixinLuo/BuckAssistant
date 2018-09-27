@@ -59,18 +59,22 @@ def Course_Instructor_Of(course_num):
 #         return 'Cannot find the given course number'
 
 def Course_Opentime_Of(course_num):
+    num = re.sub(r"\D", "", course_num)
+    course_num = "CSE " + num
     for course_info in courses_info:
-        if course_num in course_info["title"]:
-            return course_info["open_time"]
+        if course_num in course_info['title']:
+            return course_info['open_time']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
     not_found_message.replace("course_num", course_num)
     return not_found_message
     
 def Course_Title_Of(course_num):
+    num = re.sub(r"\D", "", course_num)
+    course_num = "CSE " + num
     for course_info in courses_info:
-        if course_num in course_info["title"]:
-            return course_info["title"]
+        if course_num in course_info['title']:
+            return course_info['title']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
     not_found_message.replace("course_num", course_num)
@@ -110,7 +114,7 @@ def Instructor_Teaches(name):
         
         return course_names
 def Semester_Has_Courses(semester):
-    print(semester)
+
     courses = []
     for course_info in courses_info:
         if semester in course_info["open_time"]:
