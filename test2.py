@@ -38,7 +38,7 @@ while user_input!='exit':
         search_parameters = queryr[1].get('sys-number')
     elif ('sys-person' in queryr[1]):
         search_parameters = queryr[1].get('sys-person')
-    result = getattr(IntentProcessor, queryr[0][0])(search_parameters)
+    result = getattr(intentProcessor, queryr[0][0])(search_parameters)
     # discovery.run_query(query)
     # result = discovery.retrieve_first_doc_text()
     print(result)

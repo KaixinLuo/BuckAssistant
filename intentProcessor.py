@@ -66,8 +66,8 @@ def Course_Opentime_Of(course_num):
             return course_info['open_time']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
-    not_found_message.replace("course_num", course_num)
-    return not_found_message
+    
+    return not_found_message.replace("course_num", course_num)
     
 def Course_Title_Of(course_num):
     num = re.sub(r"\D", "", course_num)
@@ -77,18 +77,19 @@ def Course_Title_Of(course_num):
             return course_info['title']
 
     not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
-    not_found_message.replace("course_num", course_num)
-    return not_found_message
+    return not_found_message.replace("course_num", course_num)
 
 def Credit_Course_Is(credits):
+
     courses =[]
+    credits = credits[:len(credits)-1]
     for course_info in courses_info:
-        if credits == course_info["credits"]:
-            courses.append(course_info["title"][:7])
+        if credits in str(course_info["credits"]):
+            courses.append(course_info["title"][:8])
     if len(courses) == 0:
-        not_found_message = "\nThere does not exit course of $ credits.\n"
-        not_found_message.replace("$", credits)
-        return not_found_message
+        not_found_message = "\nThere does not exit course of $ credit hours.\n"
+        
+        return not_found_message.replace("$", credits)
     else:
         course_names = ""
         for course in courses:
@@ -100,12 +101,12 @@ def Credit_Course_Is(credits):
 def Instructor_Teaches(name):
     courses =[]
     for course_info in courses_info:
-        if name in course_info["professors"]:
-            courses.append(course_info["title"][:7])
+        if name in course_info['professors']:
+            courses.append(course_info['title'][:8])
     if len(courses) == 0:
         not_found_message = "\nIt seems $ haven't taught any courses in Ohio State University.\n"
-        not_found_message.replace("$", name)
-        return not_found_message
+        
+        return not_found_message.replace("$", name)
     else:
         course_names = ""
         for course in courses:
@@ -118,11 +119,11 @@ def Semester_Has_Courses(semester):
     courses = []
     for course_info in courses_info:
         if semester in course_info["open_time"]:
-            courses.append(course_info["title"][:7])
+            courses.append(course_info["title"][:8])
     if len(courses) == 0:
         not_found_message = "\nNo course opens in $.\n"
-        not_found_message.replace("$", semester)
-        return not_found_message
+        
+        return not_found_message.replace("$", semester)
     else:
         course_names = ""
         for course in courses:
