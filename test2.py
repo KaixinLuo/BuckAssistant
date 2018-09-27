@@ -40,9 +40,7 @@ while user_input!='exit':
         search_parameters = queryr[1].get('sys-number')
     elif ('sys-person' in queryr[1]):
         search_parameters = queryr[1].get('sys-person')
-<<<<<<< HEAD
     result = getattr(intentProcessor, queryr[0][0])(search_parameters)
-=======
     if queryr[0]==[]:
         print('Unknown Question')
     elif (queryr[0][0]=='General_Ending'):
@@ -58,7 +56,6 @@ while user_input!='exit':
         result = getattr(intentProcessor, queryr[0][0])(email_module,current_user,question,professor,email)
     else:
         result = getattr(intentProcessor, queryr[0][0])(search_parameters)
->>>>>>> c65ed0cb771195151b198a473ea63cdf55c4a326
     # discovery.run_query(query)
     # result = discovery.retrieve_first_doc_text()
     print(result)

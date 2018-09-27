@@ -108,6 +108,14 @@ def Credit_Course_Is(credits):
 
 def Instructor_Teaches(name):
     courses =[]
+    first_char = 0
+    second_char = 0
+    for i in range(len(name)):
+        if name[i] == " ":
+            second_char = i
+            break
+    name = name[:first_char+1].upper() 
+
     for course_info in courses_info:
         if name in course_info['professors']:
             courses.append(course_info['title'][:8])
