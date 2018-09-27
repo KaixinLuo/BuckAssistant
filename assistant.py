@@ -4,7 +4,7 @@ import json
 
 class Assistant:
     def __init__(self):
-        self.debug_mode=True;
+        self.debug_mode=False;
         self.user_input = ''
         self.context1 = {}
         self.current_action = ''

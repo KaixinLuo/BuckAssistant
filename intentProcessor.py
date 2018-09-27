@@ -53,6 +53,7 @@ def Course_Instructor_Of(course_num):
 def Email_Send_Appointment(email_module,user,question,professor,email):
     text=construct_email_appointment(professor,question,user.name)
     email_module.send(email,'Appointment Scheduling',text)
+    return 'Email Sent!'
 
 
 # def Course_Opentime_Of(course_num):

@@ -41,7 +41,10 @@ while user_input!='exit':
     elif ('sys-person' in queryr[1]):
         search_parameters = queryr[1].get('sys-person')
     if queryr[0]==[]:
-        print()
+        print('Unknown Question')
+    elif (queryr[0][0]=='General_Ending'):
+        print('Bye!')
+        break
     if queryr[0][0]=='Email_Send_Appointment':
         if ('sys-person' not in queryr[1]):
             professor=input('What is the name of professor?')
@@ -54,4 +57,4 @@ while user_input!='exit':
         result = getattr(intentProcessor, queryr[0][0])(search_parameters)
     # discovery.run_query(query)
     # result = discovery.retrieve_first_doc_text()
-    # print(result)
+    print(result)
