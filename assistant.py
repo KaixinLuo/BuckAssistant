@@ -2,10 +2,9 @@ from watson_developer_cloud import AssistantV1
 from BuckAD.ClassInfoModule import ClassInfoModule
 import json
 
-
 class Assistant:
     def __init__(self):
-        self.debug_mode=False;
+        self.debug_mode=True;
         self.user_input = ''
         self.context1 = {}
         self.current_action = ''

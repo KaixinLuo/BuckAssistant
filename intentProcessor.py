@@ -1,4 +1,6 @@
 import os, json, re
+
+from BuckAD.EmailModule import construct_email_appointment
 debug_mode=False
 path_to_json = 'crawler/courseInformation/Json'
 json_files = [pos_json for pos_json in os.listdir(path_to_json) if pos_json.endswith('.json')]
@@ -47,6 +49,11 @@ def Course_Instructor_Of(course_num):
         return response_header+courses_info[course_index].get('professors')
     else:
         return 'Cannot find the given course number'
+
+def Email_Send_Appointment(email_module,user,question,professor,email):
+    text=construct_email_appointment(professor,question,user.name)
+    email_module.send(email,'Appointment Scheduling',text)
+
 
 # def Course_Opentime_Of(course_num):
 #     course_num=re.sub(r"\D", "", course_num)

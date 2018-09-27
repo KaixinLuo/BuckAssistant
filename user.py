@@ -7,3 +7,6 @@ class User:
         self.__password=password
     def authorize_email_module(self,email_module):
         email_module.login(self.__email,self.__password)
+
+    def assign_name(self,name):
+        self.name=name
