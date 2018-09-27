@@ -3,11 +3,11 @@ from email.mime.text import MIMEText
 
 
 def construct_email_query(question,student_name):
-    email='Dear advisor, \n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time or could you tell me about it via email?\n\nBest,\n{}'.format(question,student_name)
+    email='Dear advisor, \n\nI hope you are doing well. I would like to talk with you about {}, what would be the best time to schedule an appointment with you?\n\nThanks,\n{}'.format(question,student_name)
     return email
 
 def construct_email_appointment(professor_name,question,student_name):
-    email='Dear Prof. {},\n\nI hope you are doing well. I want to make appointment with you for {}, what is your best time to hold this appointment?\n\nBest,\n{}'.format(professor_name,question,student_name)
+    email='Dear Prof. {},\n\nI hope you are doing well. I would like to make appointment with you for {}, What would be the best time for this appointment?\n\nSincerely,\n{}'.format(professor_name,question,student_name)
     return email
 
 class EmailModule:
