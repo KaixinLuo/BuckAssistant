@@ -1,14 +1,10 @@
 from assistant import Assistant
 from BuckAD.ClassInfoModule import ClassInfoModule
 from watson_developer_cloud import DiscoveryV1
-<<<<<<< HEAD
-import searchEngine
 import re
 from user import User
 from BuckAD.EmailModule import EmailModule
-=======
-import IntentProcessor
->>>>>>> 6a20021123fab458ad62fd47529e80cbca8ae97c
+import intentProcessor
 assistant=Assistant()
 brain = DiscoveryV1(
     version='2018-01-01',
