@@ -24,11 +24,26 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EmailModule.py" pinned="false" current-in-tab="true">
+      <file leaf-file-name="EmailModule.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/BuckAD/EmailModule.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="20" />
+            <state relative-caret-position="36">
+              <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+              <folding>
+                <element signature="e#0#14#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="courseInfo.py" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/crawler/courseInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="29" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="29" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -75,7 +90,7 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
+  <component name="ProjectFrameBounds" extendedState="1">
     <option name="x" value="443" />
     <option name="y" value="44" />
     <option name="width" value="1267" />
@@ -161,7 +176,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="443" y="44" width="1267" height="1047" extended-state="0" />
+    <frame x="443" y="44" width="1267" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.38369304" />
@@ -518,8 +533,21 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/BuckAD/EmailModule.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="20" lean-forward="true" selection-start-line="1" selection-start-column="5" selection-end-line="1" selection-end-column="20" />
+        <state relative-caret-position="36">
+          <caret line="2" lean-forward="true" selection-start-line="2" selection-end-line="2" />
+          <folding>
+            <element signature="e#0#14#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crawler/courseInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="29" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
