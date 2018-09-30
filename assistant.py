@@ -82,47 +82,25 @@ class Assistant:
             #     print('#',strresult)
             return strresult
         return result
-
-    def get_intent_and_variable(self,messagein,variable_name, toString=False):
-        result=[]
+    
+    def get_node_name(self, message_in, to_string = False):
+        node_name = ""
         response = self.assistant.message(
             workspace_id=self.workspace_id,
             input={
-                'text': messagein
+                'text': message_in
             },
             context=self.context1
         )
-        self.context1 = response['context']
-        # print(response['output']['text'][0])
-        print(json.dumps(response, indent=4, sort_keys=True))
-        # Add Intend
-        intents=[]
-        for intent in response.get('intents'):
-            intents.append(intent.get('intent'))
-        result.append(intents)
-        #Add Entity
-        variables = []
-        variables.append(response["context"][variable_name])
-        result.append(" ")
-        result.append(variables)
-        if (toString):
-            strresult=''
-            for i in result:
-                strresult+=' '.join(i)
-            print(strresult)
-            return strresult
-        
-        return result
+        node_visited = response["output"]["nodes_visited"]
+        current_node = node_visited[-1]
+        current_node_info = self.assistant.get_dialog_node(
+            workspace_id = self.workspace_id,
+            dialog_node= current_node
+        )
+        current_node_name = current_node_info["title"]
+        print("\ncurrent node: " + current_node_name + "\n")
 
-
-        
-#    def modify_answer_node(self, intent, result):
-
-#
- #       return {
-  #          "#Course_Instructor_of": "The instructors who recently provided this course: \n" + 
-
-   #     }(intent, "I don't understand")
 
 
 
