@@ -40,7 +40,6 @@ while user_input!='exit':
         search_parameters = queryr[1].get('sys-number')
     elif ('sys-person' in queryr[1]):
         search_parameters = queryr[1].get('sys-person')
-    result = getattr(intentProcessor, queryr[0][0])(search_parameters)
     if queryr[0]==[]:
         print('Unknown Question')
     elif (queryr[0][0]=='General_Ending'):
