@@ -28,6 +28,7 @@ class Assistant:
         print(response['output']['text'][0])
 
     def process_input(self,message_in):
+        #returns [intend(str),flag(bool),context(dict),response(str)]
         result=[]
         response = self.assistant.message(
             workspace_id=self.workspace_id,
@@ -43,6 +44,8 @@ class Assistant:
         # Add Intend
         if response.get('intents') != []:
             result.append(response.get('intents')[0].get('intent'))
+        else:
+            result.append('No_intent')
         # Add Flag
         systemdic=response.get('context').get('system')
         has_question_ended=True
