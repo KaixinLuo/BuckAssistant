@@ -18,7 +18,7 @@ brain = DiscoveryV1(
 )
 
 class ClassInfoModule:
-    def __init__(self,kernel:DiscoveryV1):
+    def __inClassInfoModuleit__(self,kernel:DiscoveryV1):
         self.kernel = kernel
         self.currentEnvironment = kernel.list_environments(name = 'byod')['environments'][0]['environment_id']
         self.collectionIndex = {e["name"]:e["collection_id"] for e in kernel.list_collections(environment_id=self.currentEnvironment)["collections"]}

@@ -10,6 +10,11 @@ for js in json_files:
         courses_info.append(json.load(f))
 
 
+def get_response(query):
+    ##query is a list and query[0] is the intent
+    result = query[0](query[1])
+    return result
+    
 def Course_Average_Size_Of(course_num):
     course_num=re.sub(r"\D", "", course_num)
     json_file_name='CSE'+course_num+'.json'

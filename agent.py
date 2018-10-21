@@ -35,6 +35,8 @@ class Agent:
             # discovery.run_query(query)
             # result = discovery.retrieve_first_doc_text()
             print(result)
+    
+
 
 
 
