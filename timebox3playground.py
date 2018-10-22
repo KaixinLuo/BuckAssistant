@@ -15,6 +15,8 @@ brain = DiscoveryV1(
 discovery=ClassInfoModule(brain)
 current_user=User()
 user_input=''
+from modules import db_search
+db1=db_search.Db_Search(False)
 # query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
 # queryr=assistant.get_intent_and_entity('who teaches CSE5526',to_string=False)
 print('Thanks! How can I help you today?')
@@ -24,3 +26,4 @@ while user_input!='exit':
         print('Bye!')
         break
     queryr=assistant.process_input(user_input)
+    print(db1.process([],queryr))

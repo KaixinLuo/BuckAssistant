@@ -36,27 +36,35 @@ class Db_Search:
         if intent in Db_Search.acceptable_intents:
             result.append(True) #This is hard coded for now since current requests do not involve more than 1 module
             paramlist=[]
-            result.append(getattr(Db_Search, 'Course_Average_Size_Of')(self, 'qwe'))
+            result.append(getattr(Db_Search, intent)(self, assistant_returned_info))
         else:
             result.append(False)
             result.append('No result')
-        #TODO: change formal parameter of the following functions to context(dict) of assistant_returned_info
+        return result
 
-    def Course_Average_Size_Of(self, course_num):
-        #For test purpose only
-        print(course_num)
     # def Course_Average_Size_Of(self, course_num):
-    #     course_num = re.sub(r"\D", "", course_num)
-    #     json_file_name = 'CSE' + course_num + '.json'
-    #     if json_file_name in self.json_files:
-    #         course_index = self.json_files.index(json_file_name)
-    #         response_header = 'The average size of ' + str(course_num) + ' is '
-    #         return response_header + str(self.courses_info[course_index].get('average_size'))
-    #     else:
-    #         return 'Cannot find the given course number'
+    #     #For test purpose only
+    #     print(course_num)
+    def Course_Average_Size_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            course_num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
+        #course_num = re.sub(r"\D", "", course_num)
+        json_file_name = 'CSE' + course_num + '.json'
+        if json_file_name in self.json_files:
+            course_index = self.json_files.index(json_file_name)
+            response_header = 'The average size of ' + str(course_num) + ' is '
+            return response_header + str(self.courses_info[course_index].get('average_size'))
+        else:
+            return 'Cannot find the given course number'
 
-    def Course_Credits_Of(self, course_num):
-        course_num = re.sub(r"\D", "", course_num)
+    def Course_Credits_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            course_num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
+        #course_num = re.sub(r"\D", "", course_num)
         json_file_name = 'CSE' + course_num + '.json'
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
@@ -65,8 +73,12 @@ class Db_Search:
         else:
             return 'Cannot find the given course number'
 
-    def Course_Description_Of(self, course_num):
-        course_num = re.sub(r"\D", "", course_num)
+    def Course_Description_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            course_num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
+        #course_num = re.sub(r"\D", "", course_num)
         json_file_name = 'CSE' + course_num + '.json'
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
@@ -75,7 +87,11 @@ class Db_Search:
         else:
             return 'Cannot find the given course number'
 
-    def Course_Instructor_Of(self, course_num):
+    def Course_Instructor_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            course_num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
         course_num = re.sub(r"\D", "", course_num)
         json_file_name = 'CSE' + course_num + '.json'
         if json_file_name in self.json_files:
@@ -101,8 +117,12 @@ class Db_Search:
     #     else:
     #         return 'Cannot find the given course number'
 
-    def Course_Opentime_Of(self, course_num):
-        num = re.sub(r"\D", "", course_num)
+    def Course_Opentime_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
+        #num = re.sub(r"\D", "", course_num)
         course_num = "CSE " + num
         for course_info in self.courses_info:
             if course_info["title"] != None and course_num in course_info['title']:
@@ -112,8 +132,12 @@ class Db_Search:
 
         return not_found_message.replace("course_num", course_num)
 
-    def Course_Title_Of(self, course_num):
-        num = re.sub(r"\D", "", course_num)
+    def Course_Title_Of(self, assistant_returned_info):
+        if 'course_num' in assistant_returned_info[2]:
+            num = re.sub(r"\D", "", assistant_returned_info[2].get('course_num'))
+        else:
+            return 'Can you rephrase your question with more details?'
+        #num = re.sub(r"\D", "", course_num)
         course_num = "CSE " + num
         for course_info in self.courses_info:
             if course_info['title'] != None and course_num in course_info['title']:
@@ -122,7 +146,11 @@ class Db_Search:
         not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
         return not_found_message.replace("course_num", course_num)
 
-    def Credit_Course_Is(self, credits):
+    def Credit_Course_Is(self, assistant_returned_info):
+        if 'credit' in assistant_returned_info[2]:
+            credits = re.sub(r"\D", "", assistant_returned_info[2].get('credit'))
+        else:
+            return 'Can you rephrase your question with more details?'
         courses = []
         credits = credits[:len(credits) - 1]
         for course_info in self.courses_info:
@@ -140,7 +168,11 @@ class Db_Search:
 
             return course_names
 
-    def Instructor_Teaches(self, name):
+    def Instructor_Teaches(self, assistant_returned_info):
+        if 'name' in assistant_returned_info[2]:
+            name = assistant_returned_info[2].get('name')
+        else:
+            return 'Can you rephrase your question with more details?'
         courses = []
         first_char = 0
         second_char = 0
@@ -170,7 +202,11 @@ class Db_Search:
 
             return course_names
 
-    def Semester_Has_Courses(self, semester):
+    def Semester_Has_Courses(self, assistant_returned_info):
+        if 'semester' in assistant_returned_info[2]:
+            semester = assistant_returned_info[2].get('name')
+        else:
+            return 'Can you rephrase your question with more details?'
         year = re.sub(r"\D", "", semester)
         if len(str(year)) == 2:
             year = "20" + year

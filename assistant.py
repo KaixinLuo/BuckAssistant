@@ -4,8 +4,8 @@ import json
 import pprint
 
 class Assistant:
-    def __init__(self):
-        self.debug_mode=True;
+    def __init__(self,debug_mode):
+        self.debug_mode=debug_mode
         self.user_input = ''
         self.context1 = {}
         self.current_action = ''
@@ -45,7 +45,7 @@ class Assistant:
         if response.get('intents') != []:
             result.append(response.get('intents')[0].get('intent'))
         else:
-            result.append('No_intent')
+            result.append('No_Intent')
         # Add Flag
         systemdic=response.get('context').get('system')
         has_question_ended=True
@@ -53,10 +53,12 @@ class Assistant:
             dialoglist=systemdic.get('dialog_stack')
             if len(dialoglist) !=0 and 'state' in dialoglist[0] and dialoglist[0].get('state')=='in_progress':
                 has_question_ended=False
+        if 'dialog_status' in self.context1 and self.context1['dialog_status']=='in_progress':
+            has_question_ended=False
         result.append(has_question_ended)
         #Add Context (a dictionary of conversation id, system node, and variables)
         tmpdictionary=self.context1
-        tmpdictionary['response']=response.get('output')
+        #tmpdictionary['response']=response.get('output')
         result.append(self.context1)
         #Add Response
         result.append(' '.join(response.get('output').get('text')))
