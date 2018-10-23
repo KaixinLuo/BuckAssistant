@@ -4,7 +4,7 @@ import json
 import pprint
 
 class Assistant:
-    def __init__(self,debug_mode):
+    def __init__(self,debug_mode=False):
         self.debug_mode=debug_mode
         self.user_input = ''
         self.context1 = {}
@@ -28,7 +28,8 @@ class Assistant:
         print(response['output']['text'][0])
 
     def process_input(self,message_in):
-        #returns [intend(str),flag(bool),context(dict),response(str)]
+        #returns [intent(str),flag(bool),context(dict),response(str)]
+        #where flag is true when current short conversation has ended
         result=[]
         response = self.assistant.message(
             workspace_id=self.workspace_id,
@@ -41,7 +42,7 @@ class Assistant:
         self.context1 = response['context']
         if self.debug_mode:
             print(json.dumps(response, indent=4, sort_keys=True))
-        # Add Intend
+        # Add Intent
         if response.get('intents') != []:
             result.append(response.get('intents')[0].get('intent'))
         else:
