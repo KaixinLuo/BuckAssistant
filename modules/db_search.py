@@ -55,7 +55,11 @@ class Db_Search:
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
             response_header = 'The average size of ' + str(course_num) + ' is '
-            return response_header + str(self.courses_info[course_index].get('average_size'))
+            value_found = self.courses_info[course_index].get('average_size')
+            if value_found is not None:
+                return response_header + str(value_found)
+            else:
+                return 'Sorry, we do not have information about it. Please try another question.'
         else:
             return 'Cannot find the given course number'
 
@@ -69,7 +73,11 @@ class Db_Search:
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
             response_header = 'The credit hours of ' + str(course_num) + ' is '
-            return response_header + str(self.courses_info[course_index].get('credits'))
+            value_found=self.courses_info[course_index].get('credits')
+            if value_found is not None:
+                return response_header + str(value_found)
+            else:
+                return 'Sorry, we do not have information about it. Please try another question.'
         else:
             return 'Cannot find the given course number'
 
@@ -157,7 +165,7 @@ class Db_Search:
             if course_info["credits"] != None and credits in str(course_info["credits"]):
                 courses.append(course_info["title"][:8])
         if len(courses) == 0:
-            not_found_message = "\nThere does not exit course of $ credit hours.\n"
+            not_found_message = "\nThere's no course of $ credit hours.\n"
 
             return not_found_message.replace("$", credits)
         else:

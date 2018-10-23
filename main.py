@@ -10,6 +10,9 @@
 # cp=Conversation_Processor(False)
 # cp.assign_user_object(u)
 # cp.loop()
-from test_cases.test_assistant import test_process_input_single_response, test_process_input_sequential_response
-print(test_process_input_single_response())
-print(test_process_input_sequential_response())
+# from test_cases.test_assistant import test_process_input_single_response, test_process_input_sequential_response
+# print(test_process_input_single_response())
+# print(test_process_input_sequential_response())
+
+from test_cases.test_pipeline import test_db_search
+print(test_db_search())
