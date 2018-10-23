@@ -4,3 +4,4 @@ sh.exe.stackdump
 __pycache__/
 .idea/workspace.xml
 *.pyc
+.idea/workspace.xml
