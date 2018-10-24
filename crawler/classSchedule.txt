@@ -1,0 +1,10439 @@
+CSE 1110 Introduction to Computing Technology U 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23685
+LEC
+ 
+ARR
+Shen, Jingyi
+Regular
+ 
+
+
+23685
+LEC
+ 
+ARR
+Mallon, Michelle
+Regular
+ 
+
+
+
+23687
+LEC
+DL0280
+M 11:30 - 12:25
+Chen, Yung fu
+Regular
+ 
+
+
+23687
+LEC
+CH0232
+WF 11:30 - 12:25
+Chen, Yung fu
+Regular
+ 
+
+
+
+23688
+LEC
+DL0280
+M 16:10 - 17:05
+Tumkur ramesh babu, Naveen
+Regular
+ 
+
+
+23688
+LEC
+UH0056
+WF 16:10 - 17:05
+Tumkur ramesh babu, Naveen
+Regular
+ 
+
+
+   
+
+
+CSE 1111 Introduction to Computer-Assisted Problem Solving U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23693
+LEC
+CM0213
+TR 12:45 - 14:05
+Grimme, Cindy
+Regular
+ 
+
+
+23694
+LAB
+CL0112A
+M 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+23695
+LEC
+CM0209
+TR 14:20 - 15:40
+Grimme, Cindy
+Regular
+ 
+
+
+23696
+LAB
+CL0112A
+M 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+23691
+LEC
+PS0010
+TR 11:10 - 12:30
+Crawford, Laurie
+Regular
+ 
+
+
+23692
+LAB
+CL0112A
+M 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+23689
+LEC
+MP2017
+TR 09:35 - 10:55
+Grimme, Cindy
+Regular
+ 
+
+
+23690
+LAB
+CL0112A
+M 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 1112 Introduction to Computer-Assisted Problem Solving for Construction Systems Management U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23697
+LEC
+BO0118
+MT 17:30 - 18:50
+Rodgers, Dauntrica
+Regular
+ 
+
+
+23698
+LAB
+CL0112A
+W 17:20 - 18:15
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 1113 Spreadsheet Programming for Business U 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23729
+LEC
+DL0357
+M 10:05 - 11:55
+Rice, Lori
+Session 1
+ 
+
+
+   
+
+
+CSE 1114 Introduction to Databases Using MS Access U 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35600
+LEC
+CL0112A
+T 16:10 - 17:05
+Crawford, Laurie
+Regular
+ 
+
+
+35601
+LAB
+CL0112A
+R 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+27286
+LEC
+CL0112A
+T 15:00 - 15:55
+Crawford, Laurie
+Regular
+ 
+
+
+27287
+LAB
+CL0112A
+R 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 1211 Computational Thinking in Context: Images, Animation, and Games U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23699
+LEC
+CL0133
+F 15:00 - 15:55
+Strauss, Benjamin
+Regular
+ 
+
+
+23700
+LAB
+CL0112A
+MW 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 1222 Introduction to Computer Programming in C++ for Engineers and Scientists U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26809
+LEC
+CH0232
+MW 10:20 - 11:15
+Magee, Lucas
+Regular
+ 
+
+
+26812
+LAB
+BE0310
+F 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+26180
+LEC
+DL0264
+MW 09:10 - 10:05
+Saraf, Mudit
+Regular
+ 
+
+
+26181
+LAB
+BE0310
+F 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26178
+LEC
+DL0264
+MW 15:00 - 15:55
+Liu, Yuzhou
+Regular
+ 
+
+
+26179
+LAB
+BE0310
+F 15:00 - 15:55
+Pan, Tai yu
+Regular
+ 
+
+
+
+27645
+LEC
+DL0266
+MW 08:00 - 08:55
+Romero gainza, Eduardo
+Regular
+ 
+
+
+27649
+LAB
+BE0310
+F 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+24961
+LEC
+MP1046
+MW 11:30 - 12:25
+Shandilya, Nikhil
+Regular
+ 
+
+
+24962
+LAB
+BE0310
+F 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+25367
+LEC
+CL0171
+MW 09:10 - 10:05
+Adak, Debanjan
+Regular
+ 
+
+
+25368
+LAB
+BE0310
+F 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+27647
+LEC
+DL0266
+MW 11:30 - 12:25
+Srivatava, Arunima
+Regular
+ 
+
+
+27651
+LAB
+BE0310
+F 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+25973
+LEC
+DL0264
+MW 12:40 - 13:35
+Tummala, Venkata sai revanth
+Regular
+ 
+
+
+25974
+LAB
+BE0310
+F 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26176
+LEC
+DL0264
+MW 13:50 - 14:45
+Liu, Yuzhou
+Regular
+ 
+
+
+26177
+LAB
+BE0310
+F 13:50 - 14:45
+Pan, Tai yu
+Regular
+ 
+
+
+   
+
+
+CSE 1223 Introduction to Computer Programming in Java U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23709
+LEC
+JR0375
+MW 12:40 - 13:35
+Saravanan, Indrajeet
+Regular
+ 
+
+
+23710
+LAB
+BE0310
+R 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26810
+LEC
+BE0136
+MW 16:10 - 17:05
+Mukherjee, Soham
+Regular
+ 
+
+
+26811
+LAB
+BE0310
+R 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+27467
+LEC
+SM2150
+MW 09:10 - 10:05
+Su, Ming yi
+Regular
+ 
+
+
+27468
+LAB
+BE0310
+R 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+27474
+LEC
+DL0264
+MW 17:20 - 18:15
+Majumdar, Saikat
+Regular
+ 
+
+
+27475
+LAB
+BE0310
+R 17:20 - 18:15
+No instructor listed
+Regular
+ 
+
+
+
+23705
+LEC
+SM1138
+MW 11:30 - 12:25
+Shafie khorassani, Kawthar
+Regular
+ 
+
+
+23706
+LAB
+BE0310
+R 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+23703
+LEC
+BE0136
+MW 10:20 - 11:15
+Morris, Jeremy
+Regular
+ 
+
+
+23704
+LAB
+BE0310
+R 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+23701
+LEC
+BE0136
+MW 09:10 - 10:05
+Li, Xiang
+Regular
+ 
+
+
+23702
+LAB
+BE0310
+R 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+23707
+LEC
+BE0136
+MW 12:40 - 13:35
+Javed, Muhammad
+Regular
+ 
+
+
+23708
+LAB
+BE0310
+R 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26319
+LEC
+UH0082
+MW 13:50 - 14:45
+Grifski, Jeremy
+Regular
+ 
+
+
+26320
+LAB
+BE0310
+R 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+26184
+LEC
+DL0264
+MW 08:00 - 08:55
+Modi, Shivam
+Regular
+ 
+
+
+26185
+LAB
+BE0310
+R 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+26317
+LEC
+BE0136
+MW 17:20 - 18:15
+Breckenridge, Daniel
+Regular
+ 
+
+
+26318
+LAB
+BE0310
+R 17:20 - 18:15
+No instructor listed
+Regular
+ 
+
+
+
+27088
+LEC
+CL0133
+MW 17:20 - 18:15
+Bambeck, Jacob
+Regular
+ 
+
+
+27089
+LAB
+CL0112A
+R 17:20 - 18:15
+No instructor listed
+Regular
+ 
+
+
+
+27539
+LEC
+DL0264
+MW 16:10 - 17:05
+Xu, Yufan
+Regular
+ 
+
+
+27540
+LAB
+BE0310
+R 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+35965
+LEC
+BO0412
+MW 11:30 - 12:25
+Choi, Hyunjean
+Regular
+ 
+
+
+35966
+LAB
+CL0112A
+R 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+26652
+LEC
+BE0136
+MW 08:00 - 08:55
+Vethanayagam, Pravinth
+Regular
+ 
+
+
+26653
+LAB
+BE0310
+R 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+25980
+LEC
+BE0136
+MW 15:00 - 15:55
+Zhao, Yan
+Regular
+ 
+
+
+25981
+LAB
+BE0310
+R 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+
+28021
+LEC
+BE0136
+MW 13:50 - 14:45
+Mirzaei, Nima
+Regular
+ 
+
+
+28022
+LAB
+BE0310
+R 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+26577
+LEC
+BE0136
+MW 11:30 - 12:25
+Ramesh, Bharath
+Regular
+ 
+
+
+26578
+LAB
+BE0310
+R 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 2111 Modeling and Problem Solving with Spreadsheets and Databases U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26302
+LEC
+DL0113
+WF 15:00 - 15:55
+Mckinley, Catherine
+Regular
+ 
+
+
+26309
+LAB
+BE0310
+T 12:10 - 14:00
+Kundu, Rupam
+Regular
+ 
+
+
+26310
+LAB
+BE0310
+R 18:25 - 20:15
+Zhang, Yixuan
+Regular
+ 
+
+
+
+28104
+LEC
+DL0113
+TR 15:00 - 15:55
+Farris, Clair
+Regular
+ 
+
+
+28105
+LAB
+BE0310
+F 16:20 - 18:10
+Li, Qingyang
+Regular
+ 
+
+
+33867
+LAB
+BE0310
+T 18:25 - 20:15
+Jin, Kun
+Regular
+ 
+
+
+
+23730
+LEC
+DL0113
+TR 09:10 - 10:05
+Kline, Diana
+Regular
+ 
+
+
+23731
+LAB
+BE0310
+M 12:10 - 14:00
+Meng, Jingsong
+Regular
+ 
+
+
+23732
+LAB
+BE0310
+M 14:15 - 16:05
+Zhang, Zichen
+Regular
+ 
+
+
+
+26126
+LEC
+DL0113
+WF 10:20 - 11:15
+Mckinley, Catherine
+Regular
+ 
+
+
+26127
+LAB
+BE0310
+T 08:00 - 09:50
+Wu, Longhua
+Regular
+ 
+
+
+27838
+LAB
+BE0310
+T 10:05 - 11:55
+Zhou, Qinghua
+Regular
+ 
+
+
+
+23733
+LEC
+DL0113
+TR 12:40 - 13:35
+Farris, Clair
+Regular
+ 
+
+
+23734
+LAB
+BE0310
+W 12:10 - 14:00
+Hui, Like
+Regular
+ 
+
+
+23735
+LAB
+BE0310
+W 14:15 - 16:05
+Mao, Yifan
+Regular
+ 
+
+
+
+23736
+LEC
+DL0113
+TR 11:30 - 12:25
+Farris, Clair
+Regular
+ 
+
+
+23737
+LAB
+BE0310
+W 08:00 - 09:50
+Biswas, Biplob
+Regular
+ 
+
+
+23738
+LAB
+BE0310
+W 10:05 - 11:55
+Das, Manirupa
+Regular
+ 
+
+
+
+23742
+LEC
+DL0113
+TR 17:30 - 18:25
+Jackson, Mark
+Regular
+ 
+
+
+23743
+LAB
+BE0310
+W 16:20 - 18:10
+Li, Ziwei
+Regular
+ 
+
+
+23744
+LAB
+BE0310
+W 18:25 - 20:15
+Ren, Xueyuan
+Regular
+ 
+
+
+
+27098
+LEC
+DL0113
+TR 18:40 - 19:35
+Jackson, Mark
+Regular
+ 
+
+
+27099
+LAB
+BE0310
+T 16:20 - 18:10
+Qi, Haiyang
+Regular
+ 
+
+
+27839
+LAB
+BE0310
+F 18:25 - 20:15
+Qian, Zhenzhi
+Regular
+ 
+
+
+
+23739
+LEC
+ 
+ARR
+Crawford, Laurie
+Regular
+ 
+
+
+23740
+LAB
+BE0310
+M 16:20 - 18:10
+Chang, Shuaichen
+Regular
+ 
+
+
+23741
+LAB
+BE0310
+M 18:25 - 20:15
+Delfarah, Masood
+Regular
+ 
+
+
+   
+
+
+CSE 2112 Modeling and Problem Solving with Spreadsheets and Databases for Engineers U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27288
+LEC
+BE0120
+R 14:20 - 15:40
+Banerjee, Avishek
+Regular
+ 
+
+
+27288
+LEC
+BE0120
+R 14:20 - 15:40
+Mallon, Michelle
+Regular
+ 
+
+
+27288
+LEC
+BE0310
+T 14:20 - 15:40
+Banerjee, Avishek
+Regular
+ 
+
+
+27288
+LEC
+BE0310
+T 14:20 - 15:40
+Mallon, Michelle
+Regular
+ 
+
+
+   
+
+
+CSE 2122 Data Structures Using C++ U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23714
+LEC
+BO0118
+WF 15:55 - 17:15
+Bashizade, Armin
+Regular
+ 
+
+
+   
+
+
+CSE 2123 Data Structures Using Java U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26518
+LEC
+CL0133
+WF 13:50 - 14:45
+Eicher, Tara
+Regular
+ 
+
+
+26518
+LEC
+DL0280
+M 13:50 - 14:45
+Eicher, Tara
+Regular
+ 
+
+
+
+27976
+LEC
+DL0280
+M 09:10 - 10:05
+Mitra, Rupendra
+Regular
+ 
+
+
+27976
+LEC
+BE0140
+WF 09:10 - 10:05
+Mitra, Rupendra
+Regular
+ 
+
+
+
+23715
+LEC
+DL0280
+M 10:20 - 11:15
+Aljanaideh, Ahmad
+Regular
+ 
+
+
+23715
+LEC
+CM0251
+WF 10:20 - 11:15
+Aljanaideh, Ahmad
+Regular
+ 
+
+
+   
+
+
+CSE 2133 Business Programming with File Processing U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35416
+LEC
+DL0305
+MW 19:05 - 20:25
+Gomori, Stephen
+Regular
+ 
+
+
+
+23716
+LEC
+DL0305
+MW 17:30 - 18:50
+Gomori, Stephen
+Regular
+ 
+
+
+   
+
+
+CSE 2221 Software I: Software Components U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27085
+LEC
+DL0264
+TR 09:10 - 10:05
+Grupa, Adam
+Regular
+ 
+
+
+27086
+LAB
+CL0112A
+WF 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+27653
+LEC
+DL0264
+TR 11:30 - 12:25
+Bair, Bettina
+Regular
+ 
+
+
+27654
+LAB
+CL0112A
+WF 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+26186
+LEC
+DL0357
+TR 08:00 - 08:55
+Bucci, Paolo
+Regular
+ 
+
+
+26187
+LAB
+DL0280
+WF 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+27655
+LEC
+CZ0150
+TR 13:50 - 14:45
+Grupa, Adam
+Regular
+ 
+
+
+27656
+LAB
+CL0112A
+WF 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+23727
+LEC
+DL0357
+TR 15:00 - 15:55
+Bair, Bettina
+Regular
+ 
+
+
+23728
+LAB
+DL0280
+WF 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+
+23725
+LEC
+DL0357
+TR 13:50 - 14:45
+Bair, Bettina
+Regular
+ 
+
+
+23726
+LAB
+DL0280
+WF 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+25307
+LEC
+DL0357
+TR 16:10 - 17:05
+Latour, Robert
+Regular
+ 
+
+
+25308
+LAB
+DL0280
+WF 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+27476
+LEC
+SOE0125
+TR 10:20 - 11:15
+Weide, Alan
+Regular
+ 
+
+
+27477
+LAB
+CL0112A
+WF 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+23719
+LEC
+DL0357
+TR 10:20 - 11:15
+Grupa, Adam
+Regular
+ 
+
+
+23720
+LAB
+DL0280
+WF 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+23721
+LEC
+DL0357
+TR 11:30 - 12:25
+Boggus, Matthew
+Regular
+ 
+
+
+23722
+LAB
+DL0280
+WF 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+23723
+LEC
+DL0357
+TR 12:40 - 13:35
+Boggus, Matthew
+Regular
+ 
+
+
+23724
+LAB
+DL0280
+WF 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+23717
+LEC
+DL0357
+TR 09:10 - 10:05
+Bucci, Paolo
+Regular
+ 
+
+
+23718
+LAB
+DL0280
+WF 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26333
+LEC
+DL0357
+TR 17:20 - 18:15
+Luken, Jackson
+Regular
+ 
+
+
+26334
+LAB
+DL0280
+WF 17:20 - 18:15
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 2231 Software II: Software Development and Design U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26190
+LEC
+DL0357
+WF 10:20 - 11:15
+Bucci, Paolo
+Regular
+ 
+
+
+26191
+LAB
+DL0280
+TR 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+26449
+LEC
+DL0357
+WF 16:10 - 17:05
+Wolf, Annatala
+Regular
+ 
+
+
+26486
+LAB
+DL0280
+TR 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+26335
+LEC
+DL0357
+WF 08:00 - 08:55
+Kiel, Christine
+Regular
+ 
+
+
+26336
+LAB
+DL0280
+TR 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+26188
+LEC
+BE0180
+WF 09:10 - 10:05
+Morris, Jeremy
+Regular
+ 
+
+
+26189
+LAB
+DL0280
+TR 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+27435
+LEC
+DL0357
+WF 09:10 - 10:05
+Kiel, Christine
+Regular
+ 
+
+
+27436
+LAB
+CL0112A
+TR 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+27225
+LEC
+CL0177
+WF 12:40 - 13:35
+Kiel, Christine
+Regular
+ 
+
+
+27226
+LAB
+CL0112A
+TR 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26192
+LEC
+DL0357
+WF 11:30 - 12:25
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+26193
+LAB
+DL0280
+TR 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+26194
+LEC
+DL0357
+WF 12:40 - 13:35
+Heym, Wayne
+Regular
+ 
+
+
+26195
+LAB
+DL0280
+TR 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26196
+LEC
+DL0357
+WF 13:50 - 14:45
+Wolf, Annatala
+Regular
+ 
+
+
+26197
+LAB
+DL0280
+TR 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+26198
+LEC
+DL0357
+WF 15:00 - 15:55
+Wolf, Annatala
+Regular
+ 
+
+
+26199
+LAB
+DL0280
+TR 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+
+27657
+LEC
+ML0131
+WF 10:20 - 11:15
+Heym, Wayne
+Regular
+ 
+
+
+27658
+LAB
+CL0112A
+TR 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 2321 Foundations I: Discrete Structures U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23749
+LEC
+DL0369
+MWF 15:00 - 15:55
+Estill, Charles
+Regular
+ 
+
+
+
+23748
+LEC
+DL0369
+MWF 13:50 - 14:45
+Fritz, Michael
+Regular
+ 
+
+
+
+23747
+LEC
+DL0369
+MWF 11:30 - 12:25
+Carpenter, Timothy
+Regular
+ 
+
+
+
+26990
+LEC
+JR0270
+TR 14:20 - 15:40
+Salmasi, Ario
+Regular
+ 
+
+
+
+23745
+LEC
+DL0369
+MWF 08:00 - 08:55
+Estill, Charles
+Regular
+ 
+
+
+
+27659
+LEC
+DL0369
+MWF 16:10 - 17:05
+Fritz, Michael
+Regular
+ 
+
+
+
+27660
+LEC
+DL0305
+MWF 15:00 - 15:55
+Carpenter, Timothy
+Regular
+ 
+
+
+
+27661
+LEC
+MP2017
+MWF 13:50 - 14:45
+Estill, Charles
+Regular
+ 
+
+
+
+35709
+LEC
+BE0198
+MW 17:30 - 18:50
+Van hulse, Jason
+Regular
+ 
+
+
+
+35005
+LEC
+SM2150
+TR 15:55 - 17:15
+Rossi, Alfred
+Regular
+ 
+
+
+
+34015
+LEC
+DL0266
+MWF 10:20 - 11:15
+Bobkov, Anton
+Regular
+ 
+
+
+
+34014
+LEC
+DL0266
+MWF 09:10 - 10:05
+Bobkov, Anton
+Regular
+ 
+
+
+
+26466
+LEC
+DL0369
+MWF 12:40 - 13:35
+Fritz, Michael
+Regular
+ 
+
+
+   
+
+
+CSE 2331 Foundations II: Data Structures and Algorithms U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27969
+LEC
+DL0480
+TR 09:35 - 10:55
+Zaccai, Diego
+Regular
+ 
+
+
+
+25967
+LEC
+DL0305
+MWF 12:40 - 13:35
+Supowit, Kenneth
+Regular
+ 
+
+
+
+34016
+LEC
+SM1048
+MWF 10:20 - 11:15
+Hajij, Mustafa
+Regular
+ 
+
+
+
+23752
+LEC
+DL0305
+MWF 13:50 - 14:45
+Supowit, Kenneth
+Regular
+ 
+
+
+
+35886
+LEC
+MQ0162
+MWF 12:40 - 13:35
+Bobkov, Anton
+Regular
+ 
+
+
+
+23751
+LEC
+DL0480
+WF 09:35 - 10:55
+Zaccai, Diego
+Regular
+ 
+
+
+
+27663
+LEC
+BE0180
+WF 14:20 - 15:40
+Zaccai, Diego
+Regular
+ 
+
+
+
+27662
+LEC
+DL0305
+TR 14:20 - 15:40
+Zaccai, Diego
+Regular
+ 
+
+
+   
+
+
+CSE 2421 Systems I: Introduction to Low-Level Programming and Computer Organization U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26983
+LEC
+CL0137
+MWF 12:45 - 14:05
+Babic, Gojko
+Regular
+ 
+
+
+
+26982
+LEC
+MP1021
+TWRF 13:50 - 14:45
+Jones, Janis
+Regular
+ 
+
+
+
+26816
+LEC
+MP1021
+TWRF 10:20 - 11:15
+Jones, Janis
+Regular
+ 
+
+
+
+27664
+LEC
+MP1021
+TWRF 15:00 - 15:55
+Jones, Janis
+Regular
+ 
+
+
+
+35788
+LEC
+DL0369
+MWF 09:35 - 10:55
+Green, George
+Regular
+ 
+
+
+
+35787
+LEC
+BE0180
+MWF 12:45 - 14:05
+Green, George
+Regular
+ 
+
+
+
+26128
+LEC
+DL0305
+MWF 10:20 - 11:40
+Babic, Gojko
+Regular
+ 
+
+
+   
+
+
+CSE 2431 Systems II: Introduction to Operating Systems U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35789
+LEC
+BE0140
+MW 12:45 - 14:05
+Morris, Nathaniel
+Regular
+ 
+
+
+
+26562
+LEC
+MQ0159
+TR 09:35 - 10:55
+Babic, Gojko
+Regular
+ 
+
+
+
+23753
+LEC
+SOE0024
+TR 11:10 - 12:30
+Qin, Feng
+Regular
+ 
+
+
+
+23754
+LEC
+DL0369
+TR 14:20 - 15:40
+Zhang, Yinqian
+Regular
+ 
+
+
+
+23755
+LEC
+DL0369
+TR 12:45 - 14:05
+Zhang, Yinqian
+Regular
+ 
+
+
+
+23756
+LEC
+DL0266
+TR 11:10 - 12:30
+Close, Doreen
+Regular
+ 
+
+
+
+26987
+LEC
+DL0266
+TR 12:45 - 14:05
+Close, Doreen
+Regular
+ 
+
+
+   
+
+
+CSE 2451 Advanced C Programming U 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23750
+LEC
+DL0357
+M 08:00 - 09:50
+Zhu, Gangyi
+Regular
+ 
+
+
+   
+
+
+CSE 2501 Social, Ethical, and Professional Issues in Computing U 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+36346
+LEC
+BE0394
+TR 19:05 - 20:25
+Rice, Lori
+Session 2
+ 
+
+
+
+27840
+LEC
+BE0394
+R 17:30 - 18:50
+Rice, Lori
+Regular
+ 
+
+
+
+35785
+LEC
+DL0317
+R 09:35 - 10:55
+Mallon, Michelle
+Regular
+ 
+
+
+
+35786
+LEC
+BE0394
+T 17:30 - 18:50
+Rice, Lori
+Regular
+ 
+
+
+
+34997
+LEC
+DL0317
+R 14:20 - 15:40
+Weaver, Bryan
+Regular
+ 
+
+
+
+23758
+LEC
+DL0317
+T 14:20 - 15:40
+Weaver, Bryan
+Regular
+ 
+
+
+
+26977
+LEC
+DL0317
+R 11:10 - 12:30
+Weaver, Bryan
+Regular
+ 
+
+
+
+23759
+LEC
+DL0317
+T 11:10 - 12:30
+Weaver, Bryan
+Regular
+ 
+
+
+
+27364
+LEC
+BE0180
+T 17:30 - 18:50
+Martin, William
+Regular
+ 
+
+
+
+23757
+LEC
+DL0317
+T 09:35 - 10:55
+Mallon, Michelle
+Regular
+ 
+
+
+   
+
+
+CSE 3231 Software Engineering Techniques U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23760
+LEC
+CL0171
+TR 14:20 - 15:40
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+27012
+LEC
+MP1046
+TR 11:10 - 12:30
+Cline, Alan
+Regular
+ 
+
+
+
+27924
+LEC
+MP2015
+TR 09:35 - 10:55
+Cline, Alan
+Regular
+ 
+
+
+   
+
+
+CSE 3232 Software Requirements Analysis U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23761
+LEC
+DL0369
+MW 17:30 - 18:50
+Bihari, Thomas
+Regular
+ 
+
+
+
+27854
+LEC
+SM1138
+TR 15:55 - 17:15
+Ramnath, Rajiv
+Regular
+ 
+
+
+27854
+LEC
+RA0059
+TR 15:55 - 17:15
+Ramnath, Rajiv
+Regular
+ 
+
+
+   
+
+
+CSE 3241 Introduction to Database Systems U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26272
+LEC
+BE0140
+TR 14:20 - 15:40
+Madrid, Leon
+Regular
+ 
+
+
+
+27665
+LEC
+CL0220
+WF 08:35 - 09:55
+Eden, Jeffrey
+Regular
+ 
+
+
+
+27401
+LEC
+BE0140
+TR 15:55 - 17:15
+Madrid, Leon
+Regular
+ 
+
+
+
+23762
+LEC
+DL0305
+TR 17:30 - 18:50
+Chiu, Lin
+Regular
+ 
+
+
+
+26817
+LEC
+BE0140
+TR 12:45 - 14:05
+Madrid, Leon
+Regular
+ 
+
+
+
+35390
+LEC
+CH0218
+MWF 13:50 - 14:45
+Kirby, Neil
+Regular
+ 
+
+
+
+34022
+LEC
+MP1035
+TR 09:35 - 10:55
+Madrid, Leon
+Regular
+ 
+
+
+   
+
+
+CSE 3244 Data Management in the Cloud U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+33874
+LEC
+DL0266
+TR 09:35 - 10:55
+Stewart, Christopher
+Regular
+ 
+
+
+   
+
+
+CSE 3321 Automata and Formal Languages U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27244
+LEC
+DL0266
+MWF 15:00 - 15:55
+Close, Doreen
+Regular
+ 
+
+
+
+23764
+LEC
+DL0266
+MWF 13:50 - 14:45
+Close, Doreen
+Regular
+ 
+
+
+   
+
+
+CSE 3341 Principles of Programming Languages U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24165
+LEC
+DL0305
+MWF 09:10 - 10:05
+Heym, Wayne
+Regular
+ 
+
+
+
+23765
+LEC
+CL0171
+MWF 15:00 - 15:55
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+
+26986
+LEC
+CL0171
+MWF 13:50 - 14:45
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+   
+
+
+CSE 3421 Introduction to Computer Architecture U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23768
+LEC
+BE0140
+TR 11:10 - 12:30
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+   
+
+
+CSE 3430 Overview of Computer Systems For Non-Majors U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27855
+LEC
+BO0412
+MWF 14:20 - 15:40
+Green, George
+Regular
+ 
+
+
+   
+
+
+CSE 3461 Computer Networking and Internet Technologies U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26467
+LEC
+BE0140
+TR 17:45 - 19:05
+Rivera, Angel
+Regular
+ 
+
+
+
+34020
+LEC
+BE0198
+TR 09:35 - 10:55
+Ogle, David
+Regular
+ 
+
+
+
+23769
+LEC
+UH0082
+TR 11:10 - 12:30
+Athreya, Kannan
+Regular
+ 
+
+
+
+26584
+LEC
+DL0264
+TR 12:45 - 14:05
+Champion, Adam
+Regular
+ 
+
+
+
+23770
+LEC
+DL0264
+TR 14:20 - 15:40
+Champion, Adam
+Regular
+ 
+
+
+   
+
+
+CSE 3521 Survey of Artificial Intelligence I: Basic Techniques U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27874
+LEC
+DE0253
+WF 09:35 - 10:55
+Barker, Joseph
+Regular
+ 
+
+
+
+23771
+LEC
+CL0171
+TR 11:10 - 12:30
+Serai, Prashant
+Regular
+ 
+
+
+
+27666
+LEC
+CH0312
+WF 12:45 - 14:05
+Barker, Joseph
+Regular
+ 
+
+
+
+34018
+LEC
+SM1138
+TR 14:20 - 15:40
+Barker, Joseph
+Regular
+ 
+
+
+
+27392
+LEC
+CH0312
+WF 14:20 - 15:40
+Barker, Joseph
+Regular
+ 
+
+
+
+26383
+LEC
+BE0140
+TR 09:35 - 10:55
+Plantinga, Peter
+Regular
+ 
+
+
+   
+
+
+CSE 3541 Computer Game and Animation Techniques U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23772
+LEC
+UH0082
+MWF 12:40 - 13:35
+Kim, Paul
+Regular
+ 
+
+
+
+23773
+LEC
+UH0082
+MWF 09:10 - 10:05
+Boggus, Matthew
+Regular
+ 
+
+
+   
+
+
+CSE 3901 Project: Design, Development, and Documentation of Web Applications U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26970
+LEC
+DL0317
+MWF 13:50 - 14:45
+Shareef, Naeem
+Regular
+ 
+
+
+
+35729
+LEC
+CL0133
+MWF 10:20 - 11:15
+Shareef, Naeem
+Regular
+ 
+
+
+
+23774
+LEC
+DL0317
+MWF 12:40 - 13:35
+Shareef, Naeem
+Regular
+ 
+
+
+
+26275
+LEC
+DL0317
+MW 17:30 - 18:50
+Giles, Charles
+Regular
+ 
+
+
+
+26200
+LEC
+DL0317
+MWF 09:10 - 10:05
+Joseph, Robert
+Regular
+ 
+
+
+   
+
+
+CSE 3902 Project: Design, Development, and Documentation of Interactive Systems U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35388
+LEC
+CL0220
+MWF 10:20 - 11:15
+Kirby, Neil
+Regular
+ 
+
+
+
+27667
+LEC
+CL0220
+MWF 11:30 - 12:25
+Kirby, Neil
+Regular
+ 
+
+
+
+26527
+LEC
+DL0317
+TR 17:30 - 18:50
+Mills, Scott
+Regular
+ 
+
+
+   
+
+
+CSE 3903 Project: Design, Development, and Documentation of System Software U 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27858
+LEC
+DL0317
+MWF 10:20 - 11:15
+Sivilotti, Paolo
+Regular
+ 
+
+
+   
+
+
+CSE 4689 Professional Practice in Industry U 0
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+25288
+LEC
+ 
+ARR
+Strader, Nikola
+Regular
+ 
+
+
+   
+
+
+CSE 4193 Individual Studies in Computer Science and Engineering U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24859
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24861
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+24858
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24860
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24866
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24865
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+27015
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+24862
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24863
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24864
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+26288
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24857
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24856
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+27490
+IND
+ 
+ARR
+Fritz, Michael
+Regular
+ 
+
+
+
+27489
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+24834
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24833
+IND
+ 
+ARR
+Heym, Wayne
+Regular
+ 
+
+
+
+24832
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24831
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24830
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24829
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24828
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24817
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+24827
+IND
+ 
+ARR
+Bucci, Paolo
+Regular
+ 
+
+
+
+24826
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24825
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24824
+IND
+ 
+ARR
+Bair, Bettina
+Regular
+ 
+
+
+
+24835
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24823
+IND
+ 
+ARR
+Babic, Gojko
+Regular
+ 
+
+
+
+27491
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27492
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+24837
+IND
+ 
+ARR
+Jones, Jeffrey
+Regular
+ 
+
+
+
+24855
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24854
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24853
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24852
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24851
+IND
+ 
+ARR
+Shareef, Naeem
+Regular
+ 
+
+
+
+24849
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24848
+IND
+ 
+ARR
+Romig, Steven
+Regular
+ 
+
+
+
+24847
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24845
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24844
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24843
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24842
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24841
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+24840
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24839
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24838
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+24822
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+27164
+IND
+ 
+ARR
+Boggus, Matthew
+Regular
+ 
+
+
+
+35237
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+35263
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+35198
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+35251
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+26590
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+27016
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+26579
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+24850
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+   
+
+
+CSE 4194 Group Studies in Computer Science and Engineering U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35541
+LAB
+DL0280
+M 17:20 - 19:10
+Fritz, Michael
+Regular
+ProgrmmingInPython
+
+
+   
+
+
+CSE 4251 The UNIX Programming Environment U 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23712
+LEC
+UH0056
+M 09:10 - 10:05
+Kumari, Sangeeta
+Regular
+ 
+
+
+   
+
+
+CSE 4252 Programming in C++ U 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23713
+LEC
+UH0056
+M 10:20 - 11:15
+Du, Yihang
+Regular
+ 
+
+
+   
+
+
+CSE 4253 Programming in C# U 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23711
+LEC
+DL0280
+M 12:40 - 13:35
+Kidwell, Richard
+Regular
+ 
+
+
+   
+
+
+CSE 4471 Information Security UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26468
+LEC
+DL0305
+TR 12:45 - 14:05
+Xuan, Dong
+Regular
+ 
+
+
+
+23776
+LEC
+DL0305
+TR 11:10 - 12:30
+Xuan, Dong
+Regular
+ 
+
+
+   
+
+
+CSE 4998 Undergraduate Research in Computer Science and Engineering U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27018
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+24873
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24874
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24875
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24877
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24878
+IND
+ 
+ARR
+Heym, Wayne
+Regular
+ 
+
+
+
+24879
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24880
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24871
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+35256
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+24872
+IND
+ 
+ARR
+Bucci, Paolo
+Regular
+ 
+
+
+
+24876
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+27019
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24818
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+24867
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+24868
+IND
+ 
+ARR
+Babic, Gojko
+Regular
+ 
+
+
+
+24869
+IND
+ 
+ARR
+Bair, Bettina
+Regular
+ 
+
+
+
+24870
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+35264
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+24881
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+24882
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24898
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24899
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24900
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24901
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24902
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24903
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24904
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+24905
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24907
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24908
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24909
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24906
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24897
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24896
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24883
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24884
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+24885
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24886
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24887
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24888
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24890
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24891
+IND
+ 
+ARR
+Romig, Steven
+Regular
+ 
+
+
+
+24892
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24893
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24894
+IND
+ 
+ARR
+Shareef, Naeem
+Regular
+ 
+
+
+
+24895
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+27017
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+35238
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+35199
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+26592
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+26594
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+27494
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27495
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+27493
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+   
+
+
+CSE 4998H Undergraduate Research in Computer Science and Engineering U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24816
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+   
+
+
+CSE 4999 Computer Science and Engineering Research for Thesis U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24914
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24915
+IND
+ 
+ARR
+Bucci, Paolo
+Regular
+ 
+
+
+
+24916
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24917
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24918
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24919
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24922
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24920
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24921
+IND
+ 
+ARR
+Heym, Wayne
+Regular
+ 
+
+
+
+24913
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24912
+IND
+ 
+ARR
+Bair, Bettina
+Regular
+ 
+
+
+
+24911
+IND
+ 
+ARR
+Babic, Gojko
+Regular
+ 
+
+
+24937
+IND
+ 
+ARR
+Shareef, Naeem
+Regular
+ 
+
+
+
+26598
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+26596
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+24944
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+27910
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+27911
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+24910
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+24923
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24924
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+24925
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24942
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24943
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24945
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24946
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24947
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+24948
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24949
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24950
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24951
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24952
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24941
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24940
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24926
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24927
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+24928
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24929
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24930
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24931
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24933
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24934
+IND
+ 
+ARR
+Romig, Steven
+Regular
+ 
+
+
+
+24936
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24938
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24939
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24935
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+27498
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+24819
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+27123
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+27497
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+35200
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+35239
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+35265
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+27496
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+35257
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+   
+
+
+CSE 4999H Computer Science and Engineering Research for Thesis U 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24815
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+   
+
+
+CSE 4221 Introduction to Object-Oriented Programming U 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26632
+LEC
+DL0357
+TR 16:10 - 17:05
+Latour, Robert
+Regular
+ 
+
+
+26633
+LAB
+DL0280
+WF 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+26630
+LEC
+DL0357
+TR 15:00 - 15:55
+Bair, Bettina
+Regular
+ 
+
+
+26631
+LAB
+DL0280
+WF 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+
+26628
+LEC
+DL0357
+TR 13:50 - 14:45
+Bair, Bettina
+Regular
+ 
+
+
+26629
+LAB
+DL0280
+WF 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+26626
+LEC
+DL0357
+TR 12:40 - 13:35
+Boggus, Matthew
+Regular
+ 
+
+
+26627
+LAB
+DL0280
+WF 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26624
+LEC
+DL0357
+TR 11:30 - 12:25
+Boggus, Matthew
+Regular
+ 
+
+
+26625
+LAB
+DL0280
+WF 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+26622
+LEC
+DL0357
+TR 10:20 - 11:15
+Grupa, Adam
+Regular
+ 
+
+
+26623
+LAB
+DL0280
+WF 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+26620
+LEC
+DL0357
+TR 09:10 - 10:05
+Bucci, Paolo
+Regular
+ 
+
+
+26621
+LAB
+DL0280
+WF 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26580
+LEC
+DL0357
+TR 08:00 - 08:55
+Bucci, Paolo
+Regular
+ 
+
+
+26581
+LAB
+DL0280
+WF 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+
+27545
+LEC
+DL0264
+TR 09:10 - 10:05
+Grupa, Adam
+Regular
+ 
+
+
+27546
+LAB
+CL0112A
+WF 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 5023 Software II: Software Development and Design UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26642
+LEC
+DL0357
+WF 13:50 - 14:45
+Wolf, Annatala
+Regular
+ 
+
+
+26643
+LAB
+DL0280
+TR 13:50 - 14:45
+No instructor listed
+Regular
+ 
+
+
+
+26640
+LEC
+DL0357
+WF 12:40 - 13:35
+Heym, Wayne
+Regular
+ 
+
+
+26641
+LAB
+DL0280
+TR 12:40 - 13:35
+No instructor listed
+Regular
+ 
+
+
+
+26644
+LEC
+DL0357
+WF 15:00 - 15:55
+Wolf, Annatala
+Regular
+ 
+
+
+26645
+LAB
+DL0280
+TR 15:00 - 15:55
+No instructor listed
+Regular
+ 
+
+
+
+26636
+LEC
+DL0357
+WF 10:20 - 11:15
+Bucci, Paolo
+Regular
+ 
+
+
+26637
+LAB
+DL0280
+TR 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+26646
+LEC
+DL0357
+WF 16:10 - 17:05
+Wolf, Annatala
+Regular
+ 
+
+
+26647
+LAB
+DL0280
+TR 16:10 - 17:05
+No instructor listed
+Regular
+ 
+
+
+
+27533
+LEC
+DL0357
+WF 09:10 - 10:05
+Kiel, Christine
+Regular
+ 
+
+
+27534
+LAB
+CL0112A
+TR 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26634
+LEC
+BE0180
+WF 09:10 - 10:05
+Morris, Jeremy
+Regular
+ 
+
+
+26635
+LAB
+DL0280
+TR 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26638
+LEC
+DL0357
+WF 11:30 - 12:25
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+26639
+LAB
+DL0280
+TR 11:30 - 12:25
+No instructor listed
+Regular
+ 
+
+
+
+26582
+LEC
+DL0357
+WF 08:00 - 08:55
+Kiel, Christine
+Regular
+ 
+
+
+26583
+LAB
+DL0280
+TR 08:00 - 08:55
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 5032 Foundations I: Discrete Structures UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26996
+LEC
+DL0369
+MWF 11:30 - 12:25
+Carpenter, Timothy
+Regular
+ 
+
+
+
+26997
+LEC
+DL0369
+MWF 12:40 - 13:35
+Fritz, Michael
+Regular
+ 
+
+
+
+26994
+LEC
+ 
+MWF 09:10 - 10:05
+No instructor listed
+Regular
+ 
+
+
+
+26995
+LEC
+ 
+MWF 10:20 - 11:15
+No instructor listed
+Regular
+ 
+
+
+
+26998
+LEC
+DL0369
+MWF 13:50 - 14:45
+Fritz, Michael
+Regular
+ 
+
+
+
+26993
+LEC
+DL0369
+MWF 08:00 - 08:55
+Estill, Charles
+Regular
+ 
+
+
+   
+
+
+CSE 5042 Systems I: Introduction to Low-Level Programming and Computer Organization UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27857
+LEC
+MP1021
+TWRF 15:00 - 15:55
+Jones, Janis
+Regular
+ 
+
+
+
+26981
+LEC
+CL0137
+MWF 12:45 - 14:05
+Babic, Gojko
+Regular
+ 
+
+
+
+26979
+LEC
+MP1021
+TWRF 10:20 - 11:15
+Jones, Janis
+Regular
+ 
+
+
+
+26648
+LEC
+DL0305
+MWF 10:20 - 11:40
+Babic, Gojko
+Regular
+ 
+
+
+
+26980
+LEC
+MP1021
+TWRF 13:50 - 14:45
+Jones, Janis
+Regular
+ 
+
+
+   
+
+
+CSE 5043 Overview of Computer Systems For Non-Majors UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27856
+LEC
+BO0412
+MWF 14:20 - 15:40
+Green, George
+Regular
+ 
+
+
+   
+
+
+CSE 5194.01 Group Studies in Computer Science and Engineering UG 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35525
+LEC
+CL0171
+TR 12:45 - 14:05
+Nandi, Arnab
+Regular
+Data Query
+
+
+
+35526
+LEC
+CL0171
+TR 12:45 - 14:05
+Nandi, Arnab
+Regular
+Data Query
+
+
+
+35186
+LEC
+DL0317
+TR 12:45 - 14:05
+Panda, Dhabaleswar
+Regular
+HPC4DeepLearning
+
+
+35186
+LEC
+DL0317
+TR 12:45 - 14:05
+Subramoni, Hari
+Regular
+HPC4DeepLearning
+
+
+
+35187
+LEC
+DL0317
+TR 12:45 - 14:05
+Panda, Dhabaleswar
+Regular
+HPC4DeepLearning
+
+
+35187
+LEC
+DL0317
+TR 12:45 - 14:05
+Subramoni, Hari
+Regular
+HPC4DeepLearning
+
+
+   
+
+
+CSE 5231 Software Engineering Techniques UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27925
+LEC
+MP2015
+TR 09:35 - 10:55
+Cline, Alan
+Regular
+ 
+
+
+
+24381
+LEC
+MP1046
+TR 11:10 - 12:30
+Cline, Alan
+Regular
+ 
+
+
+   
+
+
+CSE 5232 Software Requirements Analysis UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+34995
+LEC
+RA0059
+TR 15:55 - 17:15
+Ramnath, Rajiv
+Regular
+ 
+
+
+34995
+LEC
+SM1138
+TR 15:55 - 17:15
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+23830
+LEC
+DL0369
+MW 17:30 - 18:50
+Bihari, Thomas
+Regular
+ 
+
+
+   
+
+
+CSE 5234 Distributed Enterprise Computing UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23777
+LEC
+DL0357
+MW 18:00 - 19:20
+Kumar, Praveen
+Regular
+ 
+
+
+
+24383
+LEC
+DL0357
+MW 18:00 - 19:20
+Kumar, Praveen
+Regular
+ 
+
+
+   
+
+
+CSE 5236 Mobile Application Development UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26506
+LEC
+BE0140
+MWF 11:30 - 12:25
+Champion, Adam
+Regular
+ 
+
+
+
+26553
+LEC
+BE0140
+MWF 10:20 - 11:15
+Champion, Adam
+Regular
+ 
+
+
+
+26555
+LEC
+BE0140
+MWF 10:20 - 11:15
+Champion, Adam
+Regular
+ 
+
+
+
+26554
+LEC
+BE0140
+MWF 11:30 - 12:25
+Champion, Adam
+Regular
+ 
+
+
+   
+
+
+CSE 5241 Introduction to Database Systems UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+
+27403
+LEC
+BE0140
+TR 15:55 - 17:15
+Madrid, Leon
+Regular
+ 
+
+
+
+34993
+LEC
+MP1035
+TR 09:35 - 10:55
+Madrid, Leon
+Regular
+ 
+
+
+
+27001
+LEC
+BE0140
+TR 12:45 - 14:05
+Madrid, Leon
+Regular
+ 
+
+
+
+24390
+LEC
+DL0305
+TR 17:30 - 18:50
+Chiu, Lin
+Regular
+ 
+
+
+
+26274
+LEC
+BE0140
+TR 14:20 - 15:40
+Madrid, Leon
+Regular
+ 
+
+
+
+34992
+LEC
+CL0220
+WF 08:35 - 09:55
+Eden, Jeffrey
+Regular
+ 
+
+
+
+   
+
+
+CSE 5242 Advanced Database Management Systems UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26505
+LEC
+DL0305
+TR 09:35 - 10:55
+Blanas, Spyridon
+Regular
+ 
+
+
+
+26504
+LEC
+DL0305
+TR 09:35 - 10:55
+Blanas, Spyridon
+Regular
+ 
+
+
+   
+
+
+CSE 5243 Introduction to Data Mining UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26557
+LEC
+BE0136
+TR 09:35 - 10:55
+Sun, Huan
+Regular
+ 
+
+
+
+35300
+LEC
+CL0177
+MW 17:30 - 18:50
+Burkhardt, Michael
+Regular
+ 
+
+
+
+35301
+LEC
+CL0177
+MW 17:30 - 18:50
+Burkhardt, Michael
+Regular
+ 
+
+
+
+33882
+LEC
+DL0480
+WF 14:20 - 15:40
+Jones, Jeffrey
+Regular
+ 
+
+
+
+33883
+LEC
+DL0480
+WF 14:20 - 15:40
+Jones, Jeffrey
+Regular
+ 
+
+
+
+26507
+LEC
+DL0480
+WF 11:10 - 12:30
+Jones, Jeffrey
+Regular
+ 
+
+
+
+26558
+LEC
+BE0136
+TR 09:35 - 10:55
+Sun, Huan
+Regular
+ 
+
+
+
+26469
+LEC
+DL0480
+WF 11:10 - 12:30
+Jones, Jeffrey
+Regular
+ 
+
+
+   
+
+
+CSE 5321 Automata and Formal Languages UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27370
+LEC
+DL0266
+MWF 15:00 - 15:55
+Close, Doreen
+Regular
+ 
+
+
+
+24394
+LEC
+DL0266
+MWF 13:50 - 14:45
+Close, Doreen
+Regular
+ 
+
+
+   
+
+
+CSE 5331 Foundations II: Data Structures and Algorithms UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27971
+LEC
+DL0480
+TR 09:35 - 10:55
+Zaccai, Diego
+Regular
+ 
+
+
+
+27849
+LEC
+DL0305
+TR 14:20 - 15:40
+Zaccai, Diego
+Regular
+ 
+
+
+
+27850
+LEC
+BE0180
+WF 14:20 - 15:40
+Zaccai, Diego
+Regular
+ 
+
+
+
+26331
+LEC
+DL0305
+MWF 13:50 - 14:45
+Supowit, Kenneth
+Regular
+ 
+
+
+
+35887
+LEC
+MQ0162
+MWF 12:40 - 13:35
+Bobkov, Anton
+Regular
+ 
+
+
+
+23828
+LEC
+DL0480
+WF 09:35 - 10:55
+Zaccai, Diego
+Regular
+ 
+
+
+
+25975
+LEC
+DL0305
+MWF 12:40 - 13:35
+Supowit, Kenneth
+Regular
+ 
+
+
+   
+
+
+CSE 5341 Principles of Programming Languages UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24397
+LEC
+DL0305
+MWF 09:10 - 10:05
+Heym, Wayne
+Regular
+ 
+
+
+
+24396
+LEC
+CL0171
+MWF 15:00 - 15:55
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+
+26991
+LEC
+CL0171
+MWF 13:50 - 14:45
+Joshi, Swaroop ravindra
+Regular
+ 
+
+
+   
+
+
+CSE 5343 Compiler Design and Implementation UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+34885
+LEC
+CL0120
+TR 14:20 - 15:40
+Rountev, Atanas
+Regular
+ 
+
+
+
+34884
+LEC
+CL0120
+TR 14:20 - 15:40
+Rountev, Atanas
+Regular
+ 
+
+
+   
+
+
+CSE 5421 Introduction to Computer Architecture UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24400
+LEC
+BE0140
+TR 11:10 - 12:30
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+   
+
+
+CSE 5431 Systems II: Introduction to Operating Systems UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26564
+LEC
+MQ0159
+TR 09:35 - 10:55
+Babic, Gojko
+Regular
+ 
+
+
+
+24369
+LEC
+SOE0024
+TR 11:10 - 12:30
+Qin, Feng
+Regular
+ 
+
+
+
+26988
+LEC
+DL0266
+TR 12:45 - 14:05
+Close, Doreen
+Regular
+ 
+
+
+
+26989
+LEC
+DL0266
+TR 12:45 - 14:05
+Close, Doreen
+Regular
+ 
+
+
+
+24370
+LEC
+DL0369
+TR 14:20 - 15:40
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24373
+LEC
+DL0369
+TR 12:45 - 14:05
+Zhang, Yinqian
+Regular
+ 
+
+
+   
+
+
+CSE 5432 Mobile Handset Systems and Networking UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+34950
+LEC
+BO0422
+WF 12:45 - 14:05
+Xuan, Dong
+Regular
+ 
+
+
+
+34951
+LEC
+BO0422
+WF 12:45 - 14:05
+Xuan, Dong
+Regular
+ 
+
+
+   
+
+
+CSE 5433 Operating Systems Laboratory UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27374
+LEC
+DL0480
+TR 14:20 - 15:40
+Qin, Feng
+Regular
+ 
+
+
+
+27375
+LEC
+DL0480
+TR 14:20 - 15:40
+Qin, Feng
+Regular
+ 
+
+
+   
+
+
+CSE 5439 Intermediate Studies in Operating Systems UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+   
+
+
+CSE 5441 Introduction to Parallel Computing UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23783
+LEC
+BE0136
+TR 14:20 - 15:40
+Jones, Jeffrey
+Regular
+ 
+
+
+
+27372
+LEC
+BE0136
+TR 12:45 - 14:05
+Jones, Jeffrey
+Regular
+ 
+
+
+
+27373
+LEC
+BE0136
+TR 12:45 - 14:05
+Jones, Jeffrey
+Regular
+ 
+
+
+
+24384
+LEC
+BE0136
+TR 14:20 - 15:40
+Jones, Jeffrey
+Regular
+ 
+
+
+   
+
+
+CSE 5449 Intermediate Studies in Parallel Computing UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27753
+LEC
+CL0277
+WF 15:55 - 17:15
+Sadayappan, P
+Regular
+High Performance GPU Computing
+
+
+27753
+LEC
+CL0277
+WF 15:55 - 17:15
+Sukumaran rajam, Aravind
+Regular
+High Performance GPU Computing
+
+
+
+27754
+LEC
+CL0277
+WF 15:55 - 17:15
+Sadayappan, P
+Regular
+High Performance GPU Computing
+
+
+27754
+LEC
+CL0277
+WF 15:55 - 17:15
+Sukumaran rajam, Aravind
+Regular
+High Performance GPU Computing
+
+
+   
+
+
+CSE 5461 Computer Networking and Internet Technologies UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26585
+LEC
+BE0140
+TR 17:45 - 19:05
+Rivera, Angel
+Regular
+ 
+
+
+
+24403
+LEC
+DL0264
+TR 14:20 - 15:40
+Champion, Adam
+Regular
+ 
+
+
+
+24402
+LEC
+UH0082
+TR 11:10 - 12:30
+Athreya, Kannan
+Regular
+ 
+
+
+
+34984
+LEC
+BE0198
+TR 09:35 - 10:55
+Ogle, David
+Regular
+ 
+
+
+
+26588
+LEC
+DL0264
+TR 12:45 - 14:05
+Champion, Adam
+Regular
+ 
+
+
+   
+
+
+CSE 5472 Information Security Projects UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23791
+LEC
+MQ0162
+TR 15:55 - 17:15
+Romig, Steven
+Regular
+ 
+
+
+
+24385
+LEC
+MQ0162
+TR 15:55 - 17:15
+Romig, Steven
+Regular
+ 
+
+
+   
+
+
+CSE 5473 Network Security UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+34949
+LEC
+DL0266
+MWF 12:40 - 13:35
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+34948
+LEC
+DL0266
+MWF 12:40 - 13:35
+Lin, Zhiqiang
+Regular
+ 
+
+
+   
+
+
+CSE 5479 Intermediate Studies in Computer Security UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27902
+LEC
+DL0264
+F 14:20 - 16:10
+Lin, Zhiqiang
+Regular
+Software Security
+
+
+
+35061
+LEC
+CL0177
+F 16:40 - 18:30
+Bassily, Raef
+Regular
+Data Privacy
+
+
+
+35060
+LEC
+CL0177
+F 16:40 - 18:30
+Bassily, Raef
+Regular
+Data Privacy
+
+
+
+27903
+LEC
+DL0264
+F 14:20 - 16:10
+Lin, Zhiqiang
+Regular
+Software Security
+
+
+   
+
+
+CSE 5501 Social, Ethical, and Professional Issues in Computing UG 1
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+36347
+LEC
+BE0394
+TR 19:05 - 20:25
+Rice, Lori
+Session 2
+ 
+
+
+
+24379
+LEC
+DL0317
+T 11:10 - 12:30
+Weaver, Bryan
+Regular
+ 
+
+
+
+27841
+LEC
+BE0394
+R 17:30 - 18:50
+Rice, Lori
+Regular
+ 
+
+
+
+24378
+LEC
+DL0317
+T 14:20 - 15:40
+Weaver, Bryan
+Regular
+ 
+
+
+
+24377
+LEC
+DL0317
+T 09:35 - 10:55
+Mallon, Michelle
+Regular
+ 
+
+
+
+27365
+LEC
+BE0180
+T 17:30 - 18:50
+Martin, William
+Regular
+ 
+
+
+
+34998
+LEC
+DL0317
+R 14:20 - 15:40
+Weaver, Bryan
+Regular
+ 
+
+
+
+26978
+LEC
+DL0317
+R 11:10 - 12:30
+Weaver, Bryan
+Regular
+ 
+
+
+   
+
+
+CSE 5521 Survey of Artificial Intelligence I: Basic Techniques UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27923
+LEC
+CH0312
+WF 12:45 - 14:05
+Barker, Joseph
+Regular
+ 
+
+
+
+27922
+LEC
+CH0312
+WF 14:20 - 15:40
+Barker, Joseph
+Regular
+ 
+
+
+
+34987
+LEC
+DE0253
+WF 09:35 - 10:55
+Barker, Joseph
+Regular
+ 
+
+
+
+34988
+LEC
+SM1138
+TR 14:20 - 15:40
+Barker, Joseph
+Regular
+ 
+
+
+   
+
+
+CSE 5522 Survey of Artificial Intelligence II: Advanced Techniques UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23807
+LEC
+CL0120
+WF 14:20 - 15:40
+Xu, Wei
+Regular
+ 
+
+
+
+35417
+LEC
+JR0375
+WF 14:20 - 15:40
+Hamm, Jihun
+Regular
+ 
+
+
+
+35451
+LEC
+JR0375
+WF 14:20 - 15:40
+Hamm, Jihun
+Regular
+ 
+
+
+
+24386
+LEC
+CL0120
+WF 14:20 - 15:40
+Xu, Wei
+Regular
+ 
+
+
+
+27669
+LEC
+JR0375
+WF 15:55 - 17:15
+Hamm, Jihun
+Regular
+ 
+
+
+
+27859
+LEC
+JR0375
+WF 15:55 - 17:15
+Hamm, Jihun
+Regular
+ 
+
+
+   
+
+
+CSE 5523 Machine Learning and Statistical Pattern Recognition UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35605
+LEC
+BE0144
+WF 09:35 - 10:55
+Belkin, Mikhail
+Regular
+ 
+
+
+
+27973
+LEC
+DL0480
+TR 11:10 - 12:30
+Ritter, Alan
+Regular
+ 
+
+
+
+35606
+LEC
+BE0144
+WF 09:35 - 10:55
+Belkin, Mikhail
+Regular
+ 
+
+
+
+27972
+LEC
+DL0480
+TR 11:10 - 12:30
+Ritter, Alan
+Regular
+ 
+
+
+
+27383
+LEC
+KN0195
+WF 14:20 - 15:40
+Bassily, Raef
+Regular
+ 
+
+
+
+27384
+LEC
+KN0195
+WF 14:20 - 15:40
+Bassily, Raef
+Regular
+ 
+
+
+   
+
+
+CSE 5524 Computer Vision for Human-Computer Interaction UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27316
+LEC
+DL0480
+TR 12:45 - 14:05
+Davis, James
+Regular
+ 
+
+
+
+27317
+LEC
+DL0480
+TR 12:45 - 14:05
+Davis, James
+Regular
+ 
+
+
+   
+
+
+CSE 5526 Introduction to Neural Networks UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24387
+LEC
+CH0218
+TR 09:35 - 10:55
+Wang, Deliang
+Regular
+ 
+
+
+
+23808
+LEC
+CH0218
+TR 09:35 - 10:55
+Wang, Deliang
+Regular
+ 
+
+
+   
+
+
+CSE 5541 Computer Game and Animation Techniques UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24428
+LEC
+UH0082
+MWF 09:10 - 10:05
+Boggus, Matthew
+Regular
+ 
+
+
+   
+
+
+CSE 5542 Real-Time Rendering UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+35316
+LEC
+DL0369
+TR 09:35 - 10:55
+Shen, Han-wei
+Regular
+ 
+
+
+
+35317
+LEC
+DL0369
+TR 09:35 - 10:55
+Shen, Han-wei
+Regular
+ 
+
+
+   
+
+
+CSE 5544 Introduction to Data Visualization UG 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+33876
+LEC
+DL0369
+TR 11:10 - 12:30
+Shen, Han-wei
+Regular
+ 
+
+
+
+33875
+LEC
+DL0369
+TR 11:10 - 12:30
+Shen, Han-wei
+Regular
+ 
+
+
+   
+
+
+CSE 5559 Intermediate Studies in Computer Graphics UG 2
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27895
+LEC
+DL0357
+M 13:30 - 15:20
+Wang, Yusu
+Regular
+Topological Data Analysis
+
+
+
+27894
+LEC
+DL0357
+M 13:30 - 15:20
+Wang, Yusu
+Regular
+Topological Data Analysis
+
+
+   
+
+
+CSE 5911 Capstone Design: Software Applications UG 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23795
+LEC
+DL0266
+MW 19:15 - 20:45
+Jayanti, Suribabu
+Regular
+ 
+
+
+
+33880
+LEC
+DL0266
+TR 14:20 - 15:40
+Cline, Alan
+Regular
+ 
+
+
+
+33879
+LEC
+DL0266
+TR 14:20 - 15:40
+Cline, Alan
+Regular
+ 
+
+
+
+24389
+LEC
+DL0266
+MW 19:15 - 20:45
+Jayanti, Suribabu
+Regular
+ 
+
+
+   
+
+
+CSE 5912 Capstone Design: Game Design and Development UG 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23797
+LEC
+DL0264
+TWRF 10:20 - 11:15
+Crawfis, Roger
+Regular
+ 
+
+
+
+23826
+LEC
+DL0264
+TWRF 10:20 - 11:15
+Crawfis, Roger
+Regular
+ 
+
+
+   
+
+
+CSE 5914 Capstone Design: Knowledge-Based Systems UG 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27359
+LEC
+CL0220
+TR 16:00 - 17:20
+Boxwell, Stephen
+Regular
+ 
+
+
+
+27358
+LEC
+CL0220
+TR 16:00 - 17:20
+Boxwell, Stephen
+Regular
+ 
+
+
+
+35351
+LEC
+CL0220
+TR 17:35 - 18:55
+Boxwell, Stephen
+Regular
+ 
+
+
+
+35352
+LEC
+CL0220
+TR 17:35 - 18:55
+Boxwell, Stephen
+Regular
+ 
+
+
+   
+
+
+CSE 5915 Capstone Design: Information Systems UG 4
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26958
+LEC
+UH0082
+TR 12:45 - 14:05
+Ogle, David
+Regular
+ 
+
+
+
+35298
+LEC
+DL0266
+TR 17:30 - 18:50
+Chaabouni, Moez
+Regular
+ 
+
+
+
+35299
+LEC
+DL0266
+TR 17:30 - 18:50
+Chaabouni, Moez
+Regular
+ 
+
+
+
+26957
+LEC
+UH0082
+TR 12:45 - 14:05
+Ogle, David
+Regular
+ 
+
+
+   
+
+
+ECE 6101 Computer Communication Networks G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23670
+LEC
+BE0188
+TR 15:55 - 17:15
+Shroff, Ness
+Regular
+ 
+
+
+   
+
+
+CSE 6193 Individual Studies in Computer Science and Engineering G 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24793
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24782
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24780
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24779
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24778
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24777
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+27499
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+27500
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+24783
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24784
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24792
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24791
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24790
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24789
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24788
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24787
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24786
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24785
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+35240
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+24762
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+27507
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24772
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24771
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24770
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24769
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24768
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24767
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24766
+IND
+ 
+ARR
+Bucci, Paolo
+Regular
+ 
+
+
+
+24765
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24773
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24774
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+35258
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+24776
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+35266
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+24775
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24764
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24794
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+35204
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+26600
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+26602
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+27912
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+24763
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+27120
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+27124
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+24799
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24798
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24797
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24796
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24795
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+26298
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+   
+
+
+CSE 6239 Advanced Studies in Software Engineering G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+25283
+LEC
+ 
+ARR
+No instructor listed
+Regular
+OO & Dist Sys Behaviors
+
+
+
+25279
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Enterprise Systems
+
+
+   
+
+
+CSE 6249 Advanced Studies in Databases G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24133
+LEC
+BE0128
+R 16:30 - 18:30
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 6331 Algorithms G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27853
+LEC
+DL0305
+TR 15:55 - 17:05
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+27371
+LEC
+CH0218
+TR 12:45 - 14:05
+Lai, Ten-hwang
+Regular
+ 
+
+
+   
+
+
+CSE 6341 Foundations of Programming Languages G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23778
+LEC
+DL0264
+MWF 11:30 - 12:25
+Soundarajan, Neelam
+Regular
+ 
+
+
+   
+
+
+CSE 6421 Computer Architecture G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27013
+LEC
+BE0180
+TR 14:20 - 15:40
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+   
+
+
+CSE 6429 Advanced Studies in Computer Architecture G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24954
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Network-Based Computing
+
+
+
+25277
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Sustainable, Cloud Computing
+
+
+
+26045
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Readings in Comp Architecture
+
+
+   
+
+
+CSE 6431 Advanced Operating Systems G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26960
+LEC
+DL0480
+MW 12:45 - 14:05
+Wang, Yang
+Regular
+ 
+
+
+   
+
+
+CSE 6449 Advanced Studies in Parallel Computing G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24953
+LEC
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 6461 Computer Communication Networks G 3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+23824
+LEC
+BE0188
+TR 15:55 - 17:15
+Shroff, Ness
+Regular
+ 
+
+
+   
+
+
+CSE 6469 Advanced Studies in Computer Networking G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+26680
+LEC
+DL0698
+R 11:10 - 12:30
+No instructor listed
+Regular
+ 
+
+
+   
+
+
+CSE 6539 Advanced Studies in Artificial Intelligence G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27014
+LEC
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+25278
+LEC
+DL0298
+M 09:10 - 10:05
+No instructor listed
+Regular
+Speech&Language Reading Group
+
+
+
+25282
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Abductive Inference
+
+
+   
+
+
+CSE 6559 Advanced Studies in Computer Graphics G 1-3
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+36240
+LEC
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+25280
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Sci Data Managmnt, Anlys & Viz
+
+
+
+25281
+LEC
+ 
+ARR
+No instructor listed
+Regular
+Adv Cmptr Graphics & Geo Model
+
+
+   
+
+
+CSE 6998 MS Research in Computer Science and Engineering G 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24516
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24515
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24497
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24522
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+24517
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24518
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24519
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24527
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24526
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+35241
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+24525
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24524
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24523
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+35259
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+27913
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+24521
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24520
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+35267
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+35214
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+24135
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+24499
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+27506
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24498
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24496
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+27502
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27501
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+26299
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+24495
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+26604
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+26606
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+24494
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24493
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+27121
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+24492
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+27125
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+24500
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24501
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24503
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24507
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24514
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24508
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24513
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24512
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24510
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24511
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24506
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24505
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24504
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24502
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+   
+
+
+CSE 6999 MS Thesis Research in Computer Science and Engineering G 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24691
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24690
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24698
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24687
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24697
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24490
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+24696
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24688
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24692
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24695
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24693
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24694
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24686
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24685
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24684
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+35242
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+35260
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+35215
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+24672
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+24673
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24674
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24675
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24676
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24677
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24678
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24679
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24680
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24681
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24683
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+35268
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+24699
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24700
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+26610
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+27914
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+27126
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+26608
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+26300
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+27503
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+27504
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27505
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+27122
+IND
+ 
+ARR
+Morris, Jeremy
+Regular
+ 
+
+
+
+24682
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+24701
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24702
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+24703
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24704
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24705
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24706
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24707
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+   
+
+
+CSE 8998 PhD Research in Computer Science and Engineering G 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+24741
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+35243
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+24738
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+35261
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+24739
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24740
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24742
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24736
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+24735
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24734
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24732
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24731
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+35216
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+24730
+IND
+ 
+ARR
+Parent, Richard
+Regular
+ 
+
+
+
+24729
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24728
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+27508
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+24727
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24744
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24745
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+26612
+IND
+ 
+ARR
+Blanas, Spyridon
+Regular
+ 
+
+
+
+24134
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+27127
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+27509
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27510
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+24753
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+24752
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24751
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24750
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24749
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+35269
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+24748
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24747
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24746
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+26614
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+24737
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24718
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+24743
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24719
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24720
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24721
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24722
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24723
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24724
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24725
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+27915
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+24726
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24717
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24716
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24715
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+   
+
+
+CSE 8999 PhD Dissertation Research in Computer Science and Engineering G 1-10
+
+
+
+
+
+Class Number
+Component
+Location
+Times
+Instructor
+Session
+Topic
+
+
+27916
+IND
+ 
+ARR
+Memoli techera, Roberto facundo
+Regular
+ 
+
+
+
+26618
+IND
+ 
+ARR
+Ritter, Alan
+Regular
+ 
+
+
+
+24643
+IND
+ 
+ARR
+Khan, Furrukh
+Regular
+ 
+
+
+
+24671
+IND
+ 
+ARR
+Zhang, Yinqian
+Regular
+ 
+
+
+
+27128
+IND
+ 
+ARR
+Wang, Yang
+Regular
+ 
+
+
+
+24491
+IND
+ 
+ARR
+Agrawal, Gagan
+Regular
+ 
+
+
+
+24636
+IND
+ 
+ARR
+Catalyurek, Umit
+Regular
+ 
+
+
+
+27511
+IND
+ 
+ARR
+Choi, Bryan
+Regular
+ 
+
+
+
+27512
+IND
+ 
+ARR
+Sun, Huan
+Regular
+ 
+
+
+
+27513
+IND
+ 
+ARR
+Xu, Wei
+Regular
+ 
+
+
+
+35270
+IND
+ 
+ARR
+Lin, Zhiqiang
+Regular
+ 
+
+
+
+24670
+IND
+ 
+ARR
+Zhang, Xiaodong
+Regular
+ 
+
+
+
+24653
+IND
+ 
+ARR
+Rountev, Atanas
+Regular
+ 
+
+
+
+24652
+IND
+ 
+ARR
+Ramnath, Rajiv
+Regular
+ 
+
+
+
+24633
+IND
+ 
+ARR
+Arora, Anish
+Regular
+ 
+
+
+
+35217
+IND
+ 
+ARR
+Bassily, Raef
+Regular
+ 
+
+
+
+24650
+IND
+ 
+ARR
+Qin, Feng
+Regular
+ 
+
+
+
+24649
+IND
+ 
+ARR
+Parthasarathy, Srinivasan
+Regular
+ 
+
+
+
+24647
+IND
+ 
+ARR
+Panda, Dhabaleswar
+Regular
+ 
+
+
+
+24646
+IND
+ 
+ARR
+Nandi, Arnab
+Regular
+ 
+
+
+
+24634
+IND
+ 
+ARR
+Belkin, Mikhail
+Regular
+ 
+
+
+
+24635
+IND
+ 
+ARR
+Bond, Michael
+Regular
+ 
+
+
+
+24645
+IND
+ 
+ARR
+Machiraju, Raghu
+Regular
+ 
+
+
+
+24637
+IND
+ 
+ARR
+Crawfis, Roger
+Regular
+ 
+
+
+
+24638
+IND
+ 
+ARR
+Davis, James
+Regular
+ 
+
+
+
+24639
+IND
+ 
+ARR
+Dey, Tamal
+Regular
+ 
+
+
+
+24640
+IND
+ 
+ARR
+Fosler-lussier, John
+Regular
+ 
+
+
+
+24641
+IND
+ 
+ARR
+Huang, Kun
+Regular
+ 
+
+
+
+24644
+IND
+ 
+ARR
+Lai, Ten-hwang
+Regular
+ 
+
+
+
+24655
+IND
+ 
+ARR
+Shen, Han-wei
+Regular
+ 
+
+
+
+24656
+IND
+ 
+ARR
+Shroff, Ness
+Regular
+ 
+
+
+
+24669
+IND
+ 
+ARR
+Xuan, Dong
+Regular
+ 
+
+
+
+24668
+IND
+ 
+ARR
+Wenger, Rephael
+Regular
+ 
+
+
+
+24667
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+24666
+IND
+ 
+ARR
+Wang, Yusu
+Regular
+ 
+
+
+
+24665
+IND
+ 
+ARR
+Wang, Huamin
+Regular
+ 
+
+
+
+24664
+IND
+ 
+ARR
+Wang, Deliang
+Regular
+ 
+
+
+
+35262
+IND
+ 
+ARR
+Chen, Jian
+Regular
+ 
+
+
+
+24663
+IND
+ 
+ARR
+Teodorescu, Mircea-radu
+Regular
+ 
+
+
+
+24662
+IND
+ 
+ARR
+Supowit, Kenneth
+Regular
+ 
+
+
+
+24661
+IND
+ 
+ARR
+Stewart, Christopher
+Regular
+ 
+
+
+
+24660
+IND
+ 
+ARR
+Athreya, Kannan
+Regular
+ 
+
+
+
+24659
+IND
+ 
+ARR
+Soundarajan, Neelam
+Regular
+ 
+
+
+
+24658
+IND
+ 
+ARR
+Sivilotti, Paolo
+Regular
+ 
+
+
+
+24654
+IND
+ 
+ARR
+Sadayappan, P
+Regular
+ 
+
+
+
+35244
+IND
+ 
+ARR
+Ogle, David
+Regular
+ 
+
+
+
+24657
+IND
+ 
+ARR
+Sinha, Prasun
+Regular
+ 
+
+
+
+24642
+IND
+ 
+ARR
+No instructor listed
+Regular
+ 
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,344 @@
+
+
+
+
+OPortal
+
+
+
+        var app_root_prefix = '/oportal';
+    
+
+
+
+
+
+
+
+
+
+
+Toggle navigation
+
+
+
+
+
+Department of
+Computer Science and Engineering
+
+
+
+
+
+
+
+
+
+
+
+
+
+CSE Class Schedule for Autumn 2018
+
+
+
+Term:
+AU18
+SP19
+Catalog Number:
+1110
+1111
+1112
+1113
+1114
+1211
+1222
+1223
+2111
+2112
+2122
+2123
+2133
+2193
+2221
+2231
+2321
+2331
+2421
+2431
+2451
+2501
+3231
+3232
+3241
+3244
+3321
+3341
+3421
+3430
+3461
+3521
+3541
+3901
+3902
+3903
+4191
+4193
+4194
+4251
+4252
+4253
+4471
+4998
+4998H
+4999
+4999H
+5022
+5023
+5032
+5042
+5043
+5194.01
+5231
+5232
+5234
+5235
+5236
+5241
+5242
+5243
+5249
+5321
+5331
+5341
+5343
+5361
+5421
+5431
+5432
+5433
+5439
+5441
+5449
+5461
+5472
+5473
+5479
+5501
+5521
+5522
+5523
+5524
+5526
+5541
+5542
+5544
+5545
+5559
+5891
+5911
+5912
+5914
+5915
+6101
+6193
+6239
+6249
+6331
+6341
+6421
+6429
+6431
+6449
+6461
+6469
+6539
+6559
+6998
+6999
+8998
+8999
+Location:
+
+Instructor:
+Adak, Debanjan
+Agrawal, Gagan
+Aljanaideh, Ahmad
+Arora, Anish
+Athreya, Kannan
+Babic, Gojko
+Bair, Bettina
+Bambeck, Jacob
+Banerjee, Avishek
+Barker, Joseph
+Bashizade, Armin
+Bassily, Raef
+Belkin, Mikhail
+Bihari, Thomas
+Biswas, Biplob
+Blanas, Spyridon
+Bobkov, Anton
+Boggus, Matthew
+Bond, Michael
+Boxwell, Stephen
+Breckenridge, Daniel
+Bucci, Paolo
+Burkhardt, Michael
+Carpenter, Timothy
+Catalyurek, Umit
+Chaabouni, Moez
+Champion, Adam
+Chang, Shuaichen
+Chen, Jian
+Chen, Yung fu
+Chiu, Lin
+Choi, Bryan
+Choi, Hyunjean
+Cline, Alan
+Close, Doreen
+Crawfis, Roger
+Crawford, Laurie
+Das, Manirupa
+Davis, James
+Delfarah, Masood
+Dey, Tamal
+Du, Yihang
+Eden, Jeffrey
+Eicher, Tara
+Estill, Charles
+Farris, Clair
+Fosler-lussier, John
+Fritz, Michael
+Giles, Charles
+Gomori, Stephen
+Green, George
+Grifski, Jeremy
+Grimme, Cindy
+Grupa, Adam
+Hajij, Mustafa
+Hamm, Jihun
+Heym, Wayne
+Huang, Kun
+Hui, Like
+Jackson, Mark
+Javed, Muhammad
+Jayanti, Suribabu
+Jin, Kun
+Jones, Janis
+Jones, Jeffrey
+Joseph, Robert
+Joshi, Swaroop ravindra
+Khan, Furrukh
+Kidwell, Richard
+Kiel, Christine
+Kim, Paul
+Kirby, Neil
+Kline, Diana
+Kumar, Praveen
+Kumari, Sangeeta
+Kundu, Rupam
+Lai, Ten-hwang
+Latour, Robert
+Li, Qingyang
+Li, Xiang
+Li, Ziwei
+Lin, Zhiqiang
+Liu, Yuzhou
+Luken, Jackson
+Machiraju, Raghu
+Madrid, Leon
+Magee, Lucas
+Majumdar, Saikat
+Mallon, Michelle
+Mao, Yifan
+Martin, William
+Mckinley, Catherine
+Memoli techera, Roberto facundo
+Meng, Jingsong
+Mills, Scott
+Mirzaei, Nima
+Mitra, Rupendra
+Modi, Shivam
+Morris, Jeremy
+Morris, Nathaniel
+Mukherjee, Soham
+Nandi, Arnab
+Ogle, David
+Pan, Tai yu
+Panda, Dhabaleswar
+Parent, Richard
+Parthasarathy, Srinivasan
+Plantinga, Peter
+Qi, Haiyang
+Qian, Zhenzhi
+Qin, Feng
+Ramesh, Bharath
+Ramnath, Rajiv
+Ren, Xueyuan
+Rice, Lori
+Ritter, Alan
+Rivera, Angel
+Rodgers, Dauntrica
+Romero gainza, Eduardo
+Romig, Steven
+Rossi, Alfred
+Rountev, Atanas
+Sadayappan, P
+Salmasi, Ario
+Saraf, Mudit
+Saravanan, Indrajeet
+Serai, Prashant
+Shafie khorassani, Kawthar
+Shandilya, Nikhil
+Shareef, Naeem
+Shen, Han-wei
+Shen, Jingyi
+Shroff, Ness
+Sinha, Prasun
+Sivilotti, Paolo
+Soundarajan, Neelam
+Srivatava, Arunima
+Stewart, Christopher
+Strader, Nikola
+Strauss, Benjamin
+Su, Ming yi
+Subramoni, Hari
+Sukumaran rajam, Aravind
+Sun, Huan
+Supowit, Kenneth
+Teodorescu, Mircea-radu
+Tumkur ramesh babu, Naveen
+Tummala, Venkata sai revanth
+Van hulse, Jason
+Vethanayagam, Pravinth
+Wang, Deliang
+Wang, Huamin
+Wang, Yang
+Wang, Yusu
+Weaver, Bryan
+Weide, Alan
+Wenger, Rephael
+Wolf, Annatala
+Wu, Longhua
+Xu, Wei
+Xu, Yufan
+Xuan, Dong
+Zaccai, Diego
+Zhang, Xiaodong
+Zhang, Yinqian
+Zhang, Yixuan
+Zhang, Zichen
+Zhao, Yan
+Zhou, Qinghua
+Zhu, Gangyi
+
+
+
+
+
+
+
+
+
+
