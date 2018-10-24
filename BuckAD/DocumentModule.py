@@ -22,6 +22,7 @@ class ClassInfoModule:
     def run_query(self,nlq):
         self.query_response = {name:self.kernel.query(self.currentEnvironment, col_id, natural_language_query=nlq) for (name, col_id) in self.collectionIndex.items()}
 
+        print(self.query_response)
     def num_of_result(self):
         return {name:elem["matching_results"] for (name,elem) in self.query_response.items()}
 
@@ -30,7 +31,3 @@ class ClassInfoModule:
 
     def retrieve_docs_with_score(self,query,key = "text"):
         return {k:[(e[key],e["result_metadata"]["score"]) for e in elem["results"]] for (k,elem) in self.query_response.items()}
-
-
-
-
