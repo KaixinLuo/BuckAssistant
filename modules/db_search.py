@@ -212,7 +212,7 @@ class Db_Search:
 
     def Semester_Has_Courses(self, assistant_returned_info):
         if 'semester' in assistant_returned_info[2]:
-            semester = assistant_returned_info[2].get('name')
+            semester = assistant_returned_info[2].get('semester')
         else:
             return 'Can you rephrase your question with more details?'
         year = re.sub(r"\D", "", semester)
