@@ -1,7 +1,7 @@
 from conversation_processor import Conversation_Processor
 from user import User
 u=User()
-f = open("D:\email.txt", "r")
+f = open("email.txt", "r")
 f1 = f.read().splitlines()
 print(f1)
 u.set_email_address(f1[0])

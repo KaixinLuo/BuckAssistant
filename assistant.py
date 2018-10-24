@@ -9,7 +9,7 @@ class Assistant:
         self.user_input = ''
         self.context1 = {}
         self.current_action = ''
-        f = open("D:\key.txt", "r")
+        f = open("key.txt", "r")
         f1 = f.read().splitlines()
         self.assistant = AssistantV1(
             version=f1[0],
