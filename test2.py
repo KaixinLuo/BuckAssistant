@@ -1,5 +1,5 @@
 from assistant import Assistant
-from BuckAD.DocumentModule import Brain
+from BuckAD.DocumentModule import ClassInfoModule
 from watson_developer_cloud import DiscoveryV1
 assistant=Assistant()
 brain = DiscoveryV1(
@@ -8,7 +8,7 @@ brain = DiscoveryV1(
     password='2UOJ7kgQHbXH',
     url='https://gateway.watsonplatform.net/discovery/api'
 )
-discovery=Brain(brain)
+discovery=ClassInfoModule(brain)
 user_input=''
 
 while user_input!='exit':

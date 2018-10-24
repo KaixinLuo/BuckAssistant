@@ -43,8 +43,8 @@ class EmailModule:
         except smtplib.SMTPException:
             print ("Error: Unable to log out")
 
-
-
+    def execute(self,info):
+        (name,)
 
 
 

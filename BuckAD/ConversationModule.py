@@ -1,4 +1,4 @@
-
+import json
 from watson_developer_cloud import AssistantV1
 bot = AssistantV1(
     version='2018-01-01',
@@ -14,11 +14,9 @@ class ConversationModule:
 
     def run_conversation(self,msg):
         self.response = self.kernel.message(workspace_id=self.current_workspace_id,input = {'text':msg})
-
+        print(json.dumps(self.response,indent=4))
     def get_the_best_entity_and_intent(self):
-        return (self.response['intents'][0]["intent"],self.response["entities"][0]["value"])
+        return (self.response['intents'][0]["intent"],self.response["entities"][0]["value"],)
 
-cm = ConversationModule(bot)
-cm.run_conversation("Who is teaching CSE 5526")
-print (cm.get_the_best_entity_and_intent())
+
 
