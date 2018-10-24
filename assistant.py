@@ -1,5 +1,5 @@
 from watson_developer_cloud import AssistantV1
-from BuckAD.ClassInfoModule import ClassInfoModule
+#from BuckAD.ClassInfoModule import ClassInfoModule
 import json
 import pprint
 
