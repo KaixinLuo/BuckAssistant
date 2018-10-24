@@ -56,11 +56,14 @@ class Db_Search:
             course_index = self.json_files.index(json_file_name)
             response_header = 'The average size of ' + str(course_num) + ' is '
             value_found = self.courses_info[course_index].get('average_size')
+            #Clear variable value
+            assistant_returned_info[2]['course_num']=None
             if value_found is not None:
                 return response_header + str(value_found)
             else:
                 return 'Sorry, we do not have information about it. Please try another question.'
         else:
+            assistant_returned_info[2]['course_num']=None
             return 'Cannot find the given course number'
 
     def Course_Credits_Of(self, assistant_returned_info):
@@ -74,11 +77,15 @@ class Db_Search:
             course_index = self.json_files.index(json_file_name)
             response_header = 'The credit hours of ' + str(course_num) + ' is '
             value_found=self.courses_info[course_index].get('credits')
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             if value_found is not None:
                 return response_header + str(value_found)
             else:
                 return 'Sorry, we do not have information about it. Please try another question.'
         else:
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return 'Cannot find the given course number'
 
     def Course_Description_Of(self, assistant_returned_info):
@@ -91,8 +98,12 @@ class Db_Search:
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
             response_header = str(course_num) + ' is about '
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return response_header + self.courses_info[course_index].get('description')
         else:
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return 'Cannot find the given course number'
 
     def Course_Instructor_Of(self, assistant_returned_info):
@@ -105,8 +116,12 @@ class Db_Search:
         if json_file_name in self.json_files:
             course_index = self.json_files.index(json_file_name)
             response_header = 'The instructors of ' + str(course_num) + ' are '
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return response_header + self.courses_info[course_index].get('professors')
         else:
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return 'Cannot find the given course number'
 
     # def Email_Send_Appointment(email_module, user, question, professor, email):
@@ -134,10 +149,13 @@ class Db_Search:
         course_num = "CSE " + num
         for course_info in self.courses_info:
             if course_info["title"] != None and course_num in course_info['title']:
+                # Clear variable value
+                assistant_returned_info[2]['course_num'] = None
                 return course_info['open_time']
 
         not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
-
+        # Clear variable value
+        assistant_returned_info[2]['course_num'] = None
         return not_found_message.replace("course_num", course_num)
 
     def Course_Title_Of(self, assistant_returned_info):
@@ -149,9 +167,13 @@ class Db_Search:
         course_num = "CSE " + num
         for course_info in self.courses_info:
             if course_info['title'] != None and course_num in course_info['title']:
+                # Clear variable value
+                assistant_returned_info[2]['course_num'] = None
                 return course_info['title']
 
         not_found_message = "\nThere does not exit course_num in Ohio State University.\n"
+        # Clear variable value
+        assistant_returned_info[2]['course_num'] = None
         return not_found_message.replace("course_num", course_num)
 
     def Credit_Course_Is(self, assistant_returned_info):
@@ -166,14 +188,16 @@ class Db_Search:
                 courses.append(course_info["title"][:8])
         if len(courses) == 0:
             not_found_message = "\nThere's no course of $ credit hours.\n"
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return not_found_message.replace("$", credits)
         else:
             course_names = ""
             for course in courses:
                 course_names += course
                 course_names += ","
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return course_names
 
     def Instructor_Teaches(self, assistant_returned_info):
@@ -200,14 +224,16 @@ class Db_Search:
                 courses.append(course_info['title'][:8])
         if len(courses) == 0:
             not_found_message = "\nIt seems $ haven't taught any courses in Ohio State University.\n"
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return not_found_message.replace("$", name)
         else:
             course_names = ""
             for course in courses:
                 course_names += course
                 course_names += ","
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return course_names
 
     def Semester_Has_Courses(self, assistant_returned_info):
@@ -230,12 +256,14 @@ class Db_Search:
                 courses.append(course_info["title"][:8])
         if len(courses) == 0:
             not_found_message = "\nNo course opens in $.\n"
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return not_found_message.replace("$", semester)
         else:
             course_names = ""
             for course in courses:
                 course_names += course
                 course_names += ","
-
+            # Clear variable value
+            assistant_returned_info[2]['course_num'] = None
             return course_names
