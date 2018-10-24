@@ -1,5 +1,5 @@
 from assistant import Assistant
-from BuckAD.ClassInfoModule import ClassInfoModule
+##from BuckAD.ClassInfoModule import ClassInfoModule
 from watson_developer_cloud import DiscoveryV1
 import re
 from user import User
@@ -12,7 +12,7 @@ brain = DiscoveryV1(
     password='2UOJ7kgQHbXH',
     url='https://gateway.watsonplatform.net/discovery/api'
 )
-discovery=ClassInfoModule(brain)
+##discovery=ClassInfoModule(brain)
 current_user=User()
 user_input=''
 from modules import db_search
