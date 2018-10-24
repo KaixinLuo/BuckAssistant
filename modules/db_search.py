@@ -160,7 +160,10 @@ class Db_Search:
         else:
             return 'Can you rephrase your question with more details?'
         courses = []
-        credits = credits[:len(credits) - 1]
+        if len(credits)>1 :
+            credits = credits[0:1]
+        print("credits: " + credits + "\n")
+
         for course_info in self.courses_info:
             if course_info["credits"] != None and credits in str(course_info["credits"]):
                 courses.append(course_info["title"][:8])
@@ -212,9 +215,10 @@ class Db_Search:
 
     def Semester_Has_Courses(self, assistant_returned_info):
         if 'semester' in assistant_returned_info[2]:
-            semester = assistant_returned_info[2].get('name')
+            semester = assistant_returned_info[2].get('semester')
         else:
             return 'Can you rephrase your question with more details?'
+        print(semester + '\n')
         year = re.sub(r"\D", "", semester)
         if len(str(year)) == 2:
             year = "20" + year
