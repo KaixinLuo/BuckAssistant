@@ -26,7 +26,9 @@ class Conversation_Processor:
                 self.long_conversation = False
                 self.has_intent_saved = False
             else:
-                result = result + self.module_pipeline.process(assistant_returned_info)
+                returned_string=self.module_pipeline.process(assistant_returned_info)
+                if result=='' or returned_string!='No result':
+                    result = result + returned_string
                 #print(self.module_pipeline.process(assistant_returned_info))
         else:
             self.long_conversation = True

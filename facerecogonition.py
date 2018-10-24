@@ -35,12 +35,8 @@ class FaceRecognizer:
             
         return result if min_val<0.4 else "unkonwn"
                 
-fr = FaceRecognizer("./Kaixin/",["KaixinLuo.jpg","ChenLiang.jpeg","HechenZhang.jpeg","boxwell.jpg","ZheLuan.jpg"],["luo.800","liang.1","zhang.77","boxwell.1","luan.44"])
+face_recognizer = FaceRecognizer("./Kaixin/",["KaixinLuo.jpg","ChenLiang.jpeg","HechenZhang.jpeg","boxwell.jpg","ZheLuan.jpg"],["luo.800","liang.1","zhang.77","boxwell.1","luan.44"])
 
-
-
-face = read_face()
-print(fr(face))
 
 
 
