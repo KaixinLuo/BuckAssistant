@@ -23,17 +23,16 @@ class Conversation_Processor:
             if self.long_conversation:
                 assistant_returned_info[0] = self.saved_intent
                 result = result + self.module_pipeline.process(assistant_returned_info)
-                long_conversation = False
-                has_intent_saved = False
+                self.long_conversation = False
+                self.has_intent_saved = False
             else:
-                print(ass)
                 result = result + self.module_pipeline.process(assistant_returned_info)
                 #print(self.module_pipeline.process(assistant_returned_info))
         else:
-            long_conversation = True
+            self.long_conversation = True
             if not self.has_intent_saved:
-                saved_intent = assistant_returned_info[0]
-                has_intent_saved = True
+                self.saved_intent = assistant_returned_info[0]
+                self.has_intent_saved = True
         return result
 
     def loop(self):
