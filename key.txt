@@ -1,0 +1,5 @@
+2018-07-10
+a49fe062-4a18-4131-8843-f668502ae0de
+JH1donieWOYc
+https://gateway.watsonplatform.net/assistant/api
+e9f2c233-1c57-42ba-a1ad-7cc527a24159

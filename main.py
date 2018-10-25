@@ -5,6 +5,7 @@ f = open("email.txt", "r")
 f1 = f.read().splitlines()
 print(f1)
 u.set_email_address(f1[0])
+
 u.set_email_password(f1[1])
 u.set_name('ASD')
 cp=Conversation_Processor(True)

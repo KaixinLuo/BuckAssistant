@@ -2,25 +2,34 @@ import sys
 from facerecogonition import *
 from conversation_processor import *
 from user import User
-from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout
+from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout,QDialog
+from PyQt5.QtGui import QTextCursor,QFont
 from PyQt5.QtCore import Qt
 
 class Application(QWidget):
     def __init__(self):
         super().__init__()
         self.isFristMsg = True
+        
         self.conversationHandler = Conversation_Processor()
+        self.launch()
         self.login()
         self.initUI()
     def initUI(self):
         self.sendButton = QPushButton("Send")
+        #self.sendButton.setFont(QFont("Roman times",20,QFont.Bold))
         self.voiceButton = QPushButton("Voice")
+        #self.voiceButton.setFont(QFont("Roman times",20,QFont.Bold))
         buttonLayout = QHBoxLayout()
         buttonLayout.addStretch(1)
         buttonLayout.addWidget(self.voiceButton)
         buttonLayout.addWidget(self.sendButton)
         self.textToSend = QTextEdit()
-        self.msgArea = QTextEdit("Welcome! "+self.user)
+        self.textToSend .setFont(QFont("Roman times",20,QFont.Bold))
+        #self.textToSend.setStyleSheet("color:red")
+        self.msgArea = QTextEdit("Welcome! "+self.user+", this is virtual advisor!")
+        #self.msgArea.setStyleSheet("color:red")
+        self.msgArea .setFont(QFont("Roman times",20,QFont.Bold))
         self.grid = QGridLayout()
         self.grid.setSpacing(10)
 
@@ -30,6 +39,7 @@ class Application(QWidget):
 
         self.msgArea.setReadOnly(True)
         self.sendButton.clicked.connect(self.send_button_pressed)
+        self.voiceButton.clicked.connect(self.voice_button_pressed)
         
 
         self.setLayout(self.grid)
@@ -37,7 +47,8 @@ class Application(QWidget):
         self.setWindowTitle('Vritual Advisor') 
         
         self.show()
-
+    def launch(self):
+        pass
     def send_button_pressed(self):
         if self.isFristMsg:
             self.msgArea.clear()
@@ -48,6 +59,7 @@ class Application(QWidget):
             self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText()+"\n")
             reply = self.conversationHandler.process_message(raw_text)
             self.msgArea.insertPlainText("Advisor:\n    "+reply+"\n")
+        self.msgArea.moveCursor(QTextCursor.End)
 
         self.textToSend.clear()
     def voice_button_pressed(self):
