@@ -14,7 +14,8 @@ class Email_Component:
     def __init__(self,mail_host='smtp-mail.outlook.com',port = 587):
         self.mail_host = mail_host
         self.port = port
-        self.server = smtplib.SMTP()
+        #smtplib.SMTP_SSL(host='smtp.gmail.com').connect(host='smtp.gmail.com', port=465)
+        self.server = smtplib.SMTP(host="smtp-mail.outlook.com")
 
     def log_in(self,user_object):
         user_object.authorize_email_account(self,'log_in_to_email_server')
@@ -23,6 +24,7 @@ class Email_Component:
         self.username = uname
         self.password = pswd
         try:
+            
             self.server.connect(self.mail_host,port=self.port)
             self.server.starttls()
             self.server.login(self.username,self.password)
