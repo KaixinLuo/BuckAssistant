@@ -3,3 +3,7 @@ a49fe062-4a18-4131-8843-f668502ae0de
 JH1donieWOYc
 https://gateway.watsonplatform.net/assistant/api
 e9f2c233-1c57-42ba-a1ad-7cc527a24159
+2018-01-01
+c7721aaf-1c20-4325-bb11-6cfe0cdb8967
+2UOJ7kgQHbXH
+https://gateway.watsonplatform.net/discovery/api
