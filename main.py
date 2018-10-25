@@ -7,7 +7,7 @@ print(f1)
 u.set_email_address(f1[0])
 u.set_email_password(f1[1])
 u.set_name('ASD')
-cp=Conversation_Processor(False)
+cp=Conversation_Processor(True)
 cp.assign_user_object(u)
 while True:
     st=input('>')
