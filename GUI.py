@@ -3,7 +3,7 @@ from facerecogonition import *
 from conversation_processor import *
 from user import User
 from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout,QDialog
-from PyQt5.QtGui import QTextCursor
+from PyQt5.QtGui import QTextCursor,QFont
 from PyQt5.QtCore import Qt
 
 class Application(QWidget):
@@ -17,13 +17,19 @@ class Application(QWidget):
         self.initUI()
     def initUI(self):
         self.sendButton = QPushButton("Send")
+        #self.sendButton.setFont(QFont("Roman times",20,QFont.Bold))
         self.voiceButton = QPushButton("Voice")
+        #self.voiceButton.setFont(QFont("Roman times",20,QFont.Bold))
         buttonLayout = QHBoxLayout()
         buttonLayout.addStretch(1)
         buttonLayout.addWidget(self.voiceButton)
         buttonLayout.addWidget(self.sendButton)
         self.textToSend = QTextEdit()
+        self.textToSend .setFont(QFont("Roman times",20,QFont.Bold))
+        #self.textToSend.setStyleSheet("color:red")
         self.msgArea = QTextEdit("Welcome! "+self.user+", this is virtual advisor!")
+        #self.msgArea.setStyleSheet("color:red")
+        self.msgArea .setFont(QFont("Roman times",20,QFont.Bold))
         self.grid = QGridLayout()
         self.grid.setSpacing(10)
 
