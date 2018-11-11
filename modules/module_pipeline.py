@@ -1,13 +1,11 @@
 from modules.db_search import Db_Search
 from modules.send_email import Send_Email
-from modules.discovery_search import Discovery_Search
 class Module_Pipeline:
     def __init__(self,debug_mode=False):
         self.debug_mode=debug_mode
         self.modules={}
         self.modules['db_search']=Db_Search(debug_mode)
         self.modules['send_email']=Send_Email(debug_mode)
-        self.modules['discovery_search']=Discovery_Search(debug_mode)
 
     def assign_user_object(self,user_object):
         self.modules.get('send_email').log_in(user_object)

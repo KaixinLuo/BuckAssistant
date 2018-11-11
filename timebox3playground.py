@@ -1,12 +1,37 @@
+<<<<<<< HEAD
 from modules.components.discovery_component import Discovery_Component
 from watson_developer_cloud import DiscoveryV1
 
 #assistant=Assistant()
 apikey = DiscoveryV1(
+=======
+from assistant import Assistant
+##from BuckAD.ClassInfoModule import ClassInfoModule
+from watson_developer_cloud import DiscoveryV1
+import re
+from user import User
+from BuckAD.EmailModule import EmailModule
+import intentProcessor
+assistant=Assistant()
+brain = DiscoveryV1(
+>>>>>>> e9d7ddbe676408d085af599ad6f309f6a21ba0c6
     version='2018-01-01',
     username='c7721aaf-1c20-4325-bb11-6cfe0cdb8967',
     password='2UOJ7kgQHbXH',
     url='https://gateway.watsonplatform.net/discovery/api'
 )
-discovery=Discovery_Component()
-print(discovery.process_natrual_language_query('what\'s Jim Davis\' research interests?'))
+##discovery=ClassInfoModule(brain)
+current_user=User()
+user_input=''
+from modules import db_search
+db1=db_search.Db_Search(False)
+# query=assistant.get_intent_and_entity('who teaches CSE5526',to_string=True)
+# queryr=assistant.get_intent_and_entity('who teaches CSE5526',to_string=False)
+print('Thanks! How can I help you today?')
+while user_input!='exit':
+    user_input=input('>')
+    if (user_input=='e'):
+        print('Bye!')
+        break
+    queryr=assistant.process_input(user_input)
+    print(db1.process([],queryr))
