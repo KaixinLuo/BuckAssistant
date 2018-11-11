@@ -1,8 +1,4 @@
 from modules.components.assistant import Assistant
-<<<<<<< HEAD
-=======
-from BuckAD.ClassInfoModule import ClassInfoModule
->>>>>>> a790ea1f729c342192acd574eb91909b7e856d51
 from watson_developer_cloud import DiscoveryV1
 import re
 from modules.components.user import User
@@ -15,13 +11,10 @@ brain = DiscoveryV1(
     password='2UOJ7kgQHbXH',
     url='https://gateway.watsonplatform.net/discovery/api'
 )
-discovery=ClassInfoModule(brain)
-<<<<<<< HEAD
+#discovery=ClassInfoModule(brain)
 user_input=''
-=======
 current_user=User()
 email_module=EmailModule()
->>>>>>> a790ea1f729c342192acd574eb91909b7e856d51
 
 
 user_input=input('Can I start by asking your email address?')
