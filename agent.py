@@ -1,7 +1,6 @@
-import os 
 from BuckAD.EmailModule import EmailModule
 import IntentProcessor
-from assistant import Assistant
+from modules.components.assistant import Assistant
 
 
 class Agent:

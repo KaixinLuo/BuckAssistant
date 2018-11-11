@@ -1,4 +1,4 @@
-from modules.discovery_component import Discovery_Component
+from modules.components.discovery_component import Discovery_Component
 class Discovery_Search:
     acceptable_intents = [
         'Instructor_Research_Interests',

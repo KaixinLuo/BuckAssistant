@@ -25,7 +25,7 @@ class Db_Search:
     Check if the passed in intent can be processed in this model and process it.
     :param potato: a list of the same format as the return list which is passed in to this module.
     :param assistant_returned_info: a list contains processed returned info from assistant in the format of
-        [intend(str),flag(bool),context(dict),response(str)]
+        [intent(str),flag(bool),context(dict),response(str)]
     :returns: a list [is_successfully_processed (bool), result (str)], where result can also be a string contains
         necessary info about processing a request which involves more than 1 modules if is_successfully_processed is. It will be passed to other
         modules.

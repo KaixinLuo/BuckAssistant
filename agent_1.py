@@ -1,8 +1,6 @@
-import os 
 from BuckAD.EmailModule import EmailModule
 from BuckAD.ClassInfoModule import ClassInfoModule
-import intentProcessor
-from assistant import Assistant
+from modules.components.assistant import Assistant
 
 intent_module_map={
     "Course_Credits_Of" : {"intentProcessor", "self.ClassInfoModule"},

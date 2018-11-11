@@ -1,10 +1,6 @@
-from assistant import Assistant
-from modules.discovery_component import Discovery_Component
+from modules.components.discovery_component import Discovery_Component
 from watson_developer_cloud import DiscoveryV1
-import re
-from user import User
-from BuckAD.EmailModule import EmailModule
-import intentProcessor
+
 #assistant=Assistant()
 apikey = DiscoveryV1(
     version='2018-01-01',

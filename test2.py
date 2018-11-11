@@ -1,12 +1,11 @@
-from assistant import Assistant
+from modules.components.assistant import Assistant
 <<<<<<< HEAD
-from BuckAD.DocumentModule import ClassInfoModule
 =======
 from BuckAD.ClassInfoModule import ClassInfoModule
 >>>>>>> a790ea1f729c342192acd574eb91909b7e856d51
 from watson_developer_cloud import DiscoveryV1
 import re
-from user import User
+from modules.components.user import User
 from BuckAD.EmailModule import EmailModule
 import intentProcessor
 assistant=Assistant()

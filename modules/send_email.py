@@ -1,5 +1,5 @@
-from modules.email_component import Email_Component
-import modules.email_component as email
+from modules.components.email_component import Email_Component
+import modules.components.email_component as email
 class Send_Email:
     acceptable_intents=[
         'Email_Send_Appointment'

@@ -26,7 +26,11 @@ class Assistant:
             context=self.context1
         )
         print(response['output']['text'][0])
-
+    '''
+    process the input using assistant service
+    :param message_in: user input in string
+    :return: a list contains [intent(str),flag(bool),context(dict),response(str)]
+    '''
     def process_input(self,message_in):
         #returns [intent(str),flag(bool),context(dict),response(str)]
         #where flag is true when current short conversation has ended

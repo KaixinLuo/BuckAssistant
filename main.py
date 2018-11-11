@@ -1,5 +1,5 @@
 from conversation_processor import Conversation_Processor
-from user import User
+from modules.components.user import User
 u=User()
 f = open("email.txt", "r")
 f1 = f.read().splitlines()
