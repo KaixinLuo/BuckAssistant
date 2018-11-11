@@ -44,6 +44,9 @@ class Conversation_Processor:
                     self.has_intent_saved = True
         return result
 
+    '''
+    For test purpose only. Use process_message instead.
+    '''
     def loop(self):
         saved_intent=''
         has_intent_saved=False

@@ -3,7 +3,7 @@ class User:
         pass
     def set_email_address(self, email):
         self.__email=email
-        self.name='What is my name?'
+        self.name='Anonymous'
     def get_email_address(self):
         return self.__email
     def set_email_password(self, password):

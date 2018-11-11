@@ -12,16 +12,16 @@ class Send_Email:
         self.email_component=Email_Component()
         self.email_component.log_in(user_object)
 
-    '''
-    Check if the passed in intent can be processed in this model and process it.
-    :param potato: a list of the same format as the return list which is passed in to this module.
-    :param assistant_returned_info: a list contains processed returned info from assistant in the format of
-        [intend(str),flag(bool),context(dict),response(str)]
-    :returns: a list [is_successfully_processed (bool), result (str)], where result can also be a string contains
-        necessary info about processing a request which involves more than 1 modules if is_successfully_processed is. It will be passed to other
-        modules.
-    '''
     def process(self, potato, assistant_returned_info):
+        '''
+        Check if the passed in intent can be processed in this model and process it.
+        :param potato: a list of the same format as the return list which is passed in to this module.
+        :param assistant_returned_info: a list contains processed returned info from assistant in the format of
+            [intent(str),flag(bool),context(dict),response(str), input(str)]
+        :returns: a list [is_successfully_processed (bool), result (str)], where result can also be a string contains
+            necessary info about processing a request which involves more than 1 modules if is_successfully_processed is. It will be passed to other
+            modules.
+        '''
         result=[]
         intent=assistant_returned_info[0]
         if intent in Send_Email.acceptable_intents:
