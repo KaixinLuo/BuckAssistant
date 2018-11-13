@@ -127,16 +127,23 @@ def queryClassSchedule(class_name):
     ClassesSchedules = loadAllClassSchedule()
     queriedClassSchedule = ClassesSchedules[class_name] 
     return queriedClassSchedule
+def queryClassTimes(class_name):
+    full_info = queryClassSchedule(class_name)
+    result = {}
+    for key, value in full_info.items() :
+        result.update({key : value.get("Time")})
+    return result
 
-
-saveAllClassSchedule('classSchedule.txt')
+##saveAllClassSchedule('classSchedule.txt')
 
 ##schedule = getClassInfoBLock("CSE 1111", "classSchedule.txt")
 ##print(schedule)
 ##class_list = getClassList('classSchedule.txt')
 ##print (class_list)
 
-
+##result = queryClassSchedule("CSE 2231")
+result = queryClassTimes("CSE 2231")
+print(result)
 
 
     
