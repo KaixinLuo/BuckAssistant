@@ -70,3 +70,8 @@ class Discovery_Search:
             return '\n'+self.discovery.process_natrual_language_query(assistant_returned_info[2].get('user_input'))
         else:
             return 'Warning in discover_search:No user input.'
+    def No_Intent(self,assistant_returned_info):
+        return "Please tell me something more or be more specific like: \nI would like to know who is teaching CSE5526\n"
+    
+    def Instructor_Research_Interests(self,info):
+        return "I recommend you shooting an email to ask the advisor or the professor directly. I was trying to gather those info when I was created but no professor replyed. Maybe because I am virtual?\n"

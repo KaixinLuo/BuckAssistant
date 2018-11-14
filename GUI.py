@@ -1,9 +1,10 @@
 import sys
-from facerecogonition import *
+
 from conversation_processor import *
 from modules.components.user import User
 from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout
 from PyQt5.QtGui import QTextCursor,QFont
+import facerecogonition as fr
 
 
 class Application(QWidget):
@@ -39,6 +40,7 @@ class Application(QWidget):
 
         self.msgArea.setReadOnly(True)
         self.sendButton.clicked.connect(self.send_button_pressed)
+        #self.sendButton.keyPressEvent(self.send_button_pressed)
         self.voiceButton.clicked.connect(self.voice_button_pressed)
         
         self.setLayout(self.grid)
@@ -53,7 +55,7 @@ class Application(QWidget):
             self.msgArea.clear()
             self.isFristMsg = False
         
-        raw_text = self.textToSend.toPlainText()
+        raw_text = self.textToSend.toPlainText().rstrip('\n')
         if raw_text != "":
             self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText()+"\n")
             reply = self.conversationHandler.process_message(raw_text)
@@ -63,9 +65,11 @@ class Application(QWidget):
         self.textToSend.clear()
     def voice_button_pressed(self):
         pass
+    def enter_button_pressed(self):
+        pass
     def login(self):
-        face = read_face()
-        self.user = face_recognizer(face)
+        face = fr.read_face()
+        self.user = fr.face_recognizer(face)
         
         u=User()
         f = open("email.txt", "r")

@@ -17,9 +17,10 @@ class Conversation_Processor:
     def process_message(self,message):
         result=''
         check_info=self.special_string_checker.process(message)
+        
         if check_info[0]: #if skip assistant processing
             result=check_info[2] #directly assing output message to result
-            result=result+'\nInvalid input. Please re-enter your message.'
+            result=result+' Don\'t shoot nonsense to me, my time is precious\n'
         else:
             message=check_info[1] #user input might be changed, need to re assign it to message
             assistant_returned_info = self.assistant.process_input(message)
