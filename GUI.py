@@ -26,7 +26,7 @@ class Application(QWidget):
         buttonLayout.addWidget(self.voiceButton)
         buttonLayout.addWidget(self.sendButton)
         self.textToSend = QTextEdit()
-        self.textToSend .setFont(QFont("Roman times",20,QFont.Bold))
+        self.textToSend.setFont(QFont("Roman times",20,QFont.Bold))
         #self.textToSend.setStyleSheet("color:red")
         self.msgArea = QTextEdit("Welcome! "+self.user+", this is virtual advisor!")
         #self.msgArea.setStyleSheet("color:red")
@@ -57,8 +57,9 @@ class Application(QWidget):
         
         raw_text = self.textToSend.toPlainText().rstrip('\n')
         if raw_text != "":
-            self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText()+"\n")
-            reply = self.conversationHandler.process_message(raw_text)
+            self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText().rstrip('\n')+"\n")
+            input_string = raw_text.replace('\n',' ')
+            reply = self.conversationHandler.process_message(input_string)
             self.msgArea.insertPlainText("Advisor:\n    "+reply+"\n")
         self.msgArea.moveCursor(QTextCursor.End)
 
