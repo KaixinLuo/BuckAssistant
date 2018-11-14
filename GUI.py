@@ -1,10 +1,10 @@
 import sys
 from facerecogonition import *
 from conversation_processor import *
-from user import User
-from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout,QDialog
+from modules.components.user import User
+from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout
 from PyQt5.QtGui import QTextCursor,QFont
-from PyQt5.QtCore import Qt
+
 
 class Application(QWidget):
     def __init__(self):

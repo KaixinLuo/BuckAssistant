@@ -1,4 +1,4 @@
-from assistant import Assistant
+from modules.components.assistant import Assistant
 assistant1 = Assistant(False)
 
 def test_process_input_single_response():

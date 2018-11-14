@@ -13,20 +13,15 @@ def readFile(file_name, output_file):
 
 def getClassList(file_name):
     ##file = open(file_name, 'r')
-    file = open('crawler/classScheduleHeader.txt')
+    file = open(file_name, 'r')
     class_list = {}
-    start = False
     while True:
         line = file.readline()
         if line:
-            if 'Catalog Number' in line:
-                start = True
-            if 'Location' in line:
-                break
-            if start:
+            if re.search(r"(CSE ){1}\d{4}((.0){1}\d{1})*", line):
+                class_name = re.search(r"(CSE ){1}\d{4}((.0){1}\d{1})*", line).group(0)
                 schedule_options = {}
-                line = "CSE " + line
-                class_list.update({line : schedule_options})
+                class_list.update({class_name : schedule_options})
         else :
             break
     file.close()
@@ -57,11 +52,11 @@ def parseTime(time, session):
     start_time = interval[:2] + interval[3:5]
     end_time = interval[8:10] + interval[11:13]
 
-    parsed_time[2] = (start_time,end_time)
+    parsed_time[2] = (int(start_time),int(end_time))
     return parsed_time
 
 def getClassInfoBLock(class_name, file_name):
-    file = open('crawler/' + file_name, 'r')
+    file = open(file_name, 'r')
     schedule_options = {}
     block = False
     while True:
@@ -71,7 +66,7 @@ def getClassInfoBLock(class_name, file_name):
                 block = True
             if re.search(r"(CSE ){1}\d{4}((.0){1}\d{1})*", line):
                 next_name = re.search(r"(CSE ){1}\d{4}((.0){1}\d{1})*", line).group(0)
-                if class_name != next_name:
+                if block and class_name != next_name:
                     break
             if block:
                 while re.search(r"\d{5}",line):
@@ -119,7 +114,7 @@ def AllClassSchedule(file_name):
 def saveAllClassSchedule(file_name):
     ClassesSchedules = AllClassSchedule(file_name)
     json_file = open('CSEClassSchedules.json', 'w')
-    json.dump(ClassesSchedules, json_file)
+    json.dump(ClassesSchedules, json_file, indent = 2)
 
 
     
@@ -132,14 +127,23 @@ def queryClassSchedule(class_name):
     ClassesSchedules = loadAllClassSchedule()
     queriedClassSchedule = ClassesSchedules[class_name] 
     return queriedClassSchedule
-
+def queryClassTimes(class_name):
+    full_info = queryClassSchedule(class_name)
+    result = {}
+    for key, value in full_info.items() :
+        result.update({key : value.get("Time")})
+    return result
 
 ##saveAllClassSchedule('classSchedule.txt')
 
-schedule = getClassInfoBLock("CSE 1110", "classSchedule.txt")
-print(schedule)
+##schedule = getClassInfoBLock("CSE 1111", "classSchedule.txt")
+##print(schedule)
+##class_list = getClassList('classSchedule.txt')
+##print (class_list)
 
-
+##result = queryClassSchedule("CSE 2231")
+result = queryClassTimes("CSE 2231")
+print(result)
 
 
     

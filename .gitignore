@@ -7,3 +7,9 @@ __pycache__/
 .idea/workspace.xml
 email.txt
 key.txt
+key.txt
+<<<<<<< HEAD
+key.txt
+key.txt
+=======
+>>>>>>> e9d7ddbe676408d085af599ad6f309f6a21ba0c6

@@ -1,0 +1,3 @@
+*add methods to check service availability
+*rewrite discovery
+*fix variable $user_input, as it is not correctly reset after each use

@@ -8,7 +8,6 @@ class Module_Pipeline:
         self.modules['db_search']=Db_Search(debug_mode)
         self.modules['send_email']=Send_Email(debug_mode)
         self.modules['discovery_search']=Discovery_Search(debug_mode)
-
     def assign_user_object(self,user_object):
         self.modules.get('send_email').log_in(user_object)
 

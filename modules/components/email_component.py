@@ -29,7 +29,11 @@ class Email_Component:
             self.server.starttls()
             self.server.login(self.username,self.password)
         except smtplib.SMTPException:
+<<<<<<< HEAD:modules/email_component.py
             print("Email Module Error: Unable to log in Email")
+=======
+            print("Error: Unable to log in (email_component)")
+>>>>>>> 0cb07b61deee540cfbc178619faf6a6b23fd6fe4:modules/components/email_component.py
         return True
 
     def send(self,receiver,subject,text):

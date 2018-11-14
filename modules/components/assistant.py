@@ -11,6 +11,7 @@ class Assistant:
         self.current_action = ''
         f = open("key.txt", "r")
         f1 = f.read().splitlines()
+        f.close()
         self.assistant = AssistantV1(
             version=f1[0],
             username=f1[1],
@@ -26,9 +27,13 @@ class Assistant:
             context=self.context1
         )
         print(response['output']['text'][0])
-
+    '''
+    process the input using assistant service
+    :param message_in: user input in string
+    :return: a list contains [intent(str),flag(bool),context(dict),response(str),input(str)]
+    '''
     def process_input(self,message_in):
-        #returns [intent(str),flag(bool),context(dict),response(str)]
+        #returns [intent(str),flag(bool),context(dict),response(str), input(str)]
         #where flag is true when current short conversation has ended
         result=[]
         response = self.assistant.message(
@@ -66,6 +71,7 @@ class Assistant:
         if self.debug_mode:
             pp = pprint.PrettyPrinter(indent=4)
             pp.pprint(result)
+        result.append(message_in)
         return result
     def get_response(self,messagein):
         # Returns a list of length 2, where 1st item is intend, and 2nd item is a list of entities
