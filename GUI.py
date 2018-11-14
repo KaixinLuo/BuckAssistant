@@ -31,7 +31,7 @@ class Application(QWidget):
         #self.msgArea.setStyleSheet("color:red")
         self.msgArea .setFont(QFont("Roman times",20,QFont.Bold))
         self.grid = QGridLayout()
-        self.grid.setSpacing(10)
+        self.grid.setSpacing(1)
 
         self.grid.addWidget(self.msgArea,0,0)
         self.grid.addWidget(self.textToSend,1,0,6,1)
@@ -41,7 +41,6 @@ class Application(QWidget):
         self.sendButton.clicked.connect(self.send_button_pressed)
         self.voiceButton.clicked.connect(self.voice_button_pressed)
         
-
         self.setLayout(self.grid)
         self.setGeometry(300, 300,  618,1000)
         self.setWindowTitle('Vritual Advisor') 
@@ -67,6 +66,7 @@ class Application(QWidget):
     def login(self):
         face = read_face()
         self.user = face_recognizer(face)
+        
         u=User()
         f = open("email.txt", "r")
         f1 = f.read().splitlines()
