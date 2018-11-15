@@ -87,7 +87,19 @@ class Discovery_Search:
         else:
             return 'Warning in discover_search:No user input.'
     def No_Intent(self,assistant_returned_info):
-        return "Please tell me something more or be more specific like: \nI would like to know who is teaching CSE5526\n"
+        '''
+        Method for handling unknown question. Do natural language query on all collections
+        :param assistant_returned_info: [intent(str),flag(bool),context(dict),response(str), input(str)]
+        :return: If can find result, return most related paragraph, else return warning message
+        '''
+        result=''
+        user_input = assistant_returned_info[4]
+        starting_message='I am trying to find some related information.'
+        search_result=self.discovery.process_natrual_language_query(assistant_returned_info[2].get('user_input'))
+        if search_result=='':
+            return starting_message+'It looks like there is no information related to your input.'
+        else:
+            return starting_message+'\n'+search_result
     
     def Instructor_Research_Interests(self,info):
         return "I recommend you shooting an email to ask the advisor or the professor directly. I was trying to gather those info when I was created but no professor replyed. Maybe because I am virtual?\n"
