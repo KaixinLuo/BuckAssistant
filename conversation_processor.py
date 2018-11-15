@@ -32,8 +32,8 @@ class Conversation_Processor:
                     if assistant_returned_info[0]!='General_Wrong_Question_Or_Stop':
                         assistant_returned_info[0] = self.saved_intent
                         result = result + self.module_pipeline.process(assistant_returned_info)
-                        self.long_conversation = False
-                        self.has_intent_saved = False
+                    self.long_conversation = False
+                    self.has_intent_saved = False
                 else:
                     returned_string=self.module_pipeline.process(assistant_returned_info)
                     if result=='' or returned_string!='No result':
