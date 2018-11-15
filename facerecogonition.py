@@ -33,9 +33,9 @@ class FaceRecognizer:
                     min_val = score
                     result = label
             
-        return result if min_val<0.4 else "unkonwn"
+        return result if min_val<0.4 else "Boy Next Door"
                 
-face_recognizer = FaceRecognizer("./Kaixin/",["KaixinLuo.jpg","ChenLiang.jpeg","HechenZhang.jpeg","boxwell.jpg","ZheLuan.jpg"],["luo.800","liang.1","zhang.77","boxwell.1","luan.44"])
+face_recognizer = FaceRecognizer("./Kaixin/",["KaixinLuo.jpg","ChenLiang.jpeg","HechenZhang.jpeg","boxwell.jpg","ZheLuan.jpeg"],["luo.800","liang.1","zhang.77","boxwell.1","luan.44"])
 
 
 

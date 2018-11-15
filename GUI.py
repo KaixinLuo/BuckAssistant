@@ -1,9 +1,10 @@
 import sys
-from facerecogonition import *
+
 from conversation_processor import *
 from modules.components.user import User
 from PyQt5.QtWidgets import QWidget, QPushButton, QApplication,QTextEdit,QGridLayout,QHBoxLayout
 from PyQt5.QtGui import QTextCursor,QFont
+import facerecogonition as fr
 
 
 class Application(QWidget):
@@ -25,13 +26,13 @@ class Application(QWidget):
         buttonLayout.addWidget(self.voiceButton)
         buttonLayout.addWidget(self.sendButton)
         self.textToSend = QTextEdit()
-        self.textToSend .setFont(QFont("Roman times",20,QFont.Bold))
+        self.textToSend.setFont(QFont("Roman times",20,QFont.Bold))
         #self.textToSend.setStyleSheet("color:red")
         self.msgArea = QTextEdit("Welcome! "+self.user+", this is virtual advisor!")
         #self.msgArea.setStyleSheet("color:red")
         self.msgArea .setFont(QFont("Roman times",20,QFont.Bold))
         self.grid = QGridLayout()
-        self.grid.setSpacing(10)
+        self.grid.setSpacing(1)
 
         self.grid.addWidget(self.msgArea,0,0)
         self.grid.addWidget(self.textToSend,1,0,6,1)
@@ -39,9 +40,9 @@ class Application(QWidget):
 
         self.msgArea.setReadOnly(True)
         self.sendButton.clicked.connect(self.send_button_pressed)
+        #self.sendButton.keyPressEvent(self.send_button_pressed)
         self.voiceButton.clicked.connect(self.voice_button_pressed)
         
-
         self.setLayout(self.grid)
         self.setGeometry(300, 300,  618,1000)
         self.setWindowTitle('Vritual Advisor') 
@@ -54,19 +55,23 @@ class Application(QWidget):
             self.msgArea.clear()
             self.isFristMsg = False
         
-        raw_text = self.textToSend.toPlainText()
+        raw_text = self.textToSend.toPlainText().rstrip('\n')
         if raw_text != "":
-            self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText()+"\n")
-            reply = self.conversationHandler.process_message(raw_text)
+            self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText().rstrip('\n')+"\n")
+            input_string = raw_text.replace('\n',' ')
+            reply = self.conversationHandler.process_message(input_string)
             self.msgArea.insertPlainText("Advisor:\n    "+reply+"\n")
         self.msgArea.moveCursor(QTextCursor.End)
 
         self.textToSend.clear()
     def voice_button_pressed(self):
         pass
+    def enter_button_pressed(self):
+        pass
     def login(self):
-        face = read_face()
-        self.user = face_recognizer(face)
+        face = fr.read_face()
+        self.user = fr.face_recognizer(face)
+        
         u=User()
         f = open("email.txt", "r")
         f1 = f.read().splitlines()
