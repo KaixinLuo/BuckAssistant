@@ -59,6 +59,8 @@ class Application(QWidget):
         if raw_text != "":
             self.msgArea.insertPlainText(self.user+":\n    "+self.textToSend.toPlainText().rstrip('\n')+"\n")
             input_string = raw_text.replace('\n',' ')
+            input_string = input_string.replace('\t', '    ')
+            input_string = input_string.replace('\r', '')
             reply = self.conversationHandler.process_message(input_string)
             self.msgArea.insertPlainText("Advisor:\n    "+reply+"\n")
         self.msgArea.moveCursor(QTextCursor.End)
