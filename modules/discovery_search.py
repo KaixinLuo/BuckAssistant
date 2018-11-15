@@ -24,6 +24,22 @@ class Discovery_Search:
             result.append('No result')
         return result
 
+    def No_Intent(self,assistant_returned_info):
+        '''
+        Method for handling unknown question. Do natural language query on all collections
+        :param assistant_returned_info: [intent(str),flag(bool),context(dict),response(str), input(str)]
+        :return: If can find result, return most related paragraph, else return warning message
+        '''
+        result=''
+        user_input = assistant_returned_info[4]
+        starting_message='I am trying to find some related information.'
+        search_result=self.discovery.process_natrual_language_query(assistant_returned_info[2].get('user_input'))
+        if search_result=='':
+            return starting_message+'It looks like there is no information related to your input.'
+        else:
+            return starting_message+'\n'+search_result
+
+
     def Concepts_Course_Is_About(self,assistant_returned_info):
         '''
         Search courses containing the concepts in user input

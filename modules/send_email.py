@@ -45,6 +45,7 @@ class Send_Email:
         else:
             print('Missing user input for questions while sending email.')
             return 'Missing user input for questions while sending email.'
+        #question = assistant_returned_info[4]
         student_name=self.user_object.name
         text=email.construct_email_appointment(professor_name,question,student_name)
         if 'email' in assistant_returned_info[2]:

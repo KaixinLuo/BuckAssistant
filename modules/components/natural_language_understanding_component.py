@@ -31,7 +31,8 @@ class Natural_Language_Understanding_Component:
         result=[]
         response=self.nlu.analyze(
             text=user_input,
-            features=Features(concepts=ConceptsOptions(limit=max_number_of_concepts))
+            features=Features(concepts=ConceptsOptions(limit=max_number_of_concepts)),
+            language = 'en'
         )
         if self.debug_mode:
             print(json.dumps(response, indent=2))

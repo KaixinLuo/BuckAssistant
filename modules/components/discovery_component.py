@@ -1,7 +1,7 @@
 from watson_developer_cloud import DiscoveryV1
 import json
 class Discovery_Component:
-    def __init__(self,debug_mode=False):
+    def __init__(self,debug_mode=False,query_word_limit=150):
         f = open("key.txt", "r")
         f1 = f.read().splitlines()
         self.debug_mode=debug_mode
@@ -12,9 +12,9 @@ class Discovery_Component:
             url=f1[8]
         )
         f.close()
+        self.query_word_limit=query_word_limit
         self.currentEnvironment = self.discovery.list_environments(name ='byod')['environments'][0]['environment_id']
         self.collectionIndex = {e["name"]:e["collection_id"] for e in self.discovery.list_collections(environment_id=self.currentEnvironment)["collections"]}
-        self.query_response = None
     def process_discovery_query(self,discovery_query):
         collection_id=self.collectionIndex.get("general_syllabus")
         response=self.discovery.query(environment_id=self.currentEnvironment, collection_id=collection_id, query=discovery_query)
@@ -32,14 +32,17 @@ class Discovery_Component:
 
     def process_natrual_language_query(self, natrual_language_query):
         result=''
-        for i in self.collectionIndex:
-            col_id=self.collectionIndex.get(i)
-            self.query_response=self.discovery.query(self.currentEnvironment, col_id, natural_language_query=natrual_language_query)
-            #pp.pprint(''.join())
-            #print(self.query_response.get('results'))
-            if self.query_response.get('results')==[]:
-                result=result+''
-            else:
-                stripped=self.query_response.get('results')[0].get('text').replace('\n','. ')
-                result=result+stripped
+        #for i in self.collectionIndex:
+        col_id=self.collectionIndex.get("general_syllabus")
+        query_response=self.discovery.query(self.currentEnvironment, col_id, natural_language_query=natrual_language_query)
+        #pp.pprint(''.join())
+        #print(self.query_response.get('results'))
+        #passages_characters
+        if query_response.get('results')==[]:
+            result=result+''
+        else:
+            stripped=query_response.get('results')[0].get('text').replace('\n','.')
+            if len(stripped)>self.query_word_limit:
+                stripped=stripped[:self.query_word_limit]
+            result=result+stripped
         return result
