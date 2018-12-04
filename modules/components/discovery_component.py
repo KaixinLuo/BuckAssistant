@@ -11,6 +11,15 @@ class Discovery_Component:
             password=f1[7],
             url=f1[8]
         )
+        self.discovery_c = DiscoveryV1(
+            version=f1[20],
+            username=f1[21],
+            password=f1[22],
+            url=f1[23]
+        )
+        self.collection_id = f1[24]
+        self.configuration_id = f1[25]
+        self.environment_id = f1[26]
         f.close()
         self.query_word_limit=query_word_limit
         self.currentEnvironment = self.discovery.list_environments(name ='byod')['environments'][0]['environment_id']

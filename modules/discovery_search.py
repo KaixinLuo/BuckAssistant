@@ -5,8 +5,23 @@ class Discovery_Search:
     acceptable_intents = [
         'Concepts_Course_Is_About',
         'Instructor_Research_Interests',
+        'Research_Interest_Instructor',
         'No_Intent'
     ]
+    allInterests = ['Natural language processing',
+                    'Machine learning',
+                    'Grid computing',
+                    'Data mining',
+                    'Artificial Intelligence',
+                    'Computer Graphics',
+                    'Computer Network',
+                    'Software Engineering',
+                    'Algorithm',
+                    'Computational Linguistic',
+                    'Computer Security',
+                    'Cryptography',
+                    'Database',
+                    'Graph']
     def __init__(self,debug_mode=False):
         self.debug_mode=debug_mode
         self.discovery=Discovery_Component(debug_mode)
@@ -86,5 +101,67 @@ class Discovery_Search:
             return '\n'+self.discovery.process_natrual_language_query(assistant_returned_info[2].get('user_input'))
         else:
             return 'Warning in discover_search:No user input.'
-    def Instructor_Research_Interests(self,info):
-        return "I recommend you shooting an email to ask the advisor or the professor directly. I was trying to gather those info when I was created but no professor replyed. Maybe because I am virtual?\n"
+    def Instructor_Research_Interests(self,assistant_returned_info):
+        # type 0: given interest, 1: given name
+        if 'name' in assistant_returned_info[2]:
+            name = assistant_returned_info[2].get('name')
+        else:
+            print(assistant_returned_info)
+            return 'Can you provide the name of the professor?'
+        query_w_name = 'extracted_metadata.filename:"' + name + '"'
+        query = ''
+        type=1
+        keyword = name + ".html"
+        query_w_name = 'extracted_metadata.filename:"' + keyword + '"'
+        return_fields = ['enriched_text.concepts.text']
+        query = query_w_name
+        my_query = self.discovery.discovery_c.query(environment_id=self.discovery.environment_id, collection_id=self.discovery.collection_id, query=query,
+                                   return_fields=return_fields)
+        # print(json.dumps(my_query, indent=2))
+        result = []
+        if my_query.get('matching_results')==0:
+            return 'Sorry, I cannot find results related to your query.'
+
+        print(my_query)
+        a = my_query["results"][0].get("enriched_text").get("concepts")
+        for x in a:
+            concept_text=x.get('text');
+            if concept_text.isdigit():
+                continue
+            result.append(concept_text)
+
+        if len(result)==0:
+            sentence='Sorry, I cannot find results related to your query.'
+        else:
+            sentence='Here are the results I found! '+name+' is interested in '
+        return sentence+(', '.join(result))
+    def Research_Interest_Instructor(self, assistant_returned_info):
+        # type 0: given interest, 1: given name
+        user_input = assistant_returned_info[4]
+        concepts=self.nlu.get_concepts(user_input, 3)  # max number of results returned is 3
+        if len(concepts)!=0:
+            keyword=concepts[0]
+        else:
+            return 'Can you rephrase your question and include some details of what concepts or topics you ' \
+                   'are looking for?'
+
+        query_w_interest = 'enriched_text.concepts.text:"' + keyword + '"'
+        return_fields = ['extracted_metadata.filename']
+        query = query_w_interest
+
+        my_query = self.discovery.discovery_c.query(environment_id=self.discovery.environment_id, collection_id=self.discovery.collection_id, query=query,
+                                   return_fields=return_fields)
+        # print(json.dumps(my_query, indent=2))
+        result = []
+        # my_query["results"][0].get("extracted_metadata").get("filename").strip(".html")
+        a = my_query["results"]
+        for x in a:
+            result.append(x.get('extracted_metadata').get('filename').strip(".html"))
+
+        if len(result)==0:
+            sentence='Sorry, I cannot find results related to your query.'
+        else:
+            sentence='Here are the results I found! '+keyword+' is interested in '
+        return sentence+(', '.join(result))
+
+        # return "I recommend you shooting an email to ask the advisor or the professor directly. I was trying to gather those info when I was created but no professor replyed. Maybe because I am virtual?\n"
